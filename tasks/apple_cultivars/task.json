@@ -1,0 +1,178 @@
+{
+  "id": "apple_cultivars",
+  "title": "Apple Cultivar Grid",
+  "instruction": "Identify every grid cell containing the requested apple cultivar.",
+  "cell_coordinates": "Rows are A-C and columns are 1-3, for example B2.",
+  "categories": [
+    {
+      "label": "Granny Smith",
+      "wikipedia_article": "Granny Smith",
+      "image_path": "assets/apple_cultivars/sources/granny-smith.jpg",
+      "image_sha256": "cbfb9ce76f32d936a9c923dbcaf659c4238710d8a77a7156c1aee762bbadd5d6",
+      "file_title": "File:Granny_smith_and_cross_section.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Granny_smith_and_cross_section.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Granny_smith_and_cross_section.jpg/960px-Granny_smith_and_cross_section.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Granny_smith_and_cross_section.jpg",
+      "mime": "image/jpeg",
+      "width": 1931,
+      "height": 1075,
+      "license_short_name": "GFDL 1.2",
+      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "artist": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+      "credit": "Own work"
+    },
+    {
+      "label": "Red Delicious",
+      "wikipedia_article": "Red Delicious",
+      "image_path": "assets/apple_cultivars/sources/red-delicious.jpg",
+      "image_sha256": "af65d3d443465985d68e29d1fa5d1eeff98c2770010a960397ff23b43ef66654",
+      "file_title": "File:Red_delicious_and_cross_section.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Red_delicious_and_cross_section.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Red_delicious_and_cross_section.jpg/960px-Red_delicious_and_cross_section.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Red_delicious_and_cross_section.jpg",
+      "mime": "image/jpeg",
+      "width": 2757,
+      "height": 1000,
+      "license_short_name": "GFDL 1.2",
+      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "artist": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+      "credit": "Own work"
+    },
+    {
+      "label": "Golden Delicious",
+      "wikipedia_article": "Golden Delicious",
+      "image_path": "assets/apple_cultivars/sources/golden-delicious.jpg",
+      "image_sha256": "709da1cd32457da8291ce493f2f02961e919f226f0460399a8f54d0feec94a63",
+      "file_title": "File:Golden_Delicious_apples.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious_apples.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Delicious_apples.jpg/960px-Golden_Delicious_apples.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Golden_Delicious_apples.jpg",
+      "mime": "image/jpeg",
+      "width": 6000,
+      "height": 4000,
+      "license_short_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Ivar Leidus",
+      "credit": "Own work"
+    },
+    {
+      "label": "Pink Lady",
+      "wikipedia_article": "Cripps Pink",
+      "image_path": "assets/apple_cultivars/sources/pink-lady.jpg",
+      "image_sha256": "ecafb23e6b36830f833e06f944851e7e1b09969e6a0f541bfbbad85c55c9fa83",
+      "file_title": "File:Pink_lady_and_cross_section.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pink_lady_and_cross_section.jpg/960px-Pink_lady_and_cross_section.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pink_lady_and_cross_section.jpg",
+      "mime": "image/jpeg",
+      "width": 2800,
+      "height": 950,
+      "license_short_name": "GFDL 1.2",
+      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "artist": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+      "credit": "Own work"
+    },
+    {
+      "label": "Gala",
+      "wikipedia_article": "Gala (apple)",
+      "image_path": "assets/apple_cultivars/sources/gala.jpg",
+      "image_sha256": "0e53e0cc9ce7384af4c7dfc87d073626e3fc53865f51035cc0eab20bc5dff69f",
+      "file_title": "File:Gala_apples_on_cloth.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gala_apples_on_cloth.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gala_apples_on_cloth.jpg/960px-Gala_apples_on_cloth.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gala_apples_on_cloth.jpg",
+      "mime": "image/jpeg",
+      "width": 4000,
+      "height": 3000,
+      "license_short_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nerd271",
+      "credit": "Own work"
+    },
+    {
+      "label": "Fuji",
+      "wikipedia_article": "Fuji (apple)",
+      "image_path": "assets/apple_cultivars/sources/fuji.jpg",
+      "image_sha256": "ad0297ce559a18ee8d87f22bed63178da6c0498bf048a128d1dd097df1f5ef26",
+      "file_title": "File:Apfel-Fuji.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Apfel-Fuji.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Apfel-Fuji.jpg/960px-Apfel-Fuji.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Apfel-Fuji.jpg",
+      "mime": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "license_short_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Superbass",
+      "credit": "Own work"
+    }
+  ],
+  "test_cases": [
+    {
+      "id": "case_01",
+      "grid_image": "assets/apple_cultivars/grids/case_01.jpg",
+      "prompt": "Which cells contain Granny Smith?",
+      "target_label": "Granny Smith",
+      "answer_cells": [
+        "A2",
+        "B1",
+        "C2"
+      ],
+      "cell_labels": {
+        "A1": "Red Delicious",
+        "A2": "Granny Smith",
+        "A3": "Golden Delicious",
+        "B1": "Granny Smith",
+        "B2": "Pink Lady",
+        "B3": "Gala",
+        "C1": "Fuji",
+        "C2": "Granny Smith",
+        "C3": "Golden Delicious"
+      }
+    },
+    {
+      "id": "case_02",
+      "grid_image": "assets/apple_cultivars/grids/case_02.jpg",
+      "prompt": "Which cells contain Pink Lady?",
+      "target_label": "Pink Lady",
+      "answer_cells": [
+        "B1",
+        "B3",
+        "C3"
+      ],
+      "cell_labels": {
+        "A1": "Golden Delicious",
+        "A2": "Gala",
+        "A3": "Fuji",
+        "B1": "Pink Lady",
+        "B2": "Red Delicious",
+        "B3": "Pink Lady",
+        "C1": "Granny Smith",
+        "C2": "Golden Delicious",
+        "C3": "Pink Lady"
+      }
+    },
+    {
+      "id": "case_03",
+      "grid_image": "assets/apple_cultivars/grids/case_03.jpg",
+      "prompt": "Which cells contain Fuji?",
+      "target_label": "Fuji",
+      "answer_cells": [
+        "A1",
+        "B2",
+        "C2"
+      ],
+      "cell_labels": {
+        "A1": "Fuji",
+        "A2": "Red Delicious",
+        "A3": "Pink Lady",
+        "B1": "Granny Smith",
+        "B2": "Fuji",
+        "B3": "Golden Delicious",
+        "C1": "Gala",
+        "C2": "Fuji",
+        "C3": "Red Delicious"
+      }
+    }
+  ]
+}

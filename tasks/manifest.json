@@ -1,0 +1,42 @@
+{
+  "name": "visual-prompting-grid-classification-tasks",
+  "created_utc": "2026-04-25T15:15:31+00:00",
+  "source": "Images are downloaded from Wikimedia Commons via Wikipedia page images. Per-image source pages, authors, licenses, and hashes are stored in each task JSON.",
+  "tasks": [
+    {
+      "id": "fish_species",
+      "title": "Fish Species Grid",
+      "task_file": "tasks/fish_species/task.json",
+      "test_case_count": 3,
+      "category_count": 6
+    },
+    {
+      "id": "apple_cultivars",
+      "title": "Apple Cultivar Grid",
+      "task_file": "tasks/apple_cultivars/task.json",
+      "test_case_count": 3,
+      "category_count": 6
+    },
+    {
+      "id": "tree_species",
+      "title": "Tree Species Grid",
+      "task_file": "tasks/tree_species/task.json",
+      "test_case_count": 3,
+      "category_count": 6
+    },
+    {
+      "id": "dog_breeds",
+      "title": "Dog Breed Grid",
+      "task_file": "tasks/dog_breeds/task.json",
+      "test_case_count": 3,
+      "category_count": 6
+    },
+    {
+      "id": "flower_species",
+      "title": "Flower Species Grid",
+      "task_file": "tasks/flower_species/task.json",
+      "test_case_count": 3,
+      "category_count": 6
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "tree_species",
+  "title": "Tree Species Grid",
+  "instruction": "Identify every grid cell containing the requested tree species.",
+  "cell_coordinates": "Rows are A-C and columns are 1-3, for example B2.",
+  "categories": [
+    {
+      "label": "English oak",
+      "wikipedia_article": "Quercus robur",
+      "image_path": "assets/tree_species/sources/english-oak.jpg",
+      "image_sha256": "f06c36597c5a742011fdaff31bc265b1111222254578aeb80067062e0afe9bbe",
+      "file_title": "File:Quercus_robur.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quercus_robur.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Quercus_robur.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Quercus_robur.jpg",
+      "mime": "image/jpeg",
+      "width": 701,
+      "height": 948,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "",
+      "credit": ""
+    },
+    {
+      "label": "Silver birch",
+      "wikipedia_article": "Betula pendula",
+      "image_path": "assets/tree_species/sources/silver-birch.jpg",
+      "image_sha256": "db8637c86c96bea8099655b5b9ecc68d4c8461363d697a6296e46a3d4b7c22ff",
+      "file_title": "File:Betula_pendula_Finland.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Betula_pendula_Finland.jpg/960px-Betula_pendula_Finland.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Betula_pendula_Finland.jpg",
+      "mime": "image/jpeg",
+      "width": 2272,
+      "height": 1704,
+      "license_short_name": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Percita at Flickr",
+      "credit": "Flickr"
+    },
+    {
+      "label": "Scots pine",
+      "wikipedia_article": "Pinus sylvestris",
+      "image_path": "assets/tree_species/sources/scots-pine.jpg",
+      "image_sha256": "07641ae65d5c12723819890b82b83b1cf47d97bef6f5a6f035d9c2dfa0695e4f",
+      "file_title": "File:Skuleskogen_pine.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Skuleskogen_pine.jpg/960px-Skuleskogen_pine.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Skuleskogen_pine.jpg",
+      "mime": "image/jpeg",
+      "width": 2592,
+      "height": 3888,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Micka\u00ebl Delcey ( Silverkey )",
+      "credit": "Own work"
+    },
+    {
+      "label": "White willow",
+      "wikipedia_article": "Salix alba",
+      "image_path": "assets/tree_species/sources/white-willow.jpg",
+      "image_sha256": "4c644beee3458fe8358022c7bd99c8828844ac4493cdc00a2519a016a71b1fd2",
+      "file_title": "File:Salix_alba_leaves.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Salix_alba_leaves.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Salix_alba_leaves.jpg/960px-Salix_alba_leaves.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Salix_alba_leaves.jpg",
+      "mime": "image/jpeg",
+      "width": 2592,
+      "height": 1944,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "MPF",
+      "credit": "Own work"
+    },
+    {
+      "label": "Japanese maple",
+      "wikipedia_article": "Acer palmatum",
+      "image_path": "assets/tree_species/sources/japanese-maple.jpg",
+      "image_sha256": "37afb3e1c89071c028d9d02011dc155576247d8175ba5245881563d6f8526001",
+      "file_title": "File:Acer_palmatum0.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Acer_palmatum0.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Acer_palmatum0.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Acer_palmatum0.jpg",
+      "mime": "image/jpeg",
+      "width": 640,
+      "height": 480,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Kurt St\u00fcber [1]",
+      "credit": "caliban.mpiz-koeln.mpg.de/mavica/index.html part of www.biolib.de"
+    },
+    {
+      "label": "African baobab",
+      "wikipedia_article": "Adansonia digitata",
+      "image_path": "assets/tree_species/sources/african-baobab.jpg",
+      "image_sha256": "afbc9bd97eb7f67116b29ef617ebc4feee8314ab6fd7ea07b7ff584042fe8d2a",
+      "file_title": "File:Baobab_and_elephant,_Tanzania.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Baobab_and_elephant%2C_Tanzania.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Baobab_and_elephant%2C_Tanzania.jpg/960px-Baobab_and_elephant%2C_Tanzania.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Baobab_and_elephant%2C_Tanzania.jpg",
+      "mime": "image/jpeg",
+      "width": 3072,
+      "height": 2048,
+      "license_short_name": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Ferdinand Reus from Arnhem, Holland",
+      "credit": "Two old ones"
+    }
+  ],
+  "test_cases": [
+    {
+      "id": "case_01",
+      "grid_image": "assets/tree_species/grids/case_01.jpg",
+      "prompt": "Which cells contain English oak?",
+      "target_label": "English oak",
+      "answer_cells": [
+        "A3",
+        "C1",
+        "C2"
+      ],
+      "cell_labels": {
+        "A1": "Scots pine",
+        "A2": "White willow",
+        "A3": "English oak",
+        "B1": "Japanese maple",
+        "B2": "Silver birch",
+        "B3": "African baobab",
+        "C1": "English oak",
+        "C2": "English oak",
+        "C3": "Scots pine"
+      }
+    },
+    {
+      "id": "case_02",
+      "grid_image": "assets/tree_species/grids/case_02.jpg",
+      "prompt": "Which cells contain White willow?",
+      "target_label": "White willow",
+      "answer_cells": [
+        "A2",
+        "B2",
+        "C3"
+      ],
+      "cell_labels": {
+        "A1": "Silver birch",
+        "A2": "White willow",
+        "A3": "Japanese maple",
+        "B1": "Scots pine",
+        "B2": "White willow",
+        "B3": "African baobab",
+        "C1": "English oak",
+        "C2": "Scots pine",
+        "C3": "White willow"
+      }
+    },
+    {
+      "id": "case_03",
+      "grid_image": "assets/tree_species/grids/case_03.jpg",
+      "prompt": "Which cells contain African baobab?",
+      "target_label": "African baobab",
+      "answer_cells": [
+        "A1",
+        "B3",
+        "C2"
+      ],
+      "cell_labels": {
+        "A1": "African baobab",
+        "A2": "English oak",
+        "A3": "Silver birch",
+        "B1": "Scots pine",
+        "B2": "Japanese maple",
+        "B3": "African baobab",
+        "C1": "White willow",
+        "C2": "African baobab",
+        "C3": "Silver birch"
+      }
+    }
+  ]
+}

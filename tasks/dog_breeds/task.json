@@ -1,0 +1,178 @@
+{
+  "id": "dog_breeds",
+  "title": "Dog Breed Grid",
+  "instruction": "Identify every grid cell containing the requested dog breed.",
+  "cell_coordinates": "Rows are A-C and columns are 1-3, for example B2.",
+  "categories": [
+    {
+      "label": "Golden Retriever",
+      "wikipedia_article": "Golden Retriever",
+      "image_path": "assets/dog_breeds/sources/golden-retriever.jpg",
+      "image_sha256": "74cd09d6d360041ff3763af1abcb0a809200a26f784e3baf81321c60b676eb31",
+      "file_title": "File:Golden_Retriever_Dukedestiny01_drvd.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Dukedestiny01_drvd.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg",
+      "mime": "image/jpeg",
+      "width": 652,
+      "height": 515,
+      "license_short_name": "Public domain",
+      "license_url": "",
+      "artist": "Dukedestiny01.jpg : \"Janneke Vreugdenhil\" derivative work: Anka Friedrich ([[User talk:Ankaaswe Trix Friedrich| talk ]])",
+      "credit": "Dukedestiny01.jpg"
+    },
+    {
+      "label": "Beagle",
+      "wikipedia_article": "Beagle",
+      "image_path": "assets/dog_breeds/sources/beagle.jpg",
+      "image_sha256": "c447c2792286bb69ba03793751076cc722afda0ba20f3348e97c926e7d25629c",
+      "file_title": "File:Beagle_600.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Beagle_600.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg",
+      "mime": "image/jpeg",
+      "width": 600,
+      "height": 480,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "",
+      "credit": ""
+    },
+    {
+      "label": "Pug",
+      "wikipedia_article": "Pug",
+      "image_path": "assets/dog_breeds/sources/pug.jpg",
+      "image_sha256": "987195ba6a7765971d316056058a77275175ba5842b346b4544971ec6ab466e2",
+      "file_title": "File:Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mops-duke-mopszucht-vom-maegdebrunnen.jpg/960px-Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
+      "mime": "image/jpeg",
+      "width": 1000,
+      "height": 665,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Xidrep",
+      "credit": "Own work"
+    },
+    {
+      "label": "Siberian Husky",
+      "wikipedia_article": "Siberian Husky",
+      "image_path": "assets/dog_breeds/sources/siberian-husky.jpg",
+      "image_sha256": "f9ea787499ed087303ad5f973bcfbff46e324ebb9e42274ae88ce930ccfbe548",
+      "file_title": "File:Husky_L.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Husky_L.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Husky_L.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Husky_L.jpg",
+      "mime": "image/jpeg",
+      "width": 800,
+      "height": 579,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "xJaM ( talk \u00b7 contribs )",
+      "credit": "Own work by the original uploader"
+    },
+    {
+      "label": "Border Collie",
+      "wikipedia_article": "Border Collie",
+      "image_path": "assets/dog_breeds/sources/border-collie.jpg",
+      "image_sha256": "524ec2078d6483b477bff1db0ef698e64e613f2f1326c691876cdac249666324",
+      "file_title": "File:Border_Collie_600.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Border_Collie_600.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Border_Collie_600.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Border_Collie_600.jpg",
+      "mime": "image/jpeg",
+      "width": 600,
+      "height": 491,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "",
+      "credit": ""
+    },
+    {
+      "label": "Dachshund",
+      "wikipedia_article": "Dachshund",
+      "image_path": "assets/dog_breeds/sources/dachshund.jpg",
+      "image_sha256": "38fc51a2d060e6766aa36ce6f9b2ab79a53e25493bf9f90c11b74cf404b1e139",
+      "file_title": "File:\ub2e5\uc2a4\ud6c8\ud2b8(\ub2e8\ubaa8\uc885)_(Dachshund_(Short)).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg/960px-%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
+      "mime": "image/jpeg",
+      "width": 1000,
+      "height": 741,
+      "license_short_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Katemil94",
+      "credit": "Own work"
+    }
+  ],
+  "test_cases": [
+    {
+      "id": "case_01",
+      "grid_image": "assets/dog_breeds/grids/case_01.jpg",
+      "prompt": "Which cells contain Golden Retriever?",
+      "target_label": "Golden Retriever",
+      "answer_cells": [
+        "A1",
+        "B3",
+        "C2"
+      ],
+      "cell_labels": {
+        "A1": "Golden Retriever",
+        "A2": "Pug",
+        "A3": "Beagle",
+        "B1": "Siberian Husky",
+        "B2": "Border Collie",
+        "B3": "Golden Retriever",
+        "C1": "Dachshund",
+        "C2": "Golden Retriever",
+        "C3": "Pug"
+      }
+    },
+    {
+      "id": "case_02",
+      "grid_image": "assets/dog_breeds/grids/case_02.jpg",
+      "prompt": "Which cells contain Siberian Husky?",
+      "target_label": "Siberian Husky",
+      "answer_cells": [
+        "A2",
+        "B3",
+        "C1"
+      ],
+      "cell_labels": {
+        "A1": "Border Collie",
+        "A2": "Siberian Husky",
+        "A3": "Dachshund",
+        "B1": "Beagle",
+        "B2": "Pug",
+        "B3": "Siberian Husky",
+        "C1": "Siberian Husky",
+        "C2": "Golden Retriever",
+        "C3": "Border Collie"
+      }
+    },
+    {
+      "id": "case_03",
+      "grid_image": "assets/dog_breeds/grids/case_03.jpg",
+      "prompt": "Which cells contain Dachshund?",
+      "target_label": "Dachshund",
+      "answer_cells": [
+        "A3",
+        "B1",
+        "C3"
+      ],
+      "cell_labels": {
+        "A1": "Beagle",
+        "A2": "Pug",
+        "A3": "Dachshund",
+        "B1": "Dachshund",
+        "B2": "Siberian Husky",
+        "B3": "Golden Retriever",
+        "C1": "Border Collie",
+        "C2": "Beagle",
+        "C3": "Dachshund"
+      }
+    }
+  ]
+}

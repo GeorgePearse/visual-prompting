@@ -1,0 +1,178 @@
+{
+  "id": "flower_species",
+  "title": "Flower Species Grid",
+  "instruction": "Identify every grid cell containing the requested flower species.",
+  "cell_coordinates": "Rows are A-C and columns are 1-3, for example B2.",
+  "categories": [
+    {
+      "label": "Sunflower",
+      "wikipedia_article": "Helianthus annuus",
+      "image_path": "assets/flower_species/sources/sunflower.jpg",
+      "image_sha256": "357b5ada29f2cd99ad5a85aeeebbc50dba62cc6cbdcd18b97acfd6e101df00ca",
+      "file_title": "File:Sunflower_sky_backdrop.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sunflower_sky_backdrop.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/960px-Sunflower_sky_backdrop.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg",
+      "mime": "image/jpeg",
+      "width": 1404,
+      "height": 1555,
+      "license_short_name": "GFDL 1.2",
+      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "artist": "Fir0002",
+      "credit": "Own work"
+    },
+    {
+      "label": "Tulip",
+      "wikipedia_article": "Tulip",
+      "image_path": "assets/flower_species/sources/tulip.jpg",
+      "image_sha256": "ae4bfff27bcc24a72bfa572ccf07a5121059dd524cfa6f6e70877f1303dee599",
+      "file_title": "File:\u05e6\u05d1\u05e2\u05d5\u05e0\u05d9\u05dd.JPG",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG/960px-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG",
+      "mime": "image/jpeg",
+      "width": 2816,
+      "height": 1932,
+      "license_short_name": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Dina L",
+      "credit": "Own work"
+    },
+    {
+      "label": "Rose",
+      "wikipedia_article": "Rose",
+      "image_path": "assets/flower_species/sources/rose.jpg",
+      "image_sha256": "d0fef9932d027f3e6cd9288a5f5db968b5db62e7bcfd059324d6577fba8476d5",
+      "file_title": "File:Rosa_rubiginosa_1.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rosa_rubiginosa_1.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_rubiginosa_1.jpg/960px-Rosa_rubiginosa_1.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rosa_rubiginosa_1.jpg",
+      "mime": "image/jpeg",
+      "width": 1800,
+      "height": 1671,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Stan Shebs",
+      "credit": "Own work"
+    },
+    {
+      "label": "Daffodil",
+      "wikipedia_article": "Narcissus (plant)",
+      "image_path": "assets/flower_species/sources/daffodil.jpg",
+      "image_sha256": "69a49108b8853674c9bbb5d43ba1f130a4932be44bbd87a0147cce8ce99e94c2",
+      "file_title": "File:Narcissus_poeticus_subsp._radiiflorus.1658.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Narcissus_poeticus_subsp._radiiflorus.1658.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Narcissus_poeticus_subsp._radiiflorus.1658.jpg/960px-Narcissus_poeticus_subsp._radiiflorus.1658.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Narcissus_poeticus_subsp._radiiflorus.1658.jpg",
+      "mime": "image/jpeg",
+      "width": 1704,
+      "height": 2272,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "",
+      "credit": ""
+    },
+    {
+      "label": "Common daisy",
+      "wikipedia_article": "Bellis perennis",
+      "image_path": "assets/flower_species/sources/common-daisy.jpg",
+      "image_sha256": "5ce5f8a35238ab85439be417793581f82e86e2e7b665d9716f433d8f1f93a32e",
+      "file_title": "File:Bellis_perennis_sl1.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_sl1.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bellis_perennis_sl1.jpg/960px-Bellis_perennis_sl1.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bellis_perennis_sl1.jpg",
+      "mime": "image/jpeg",
+      "width": 4128,
+      "height": 3096,
+      "license_short_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Stefan.lefnaer",
+      "credit": "Own work"
+    },
+    {
+      "label": "Moth orchid",
+      "wikipedia_article": "Phalaenopsis",
+      "image_path": "assets/flower_species/sources/moth-orchid.jpg",
+      "image_sha256": "c376a0930d70eec1bf491403000b8325beaf253d07d0982b6eff2d911feeddc1",
+      "file_title": "File:Phalaenopsis_philippinensis_NationalOrchidGarden-Singapore.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_philippinensis_NationalOrchidGarden-Singapore.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Phalaenopsis_philippinensis_NationalOrchidGarden-Singapore.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Phalaenopsis_philippinensis_NationalOrchidGarden-Singapore.jpg",
+      "mime": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "license_short_name": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "",
+      "credit": ""
+    }
+  ],
+  "test_cases": [
+    {
+      "id": "case_01",
+      "grid_image": "assets/flower_species/grids/case_01.jpg",
+      "prompt": "Which cells contain Sunflower?",
+      "target_label": "Sunflower",
+      "answer_cells": [
+        "A2",
+        "B2",
+        "C3"
+      ],
+      "cell_labels": {
+        "A1": "Common daisy",
+        "A2": "Sunflower",
+        "A3": "Tulip",
+        "B1": "Rose",
+        "B2": "Sunflower",
+        "B3": "Moth orchid",
+        "C1": "Daffodil",
+        "C2": "Common daisy",
+        "C3": "Sunflower"
+      }
+    },
+    {
+      "id": "case_02",
+      "grid_image": "assets/flower_species/grids/case_02.jpg",
+      "prompt": "Which cells contain Daffodil?",
+      "target_label": "Daffodil",
+      "answer_cells": [
+        "A1",
+        "B2",
+        "C2"
+      ],
+      "cell_labels": {
+        "A1": "Daffodil",
+        "A2": "Sunflower",
+        "A3": "Moth orchid",
+        "B1": "Tulip",
+        "B2": "Daffodil",
+        "B3": "Rose",
+        "C1": "Common daisy",
+        "C2": "Daffodil",
+        "C3": "Moth orchid"
+      }
+    },
+    {
+      "id": "case_03",
+      "grid_image": "assets/flower_species/grids/case_03.jpg",
+      "prompt": "Which cells contain Moth orchid?",
+      "target_label": "Moth orchid",
+      "answer_cells": [
+        "A2",
+        "C1",
+        "C3"
+      ],
+      "cell_labels": {
+        "A1": "Rose",
+        "A2": "Moth orchid",
+        "A3": "Common daisy",
+        "B1": "Sunflower",
+        "B2": "Tulip",
+        "B3": "Daffodil",
+        "C1": "Moth orchid",
+        "C2": "Rose",
+        "C3": "Moth orchid"
+      }
+    }
+  ]
+}
