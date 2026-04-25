@@ -49,6 +49,77 @@ author/artist, credit line, and SHA-256 hash of each downloaded image.
 These files preserve the downloaded images and attribution metadata, but any
 reuse should still follow the license shown for each individual image.
 
+## Gemini Visual Prompting
+
+`scripts/run_gemini_visual_prompting.py` builds a single scratchpad image that
+places the rendered reference grid next to the test image. This avoids sending
+the grid and test image as separate visual parts when you want Gemini to reason
+over the combined layout.
+
+Create a scratchpad without calling Gemini:
+
+```bash
+python3 scripts/run_gemini_visual_prompting.py \
+  --task dog_breeds \
+  --case case_01 \
+  --test-cell A1
+```
+
+Run Gemini on the same scratchpad:
+
+```bash
+export GEMINI_API_KEY=...
+python3 scripts/run_gemini_visual_prompting.py \
+  --task dog_breeds \
+  --case case_01 \
+  --test-cell A1 \
+  --run
+```
+
+Or use local Google ADC/gcloud credentials through Vertex AI:
+
+```bash
+python3 scripts/run_gemini_visual_prompting.py \
+  --task dog_breeds \
+  --case case_01 \
+  --test-cell A1 \
+  --run \
+  --vertex \
+  --project binit-244703 \
+  --location us-central1
+```
+
+Use `--test-image path/to/image.jpg` to place an arbitrary image next to the
+grid. The default model is `gemini-2.5-flash`; override it with `--model` or
+`GEMINI_MODEL`.
+
+### Gemini Results
+
+Run date: 2026-04-25. Model: `gemini-2.5-flash` through Vertex AI in
+`us-central1`. Each test used the first answer cell's source image as the
+right-side test image and asked Gemini to return all reference-grid cells with
+the same class.
+
+| Task | Case | Target | Test image | Expected cells | Gemini cells | Exact |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fish species | case_01 | Atlantic salmon | A1 | A1, B2, C3 | A1 | No |
+| Fish species | case_02 | Clownfish | A1 | A1, A3, C2 | A1, A3, C2 | Yes |
+| Fish species | case_03 | Rainbow trout | A2 | A2, B1, C3 | A2, B1, C3 | Yes |
+| Apple cultivars | case_01 | Granny Smith | A2 | A2, B1, C2 | A2, C2 | No |
+| Apple cultivars | case_02 | Pink Lady | B1 | B1, B3, C3 | B1, B3, C3 | Yes |
+| Apple cultivars | case_03 | Fuji | A1 | A1, B2, C2 | A1, B2, C2 | Yes |
+| Tree species | case_01 | English oak | A3 | A3, C1, C2 | A3, C1, C2 | Yes |
+| Tree species | case_02 | White willow | A2 | A2, B2, C3 | A2, B2, C3 | Yes |
+| Tree species | case_03 | African baobab | A1 | A1, B3, C2 | A1, B3, C2 | Yes |
+| Dog breeds | case_01 | Golden Retriever | A1 | A1, B3, C2 | A1, B3, C2 | Yes |
+| Dog breeds | case_02 | Siberian Husky | A2 | A2, B3, C1 | A2, B3, C1 | Yes |
+| Dog breeds | case_03 | Dachshund | A3 | A3, B1, C3 | A1, A3, B1, C2, C3 | No |
+| Flower species | case_01 | Sunflower | A2 | A2, B2, C3 | A2, B2, C3 | Yes |
+| Flower species | case_02 | Daffodil | A1 | A1, B2, C2 | A1, C2 | No |
+| Flower species | case_03 | Moth orchid | A2 | A2, C1, C3 | A2, C1, C3 | Yes |
+
+Overall exact-match accuracy: 11/15, or 73.3%.
+
 ## Related Work
 
 - [Visual Prompting via Image Inpainting](https://github.com/amirbar/visual_prompting)
