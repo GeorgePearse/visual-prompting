@@ -12,6 +12,7 @@ import time
 import urllib.parse
 import urllib.error
 import urllib.request
+from collections import Counter
 from pathlib import Path
 from typing import Any
 
@@ -29,6 +30,25 @@ GRID_BG = (245, 245, 242)
 LINE = (40, 40, 40)
 BADGE_BG = (255, 255, 255)
 BADGE_TEXT = (20, 20, 20)
+LABEL_BG = (255, 255, 255)
+SKIP_TITLE_WORDS = (
+    ".ogg",
+    ".svg",
+    "audio",
+    "book",
+    "distribution",
+    "diagram",
+    "drawing",
+    "fisheries",
+    "icon",
+    "manual",
+    "logo",
+    "map",
+    "painting",
+    "plate",
+    "range",
+    "scan",
+)
 
 
 TASKS: list[dict[str, Any]] = [
@@ -37,12 +57,12 @@ TASKS: list[dict[str, Any]] = [
         "title": "Fish Species Grid",
         "instruction": "Identify every grid cell containing the requested fish species.",
         "categories": [
-            {"label": "Atlantic salmon", "article": "Atlantic salmon"},
-            {"label": "Goldfish", "article": "Goldfish"},
-            {"label": "Common carp", "article": "Common carp"},
-            {"label": "Clownfish", "article": "Amphiprioninae"},
-            {"label": "Blue tang", "article": "Paracanthurus"},
-            {"label": "Rainbow trout", "article": "Rainbow trout"},
+            {"label": "Atlantic salmon", "article": "Atlantic salmon", "commons_category": "Salmo salar", "search": "Atlantic salmon fish"},
+            {"label": "Goldfish", "article": "Goldfish", "commons_category": "Goldfish", "search": "goldfish"},
+            {"label": "Common carp", "article": "Common carp", "commons_category": "Cyprinus carpio", "search": "common carp fish"},
+            {"label": "Clownfish", "article": "Amphiprioninae", "commons_category": "Amphiprion ocellaris", "search": "clownfish"},
+            {"label": "Blue tang", "article": "Paracanthurus", "commons_category": "Paracanthurus hepatus", "search": "blue tang fish"},
+            {"label": "Rainbow trout", "article": "Rainbow trout", "commons_category": "Oncorhynchus mykiss", "search": "rainbow trout fish"},
         ],
     },
     {
@@ -50,12 +70,12 @@ TASKS: list[dict[str, Any]] = [
         "title": "Apple Cultivar Grid",
         "instruction": "Identify every grid cell containing the requested apple cultivar.",
         "categories": [
-            {"label": "Granny Smith", "article": "Granny Smith"},
-            {"label": "Red Delicious", "article": "Red Delicious"},
-            {"label": "Golden Delicious", "article": "Golden Delicious"},
-            {"label": "Pink Lady", "article": "Cripps Pink"},
-            {"label": "Gala", "article": "Gala (apple)"},
-            {"label": "Fuji", "article": "Fuji (apple)"},
+            {"label": "Granny Smith", "article": "Granny Smith", "commons_category": "Granny Smith apples", "search": "Granny Smith apple"},
+            {"label": "Red Delicious", "article": "Red Delicious", "commons_category": "Red Delicious", "search": "Red Delicious apple"},
+            {"label": "Golden Delicious", "article": "Golden Delicious", "commons_category": "Golden Delicious", "search": "Golden Delicious apple"},
+            {"label": "Pink Lady", "article": "Cripps Pink", "commons_category": "Cripps Pink", "search": "Pink Lady apple"},
+            {"label": "Gala", "article": "Gala (apple)", "commons_category": "Gala (apple)", "search": "Gala apple cultivar"},
+            {"label": "Fuji", "article": "Fuji (apple)", "commons_category": "Fuji (apple)", "search": "Fuji apple cultivar"},
         ],
     },
     {
@@ -63,12 +83,12 @@ TASKS: list[dict[str, Any]] = [
         "title": "Tree Species Grid",
         "instruction": "Identify every grid cell containing the requested tree species.",
         "categories": [
-            {"label": "English oak", "article": "Quercus robur"},
-            {"label": "Silver birch", "article": "Betula pendula"},
-            {"label": "Scots pine", "article": "Pinus sylvestris"},
-            {"label": "White willow", "article": "Salix alba"},
-            {"label": "Japanese maple", "article": "Acer palmatum"},
-            {"label": "African baobab", "article": "Adansonia digitata"},
+            {"label": "English oak", "article": "Quercus robur", "commons_category": "Quercus robur", "search": "English oak tree"},
+            {"label": "Silver birch", "article": "Betula pendula", "commons_category": "Betula pendula", "search": "silver birch tree"},
+            {"label": "Scots pine", "article": "Pinus sylvestris", "commons_category": "Pinus sylvestris", "search": "Scots pine tree"},
+            {"label": "White willow", "article": "Salix alba", "commons_category": "Salix alba", "search": "white willow tree"},
+            {"label": "Japanese maple", "article": "Acer palmatum", "commons_category": "Acer palmatum", "search": "Japanese maple tree"},
+            {"label": "African baobab", "article": "Adansonia digitata", "commons_category": "Adansonia digitata", "search": "African baobab tree"},
         ],
     },
     {
@@ -76,12 +96,12 @@ TASKS: list[dict[str, Any]] = [
         "title": "Dog Breed Grid",
         "instruction": "Identify every grid cell containing the requested dog breed.",
         "categories": [
-            {"label": "Golden Retriever", "article": "Golden Retriever"},
-            {"label": "Beagle", "article": "Beagle"},
-            {"label": "Pug", "article": "Pug"},
-            {"label": "Siberian Husky", "article": "Siberian Husky"},
-            {"label": "Border Collie", "article": "Border Collie"},
-            {"label": "Dachshund", "article": "Dachshund"},
+            {"label": "Golden Retriever", "article": "Golden Retriever", "commons_category": "Golden Retriever", "search": "Golden Retriever dog"},
+            {"label": "Beagle", "article": "Beagle", "commons_category": "Beagles", "search": "Beagle dog"},
+            {"label": "Pug", "article": "Pug", "commons_category": "Pug", "search": "Pug dog"},
+            {"label": "Siberian Husky", "article": "Siberian Husky", "commons_category": "Siberian Husky", "search": "Siberian Husky dog"},
+            {"label": "Border Collie", "article": "Border Collie", "commons_category": "Border Collie", "search": "Border Collie dog"},
+            {"label": "Dachshund", "article": "Dachshund", "commons_category": "Dachshunds", "search": "Dachshund dog"},
         ],
     },
     {
@@ -89,12 +109,12 @@ TASKS: list[dict[str, Any]] = [
         "title": "Flower Species Grid",
         "instruction": "Identify every grid cell containing the requested flower species.",
         "categories": [
-            {"label": "Sunflower", "article": "Helianthus annuus"},
-            {"label": "Tulip", "article": "Tulip"},
-            {"label": "Rose", "article": "Rose"},
-            {"label": "Daffodil", "article": "Narcissus (plant)"},
-            {"label": "Common daisy", "article": "Bellis perennis"},
-            {"label": "Moth orchid", "article": "Phalaenopsis"},
+            {"label": "Sunflower", "article": "Helianthus annuus", "commons_category": "Helianthus annuus", "search": "sunflower Helianthus annuus"},
+            {"label": "Tulip", "article": "Tulip", "commons_category": "Tulips", "search": "tulip flower"},
+            {"label": "Rose", "article": "Rose", "commons_category": "Roses", "search": "rose flower"},
+            {"label": "Daffodil", "article": "Narcissus (plant)", "commons_category": "Narcissus", "search": "daffodil flower"},
+            {"label": "Common daisy", "article": "Bellis perennis", "commons_category": "Bellis perennis", "search": "Bellis perennis daisy"},
+            {"label": "Moth orchid", "article": "Phalaenopsis", "commons_category": "Phalaenopsis", "search": "Phalaenopsis moth orchid"},
         ],
     },
 ]
@@ -189,46 +209,26 @@ def fetch_with_retries(request: urllib.request.Request, timeout: int) -> bytes:
     raise RuntimeError(f"Failed after retries: {request.full_url}") from last_error
 
 
-def wikipedia_pageimage(article: str) -> str:
-    data = fetch_json(
-        "https://en.wikipedia.org/w/api.php",
-        {
-            "action": "query",
-            "format": "json",
-            "redirects": 1,
-            "titles": article,
-            "prop": "pageimages",
-            "piprop": "name",
-        },
-    )
-    pages = data["query"]["pages"].values()
-    page = next(iter(pages))
-    if "pageimage" not in page:
-        raise RuntimeError(f"No page image found for article: {article}")
-    return page["pageimage"]
-
-
-def commons_imageinfo(file_name: str) -> dict[str, Any]:
-    data = fetch_json(
-        "https://commons.wikimedia.org/w/api.php",
-        {
-            "action": "query",
-            "format": "json",
-            "titles": f"File:{file_name}",
-            "prop": "imageinfo",
-            "iiprop": "url|extmetadata|mime|size",
-            "iiurlwidth": 900,
-        },
-    )
-    page = next(iter(data["query"]["pages"].values()))
-    info = page["imageinfo"][0]
+def image_info_from_page(page: dict[str, Any]) -> dict[str, Any] | None:
+    imageinfos = page.get("imageinfo") or []
+    if not imageinfos:
+        return None
+    info = imageinfos[0]
+    mime = info.get("mime", "")
+    title = page["title"]
+    title_lower = title.lower()
+    if not mime.startswith("image/") or mime == "image/svg+xml":
+        return None
+    if any(word in title_lower for word in SKIP_TITLE_WORDS):
+        return None
     ext = info.get("extmetadata", {})
+    file_name = title.removeprefix("File:")
     return {
-        "file_title": f"File:{file_name}",
+        "file_title": title,
         "source_url": f"https://commons.wikimedia.org/wiki/File:{urllib.parse.quote(file_name.replace(' ', '_'))}",
         "download_url": info.get("thumburl") or info["url"],
         "original_url": info["url"],
-        "mime": info.get("mime", ""),
+        "mime": mime,
         "width": info.get("width"),
         "height": info.get("height"),
         "license_short_name": clean_text(ext.get("LicenseShortName", {}).get("value")),
@@ -236,6 +236,62 @@ def commons_imageinfo(file_name: str) -> dict[str, Any]:
         "artist": clean_text(ext.get("Artist", {}).get("value")),
         "credit": clean_text(ext.get("Credit", {}).get("value")),
     }
+
+
+def commons_category_imageinfos(category: str, limit: int = 80) -> list[dict[str, Any]]:
+    if not category:
+        return []
+    data = fetch_json(
+        "https://commons.wikimedia.org/w/api.php",
+        {
+            "action": "query",
+            "format": "json",
+            "generator": "categorymembers",
+            "gcmtitle": f"Category:{category}",
+            "gcmnamespace": 6,
+            "gcmtype": "file",
+            "gcmlimit": limit,
+            "prop": "imageinfo",
+            "iiprop": "url|extmetadata|mime|size",
+            "iiurlwidth": 500,
+        },
+    )
+    pages = data.get("query", {}).get("pages", {}).values()
+    return [info for page in sorted(pages, key=lambda p: p["title"]) if (info := image_info_from_page(page))]
+
+
+def commons_search_imageinfos(search: str, limit: int = 80) -> list[dict[str, Any]]:
+    data = fetch_json(
+        "https://commons.wikimedia.org/w/api.php",
+        {
+            "action": "query",
+            "format": "json",
+            "generator": "search",
+            "gsrsearch": f"{search} filetype:bitmap",
+            "gsrnamespace": 6,
+            "gsrlimit": limit,
+            "prop": "imageinfo",
+            "iiprop": "url|extmetadata|mime|size",
+            "iiurlwidth": 500,
+        },
+    )
+    pages = data.get("query", {}).get("pages", {}).values()
+    return [info for page in sorted(pages, key=lambda p: p.get("index", 9999)) if (info := image_info_from_page(page))]
+
+
+def collect_image_candidates(category: dict[str, Any]) -> list[dict[str, Any]]:
+    candidates: list[dict[str, Any]] = []
+    seen_titles: set[str] = set()
+    for source_candidates in (
+        commons_search_imageinfos(category["search"]),
+        commons_category_imageinfos(category.get("commons_category", "")),
+    ):
+        for info in source_candidates:
+            if info["file_title"] in seen_titles:
+                continue
+            seen_titles.add(info["file_title"])
+            candidates.append(info)
+    return candidates
 
 
 def source_extension(mime: str, url: str) -> str:
@@ -259,11 +315,44 @@ def load_font(size: int) -> ImageFont.ImageFont:
     return ImageFont.load_default()
 
 
+def clear_files(path: Path) -> None:
+    path.mkdir(parents=True, exist_ok=True)
+    for child in path.iterdir():
+        if child.is_file():
+            child.unlink()
+
+
+def text_width(draw: ImageDraw.ImageDraw, text: str, font: ImageFont.ImageFont) -> int:
+    bbox = draw.textbbox((0, 0), text, font=font)
+    return bbox[2] - bbox[0]
+
+
+def fit_label(draw: ImageDraw.ImageDraw, label: str, max_width: int) -> tuple[str, ImageFont.ImageFont]:
+    for size in (21, 19, 17, 15, 13):
+        font = load_font(size)
+        if text_width(draw, label, font) <= max_width:
+            return label, font
+
+    words = label.split()
+    if len(words) > 1:
+        midpoint = len(words) // 2
+        wrapped = " ".join(words[:midpoint]) + "\n" + " ".join(words[midpoint:])
+        for size in (17, 15, 13):
+            font = load_font(size)
+            if max(text_width(draw, line, font) for line in wrapped.splitlines()) <= max_width:
+                return wrapped, font
+
+    font = load_font(13)
+    trimmed = label
+    while len(trimmed) > 4 and text_width(draw, f"{trimmed}...", font) > max_width:
+        trimmed = trimmed[:-1]
+    return f"{trimmed}...", font
+
+
 def make_grid(
     task_slug: str,
     case_id: str,
-    placements: list[str],
-    image_paths: dict[str, str],
+    cells: list[dict[str, Any]],
 ) -> Path:
     out_dir = ASSET_ROOT / task_slug / "grids"
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -281,12 +370,13 @@ def make_grid(
         y = HEADER + GAP + row * (CELL + GAP) + CELL // 2
         draw.text((HEADER // 2, y), row_name, anchor="mm", fill=LINE, font=axis_font)
 
-    for index, label in enumerate(placements):
+    for index, cell in enumerate(cells):
+        label = cell["label"]
         row = index // 3
         col = index % 3
         x0 = HEADER + GAP + col * (CELL + GAP)
         y0 = HEADER + GAP + row * (CELL + GAP)
-        with Image.open(ROOT / image_paths[label]) as image:
+        with Image.open(ROOT / cell["image_path"]) as image:
             image = ImageOps.exif_transpose(image).convert("RGB")
             image.thumbnail((CELL, CELL), Image.Resampling.LANCZOS)
             tile = Image.new("RGB", (CELL, CELL), (230, 230, 226))
@@ -297,6 +387,20 @@ def make_grid(
         badge = [x0 + 8, y0 + 8, x0 + 52, y0 + 38]
         draw.rounded_rectangle(badge, radius=6, fill=BADGE_BG, outline=LINE, width=1)
         draw.text((x0 + 30, y0 + 23), coord, anchor="mm", fill=BADGE_TEXT, font=coord_font)
+        label_text, label_font = fit_label(draw, label, CELL - 16)
+        label_bbox = draw.multiline_textbbox((0, 0), label_text, font=label_font, spacing=2)
+        label_height = label_bbox[3] - label_bbox[1]
+        banner_y0 = y0 + CELL - label_height - 18
+        draw.rectangle([x0, banner_y0, x0 + CELL - 1, y0 + CELL - 1], fill=LABEL_BG, outline=LINE, width=1)
+        draw.multiline_text(
+            (x0 + CELL // 2, banner_y0 + 8),
+            label_text,
+            anchor="ma",
+            align="center",
+            fill=BADGE_TEXT,
+            font=label_font,
+            spacing=2,
+        )
 
     out_path = out_dir / f"{case_id}.jpg"
     canvas.save(out_path, quality=92)
@@ -307,51 +411,99 @@ def build() -> None:
     TASK_ROOT.mkdir(exist_ok=True)
     ASSET_ROOT.mkdir(exist_ok=True)
     manifest_tasks = []
+    used_file_titles: set[str] = set()
 
     for task in TASKS:
         task_slug = task["slug"]
         source_dir = ASSET_ROOT / task_slug / "sources"
+        grid_dir = ASSET_ROOT / task_slug / "grids"
         source_dir.mkdir(parents=True, exist_ok=True)
+        clear_files(grid_dir)
         task_dir = TASK_ROOT / task_slug
         task_dir.mkdir(parents=True, exist_ok=True)
 
-        categories = []
-        image_paths: dict[str, str] = {}
+        templates = PLACEMENT_TEMPLATES_BY_TASK.get(task_slug, PLACEMENT_TEMPLATES)
+        needed_by_index: Counter[int] = Counter()
+        for template in templates:
+            needed_by_index.update(template["placements"])
 
-        for category in task["categories"]:
+        categories = []
+        image_pools: dict[str, list[dict[str, Any]]] = {}
+        referenced_source_paths: set[Path] = set()
+
+        for category_index, category in enumerate(task["categories"]):
             label = category["label"]
-            page_image = wikipedia_pageimage(category["article"])
-            info = commons_imageinfo(page_image)
-            ext = source_extension(info["mime"], info["download_url"])
-            asset_path = source_dir / f"{slugify(label)}{ext}"
-            if asset_path.exists():
-                image_bytes = asset_path.read_bytes()
-            else:
-                image_bytes = fetch_bytes(info["download_url"])
-                asset_path.write_bytes(image_bytes)
-            digest = hashlib.sha256(image_bytes).hexdigest()
-            image_paths[label] = str(asset_path.relative_to(ROOT))
+            needed = needed_by_index[category_index]
+            selected_images = []
+            candidates = collect_image_candidates(category)
+            for info in candidates:
+                if len(selected_images) >= needed:
+                    break
+                if info["file_title"] in used_file_titles:
+                    continue
+                ext = source_extension(info["mime"], info["download_url"])
+                asset_path = source_dir / f"{slugify(label)}-{len(selected_images) + 1:02d}{ext}"
+                if asset_path.exists():
+                    image_bytes = asset_path.read_bytes()
+                else:
+                    try:
+                        image_bytes = fetch_bytes(info["download_url"])
+                    except Exception as error:
+                        print(f"Skipping failed image download for {task_slug}/{label}: {info['file_title']} ({error})")
+                        continue
+                    asset_path.write_bytes(image_bytes)
+                digest = hashlib.sha256(image_bytes).hexdigest()
+                referenced_source_paths.add(asset_path)
+                used_file_titles.add(info["file_title"])
+                selected_images.append(
+                    {
+                        "image_path": str(asset_path.relative_to(ROOT)),
+                        "image_sha256": digest,
+                        **info,
+                    }
+                )
+                time.sleep(1.0)
+            if len(selected_images) < needed:
+                raise RuntimeError(f"Only found {len(selected_images)} of {needed} images for {task_slug}/{label}")
+            image_pools[label] = selected_images.copy()
             categories.append(
                 {
                     "label": label,
                     "wikipedia_article": category["article"],
-                    "image_path": str(asset_path.relative_to(ROOT)),
-                    "image_sha256": digest,
-                    **info,
+                    "commons_category": category.get("commons_category", ""),
+                    "commons_search": category["search"],
+                    "image_count": len(selected_images),
+                    "images": selected_images,
                 }
             )
-            time.sleep(1.0)
 
         test_cases = []
-        for template in PLACEMENT_TEMPLATES_BY_TASK.get(task_slug, PLACEMENT_TEMPLATES):
+        used_in_task: set[str] = set()
+        for template in templates:
             labels = [task["categories"][idx]["label"] for idx in template["placements"]]
             target = task["categories"][template["target_index"]]["label"]
+            cells = []
+            for i, label in enumerate(labels):
+                image = image_pools[label].pop(0)
+                if image["file_title"] in used_in_task:
+                    raise RuntimeError(f"Repeated image in {task_slug}: {image['file_title']}")
+                used_in_task.add(image["file_title"])
+                cells.append(
+                    {
+                        "coordinate": f"{'ABC'[i // 3]}{i % 3 + 1}",
+                        "label": label,
+                        "image_path": image["image_path"],
+                        "image_sha256": image["image_sha256"],
+                        "file_title": image["file_title"],
+                        "source_url": image["source_url"],
+                    }
+                )
             answer_cells = [
                 f"{'ABC'[i // 3]}{i % 3 + 1}"
                 for i, label in enumerate(labels)
                 if label == target
             ]
-            grid_path = make_grid(task_slug, template["id"], labels, image_paths)
+            grid_path = make_grid(task_slug, template["id"], cells)
             test_cases.append(
                 {
                     "id": template["id"],
@@ -362,8 +514,13 @@ def build() -> None:
                     "cell_labels": {
                         f"{'ABC'[i // 3]}{i % 3 + 1}": label for i, label in enumerate(labels)
                     },
+                    "cell_images": {cell["coordinate"]: cell for cell in cells},
                 }
             )
+
+        for asset_path in source_dir.iterdir():
+            if asset_path.is_file() and asset_path not in referenced_source_paths:
+                asset_path.unlink()
 
         task_json = {
             "id": task_slug,
@@ -388,7 +545,7 @@ def build() -> None:
     manifest = {
         "name": "visual-prompting-grid-classification-tasks",
         "created_utc": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat(),
-        "source": "Images are downloaded from Wikimedia Commons via Wikipedia page images. Per-image source pages, authors, licenses, and hashes are stored in each task JSON.",
+        "source": "Images are downloaded from Wikimedia Commons category and search results. Per-image source pages, authors, licenses, and hashes are stored in each task JSON.",
         "tasks": manifest_tasks,
     }
     (TASK_ROOT / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")

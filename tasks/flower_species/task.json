@@ -7,104 +7,461 @@
     {
       "label": "Sunflower",
       "wikipedia_article": "Helianthus annuus",
-      "image_path": "assets/flower_species/sources/sunflower.jpg",
-      "image_sha256": "357b5ada29f2cd99ad5a85aeeebbc50dba62cc6cbdcd18b97acfd6e101df00ca",
-      "file_title": "File:Sunflower_sky_backdrop.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Sunflower_sky_backdrop.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/960px-Sunflower_sky_backdrop.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg",
-      "mime": "image/jpeg",
-      "width": 1404,
-      "height": 1555,
-      "license_short_name": "GFDL 1.2",
-      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
-      "artist": "Fir0002",
-      "credit": "Own work"
+      "commons_category": "Helianthus annuus",
+      "commons_search": "sunflower Helianthus annuus",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/flower_species/sources/sunflower-01.jpg",
+          "image_sha256": "8791b0db2ec96de55c09e201e9e068b05f2f6e0cee228e08c48bba18b8405647",
+          "file_title": "File:Eberndorf K\u00f6cking Sonnenblumenfeld Biohof Tomic 18072014 0792.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Eberndorf_K%C3%B6cking_Sonnenblumenfeld_Biohof_Tomic_18072014_0792.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eberndorf_K%C3%B6cking_Sonnenblumenfeld_Biohof_Tomic_18072014_0792.jpg/500px-Eberndorf_K%C3%B6cking_Sonnenblumenfeld_Biohof_Tomic_18072014_0792.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Eberndorf_K%C3%B6cking_Sonnenblumenfeld_Biohof_Tomic_18072014_0792.jpg",
+          "mime": "image/jpeg",
+          "width": 4928,
+          "height": 3280,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Johann Jaritz",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/sunflower-02.jpg",
+          "image_sha256": "14bc3d977b889637ea3b2e35f161384c35076bb664a18728f8fb331125f11ed4",
+          "file_title": "File:Sonnenblume Helianthus 1.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sonnenblume_Helianthus_1.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sonnenblume_Helianthus_1.JPG/500px-Sonnenblume_Helianthus_1.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sonnenblume_Helianthus_1.JPG",
+          "mime": "image/jpeg",
+          "width": 2460,
+          "height": 2460,
+          "license_short_name": "CC BY-SA 2.5",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+          "artist": "b\u00f6hringer friedrich",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/sunflower-03.jpg",
+          "image_sha256": "848607c751ea5ceeec298e01ed7512d742323289cc48ce54c6f9da00dfd7a869",
+          "file_title": "File:Helianthus annuus 00038.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_00038.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Helianthus_annuus_00038.jpg/500px-Helianthus_annuus_00038.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Helianthus_annuus_00038.jpg",
+          "mime": "image/jpeg",
+          "width": 4240,
+          "height": 2832,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Vengolis",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/sunflower-04.jpg",
+          "image_sha256": "0f007861228164d9eeef7c8136189501b6de7be5d2934faf597550b2f13d094e",
+          "file_title": "File:Helianthus annuus 9987.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_9987.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Helianthus_annuus_9987.jpg/500px-Helianthus_annuus_9987.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Helianthus_annuus_9987.jpg",
+          "mime": "image/jpeg",
+          "width": 4240,
+          "height": 2832,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Vengolis",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/sunflower-05.jpg",
+          "image_sha256": "5c559a5b5cd61bbc22d8bfb225a22b7ba1817e22a4d37d163ab920d949818d2c",
+          "file_title": "File:Helianthus annuus 9955.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_9955.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Helianthus_annuus_9955.jpg/500px-Helianthus_annuus_9955.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Helianthus_annuus_9955.jpg",
+          "mime": "image/jpeg",
+          "width": 6000,
+          "height": 4000,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Vengolis",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Tulip",
       "wikipedia_article": "Tulip",
-      "image_path": "assets/flower_species/sources/tulip.jpg",
-      "image_sha256": "ae4bfff27bcc24a72bfa572ccf07a5121059dd524cfa6f6e70877f1303dee599",
-      "file_title": "File:\u05e6\u05d1\u05e2\u05d5\u05e0\u05d9\u05dd.JPG",
-      "source_url": "https://commons.wikimedia.org/wiki/File:%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG/960px-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG",
-      "mime": "image/jpeg",
-      "width": 2816,
-      "height": 1932,
-      "license_short_name": "CC0",
-      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "artist": "Dina L",
-      "credit": "Own work"
+      "commons_category": "Tulips",
+      "commons_search": "tulip flower",
+      "image_count": 3,
+      "images": [
+        {
+          "image_path": "assets/flower_species/sources/tulip-01.jpg",
+          "image_sha256": "caef4c7e4845c08e5057d06be5ffd642ef8f24cecb52fd6d69ac012c3a26049f",
+          "file_title": "File:Red and white tulip at Myddelton House, Enfield, London.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg/500px-Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg",
+          "mime": "image/jpeg",
+          "width": 2400,
+          "height": 2400,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Acabashi",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/tulip-02.jpg",
+          "image_sha256": "3a51c992ce6b6552e4b007b3c9951336fba54ca8a831b1421b490f1e559f4a43",
+          "file_title": "File:Small yellow tulip.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Small_yellow_tulip.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Small_yellow_tulip.jpg/500px-Small_yellow_tulip.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Small_yellow_tulip.jpg",
+          "mime": "image/jpeg",
+          "width": 3968,
+          "height": 6300,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Mister rf",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/tulip-03.jpg",
+          "image_sha256": "6dea99268c0f1721129bb72533502b09164bcb5c6c95f57319bc5d81b23a9bd7",
+          "file_title": "File:01 Small red tulip.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:01_Small_red_tulip.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/01_Small_red_tulip.jpg/500px-01_Small_red_tulip.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/01_Small_red_tulip.jpg",
+          "mime": "image/jpeg",
+          "width": 3990,
+          "height": 6470,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Mister rf",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Rose",
       "wikipedia_article": "Rose",
-      "image_path": "assets/flower_species/sources/rose.jpg",
-      "image_sha256": "d0fef9932d027f3e6cd9288a5f5db968b5db62e7bcfd059324d6577fba8476d5",
-      "file_title": "File:Rosa_rubiginosa_1.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Rosa_rubiginosa_1.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_rubiginosa_1.jpg/960px-Rosa_rubiginosa_1.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rosa_rubiginosa_1.jpg",
-      "mime": "image/jpeg",
-      "width": 1800,
-      "height": 1671,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Stan Shebs",
-      "credit": "Own work"
+      "commons_category": "Roses",
+      "commons_search": "rose flower",
+      "image_count": 4,
+      "images": [
+        {
+          "image_path": "assets/flower_species/sources/rose-01.jpg",
+          "image_sha256": "5858f186f59bbd2220e6f8b07d7ab679fd2f94123516add4f2dec21c3135cb6c",
+          "file_title": "File:Comestible rose in the Laquenexy orchard garden, Moselle, France (01).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg/500px-Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg",
+          "mime": "image/jpeg",
+          "width": 5169,
+          "height": 3420,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "M0tty",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/rose-02.jpg",
+          "image_sha256": "da6cdcc67d947a1c6e6df88d234bd4a0ec89a3b87b46f9f7468d493cd512b68f",
+          "file_title": "File:Red rose with black background.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Red_rose_with_black_background.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Red_rose_with_black_background.jpg/500px-Red_rose_with_black_background.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Red_rose_with_black_background.jpg",
+          "mime": "image/jpeg",
+          "width": 3077,
+          "height": 2365,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Laitche",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/rose-03.jpg",
+          "image_sha256": "03302cf96dfc33bdbeaa73c99b61dc3472a4978fcfe4770d5ae0415fd4720754",
+          "file_title": "File:Englische Rose -The Squire- Raureif-20201107-RM-091853.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Englische_Rose_-The_Squire-_Raureif-20201107-RM-091853.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Englische_Rose_-The_Squire-_Raureif-20201107-RM-091853.jpg/500px-Englische_Rose_-The_Squire-_Raureif-20201107-RM-091853.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Englische_Rose_-The_Squire-_Raureif-20201107-RM-091853.jpg",
+          "mime": "image/jpeg",
+          "width": 5182,
+          "height": 3886,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Ermell",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/rose-04.jpg",
+          "image_sha256": "761b83fe22aadf416a6fda6ae1ba7c2e67bf4f1460cf92cd1516de2d33ff29cb",
+          "file_title": "File:Englische Rose The Reeve Tropfen -RM-20190821-01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Englische_Rose_The_Reeve_Tropfen_-RM-20190821-01.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Englische_Rose_The_Reeve_Tropfen_-RM-20190821-01.jpg/500px-Englische_Rose_The_Reeve_Tropfen_-RM-20190821-01.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Englische_Rose_The_Reeve_Tropfen_-RM-20190821-01.jpg",
+          "mime": "image/jpeg",
+          "width": 3837,
+          "height": 4708,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Ermell",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Daffodil",
       "wikipedia_article": "Narcissus (plant)",
-      "image_path": "assets/flower_species/sources/daffodil.jpg",
-      "image_sha256": "69a49108b8853674c9bbb5d43ba1f130a4932be44bbd87a0147cce8ce99e94c2",
-      "file_title": "File:Narcissus_poeticus_subsp._radiiflorus.1658.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Narcissus_poeticus_subsp._radiiflorus.1658.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Narcissus_poeticus_subsp._radiiflorus.1658.jpg/960px-Narcissus_poeticus_subsp._radiiflorus.1658.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Narcissus_poeticus_subsp._radiiflorus.1658.jpg",
-      "mime": "image/jpeg",
-      "width": 1704,
-      "height": 2272,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "",
-      "credit": ""
+      "commons_category": "Narcissus",
+      "commons_search": "daffodil flower",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/flower_species/sources/daffodil-01.jpg",
+          "image_sha256": "156c2b06504ccc271bffb9124ed1ebf18282220d0386d8a52c7e8a15dfe0d09a",
+          "file_title": "File:Daffodil International University Flower in Asulia Campus.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Daffodil_International_University_Flower_in_Asulia_Campus.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Daffodil_International_University_Flower_in_Asulia_Campus.JPG/500px-Daffodil_International_University_Flower_in_Asulia_Campus.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Daffodil_International_University_Flower_in_Asulia_Campus.JPG",
+          "mime": "image/jpeg",
+          "width": 6016,
+          "height": 4000,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Arif98741",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/daffodil-02.jpg",
+          "image_sha256": "667ad9907c51aaf6a0bb8b6199774cb94c09f928cdc99d533c793bd040f591d2",
+          "file_title": "File:Daffodil flower in section.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Daffodil_flower_in_section.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Daffodil_flower_in_section.jpg/500px-Daffodil_flower_in_section.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Daffodil_flower_in_section.jpg",
+          "mime": "image/jpeg",
+          "width": 1461,
+          "height": 1036,
+          "license_short_name": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "artist": "\u00c1ngel M. Felic\u00edsimo from M\u00e9rida, Espa\u00f1a",
+          "credit": "Narciso"
+        },
+        {
+          "image_path": "assets/flower_species/sources/daffodil-03.jpg",
+          "image_sha256": "ff2b10c7218852ea59ca165ae2ecb5191c5a48276eba82938df27abc989fda39",
+          "file_title": "File:Pancratium maritimum - Sea Daffodil 12.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pancratium_maritimum_-_Sea_Daffodil_12.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pancratium_maritimum_-_Sea_Daffodil_12.jpg/500px-Pancratium_maritimum_-_Sea_Daffodil_12.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Pancratium_maritimum_-_Sea_Daffodil_12.jpg",
+          "mime": "image/jpeg",
+          "width": 4250,
+          "height": 2833,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Zeynel Cebeci",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/daffodil-04.jpg",
+          "image_sha256": "7a1cd5731a0829f8a0bb9693cfcb894aa19910cf9bf2ae7945e46ec1a663cea1",
+          "file_title": "File:Daffodil (Narcissus) flower - geograph.org.uk - 4395629.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Daffodil_%28Narcissus%29_flower_-_geograph.org.uk_-_4395629.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Daffodil_%28Narcissus%29_flower_-_geograph.org.uk_-_4395629.jpg/500px-Daffodil_%28Narcissus%29_flower_-_geograph.org.uk_-_4395629.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Daffodil_%28Narcissus%29_flower_-_geograph.org.uk_-_4395629.jpg",
+          "mime": "image/jpeg",
+          "width": 640,
+          "height": 585,
+          "license_short_name": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "artist": "Evelyn Simak",
+          "credit": "Geograph Britain and Ireland"
+        },
+        {
+          "image_path": "assets/flower_species/sources/daffodil-05.jpg",
+          "image_sha256": "591dc36b79ddbf666efd0244bf54a55ed91941c1ba3a753be7f3098f3a2d5368",
+          "file_title": "File:Daffodil (Narcissus) flower - geograph.org.uk - 4395626.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Daffodil_%28Narcissus%29_flower_-_geograph.org.uk_-_4395626.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daffodil_%28Narcissus%29_flower_-_geograph.org.uk_-_4395626.jpg/500px-Daffodil_%28Narcissus%29_flower_-_geograph.org.uk_-_4395626.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Daffodil_%28Narcissus%29_flower_-_geograph.org.uk_-_4395626.jpg",
+          "mime": "image/jpeg",
+          "width": 640,
+          "height": 565,
+          "license_short_name": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "artist": "Evelyn Simak",
+          "credit": "Geograph Britain and Ireland"
+        }
+      ]
     },
     {
       "label": "Common daisy",
       "wikipedia_article": "Bellis perennis",
-      "image_path": "assets/flower_species/sources/common-daisy.jpg",
-      "image_sha256": "5ce5f8a35238ab85439be417793581f82e86e2e7b665d9716f433d8f1f93a32e",
-      "file_title": "File:Bellis_perennis_sl1.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_sl1.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bellis_perennis_sl1.jpg/960px-Bellis_perennis_sl1.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bellis_perennis_sl1.jpg",
-      "mime": "image/jpeg",
-      "width": 4128,
-      "height": 3096,
-      "license_short_name": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Stefan.lefnaer",
-      "credit": "Own work"
+      "commons_category": "Bellis perennis",
+      "commons_search": "Bellis perennis daisy",
+      "image_count": 4,
+      "images": [
+        {
+          "image_path": "assets/flower_species/sources/common-daisy-01.jpg",
+          "image_sha256": "38e7ae06dca977783577539c48ec51ddb79cee98d0ca13cbfbb3ac559974c353",
+          "file_title": "File:Bellis perennis full plant.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_full_plant.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bellis_perennis_full_plant.jpg/500px-Bellis_perennis_full_plant.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bellis_perennis_full_plant.jpg",
+          "mime": "image/jpeg",
+          "width": 4752,
+          "height": 3168,
+          "license_short_name": "CC BY-SA 3.0 de",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+          "artist": "Grand-Duc",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/common-daisy-02.jpg",
+          "image_sha256": "f0d3bcb3dacb7c0460f7cd8664ea29d7e35a632018ac5d2fc0fc4b24fea4fa35",
+          "file_title": "File:20200325 Bellis perennis 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:20200325_Bellis_perennis_01.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20200325_Bellis_perennis_01.jpg/500px-20200325_Bellis_perennis_01.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/20200325_Bellis_perennis_01.jpg",
+          "mime": "image/jpeg",
+          "width": 6016,
+          "height": 4016,
+          "license_short_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "artist": "Flocci Nivis",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/common-daisy-03.jpg",
+          "image_sha256": "feaa8a00e74726f94a7649bd349adf0a2d37a9159c423d58bb75f0889360ca49",
+          "file_title": "File:Bellis perennis single Macro.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_single_Macro.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bellis_perennis_single_Macro.jpg/500px-Bellis_perennis_single_Macro.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bellis_perennis_single_Macro.jpg",
+          "mime": "image/jpeg",
+          "width": 3000,
+          "height": 2000,
+          "license_short_name": "CC BY-SA 3.0 de",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+          "artist": "Grand-Duc",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/common-daisy-04.jpg",
+          "image_sha256": "c57cff2116b19ab2563c742b1262ad92e63f3606f802f531576fe0e1d8594d7d",
+          "file_title": "File:20200325 Bellis perennis 02.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:20200325_Bellis_perennis_02.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/20200325_Bellis_perennis_02.jpg/500px-20200325_Bellis_perennis_02.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/20200325_Bellis_perennis_02.jpg",
+          "mime": "image/jpeg",
+          "width": 5277,
+          "height": 3523,
+          "license_short_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "artist": "Flocci Nivis",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Moth orchid",
       "wikipedia_article": "Phalaenopsis",
-      "image_path": "assets/flower_species/sources/moth-orchid.jpg",
-      "image_sha256": "c376a0930d70eec1bf491403000b8325beaf253d07d0982b6eff2d911feeddc1",
-      "file_title": "File:Phalaenopsis_philippinensis_NationalOrchidGarden-Singapore.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_philippinensis_NationalOrchidGarden-Singapore.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Phalaenopsis_philippinensis_NationalOrchidGarden-Singapore.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Phalaenopsis_philippinensis_NationalOrchidGarden-Singapore.jpg",
-      "mime": "image/jpeg",
-      "width": 800,
-      "height": 600,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "",
-      "credit": ""
+      "commons_category": "Phalaenopsis",
+      "commons_search": "Phalaenopsis moth orchid",
+      "image_count": 6,
+      "images": [
+        {
+          "image_path": "assets/flower_species/sources/moth-orchid-01.jpg",
+          "image_sha256": "3f2c35962b5a3541d0fbb3e6cb9c0c784ad05c6d75b1ea9cc3c9f3767a8b1b3a",
+          "file_title": "File:Phalaenopsis Cultivar White 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_Cultivar_White_01.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Phalaenopsis_Cultivar_White_01.jpg/500px-Phalaenopsis_Cultivar_White_01.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Phalaenopsis_Cultivar_White_01.jpg",
+          "mime": "image/jpeg",
+          "width": 6000,
+          "height": 4000,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Uoaei1",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/moth-orchid-02.jpg",
+          "image_sha256": "20e6159921e7dc5ef3eee558e8fca319cf507ec6aaf96c055d3769802ddeca0d",
+          "file_title": "File:Phalaenopsis Cultivar Mini 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_Cultivar_Mini_01.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Phalaenopsis_Cultivar_Mini_01.jpg/500px-Phalaenopsis_Cultivar_Mini_01.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Phalaenopsis_Cultivar_Mini_01.jpg",
+          "mime": "image/jpeg",
+          "width": 5973,
+          "height": 3973,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Uoaei1",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/moth-orchid-03.jpg",
+          "image_sha256": "dbe58f14338aab7614245c8c8c0623e515a67e3fd4221ff9aa43c7f18b78ea06",
+          "file_title": "File:Phalaenopsis Cultivar Yellow 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_Cultivar_Yellow_01.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Phalaenopsis_Cultivar_Yellow_01.jpg/500px-Phalaenopsis_Cultivar_Yellow_01.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Phalaenopsis_Cultivar_Yellow_01.jpg",
+          "mime": "image/jpeg",
+          "width": 6450,
+          "height": 4300,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Uoaei1",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/moth-orchid-04.jpg",
+          "image_sha256": "673274c6d015a04420557f819a6526de5e91b74c42d078d97c69883a130067af",
+          "file_title": "File:Phalaenopsis (aka).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_%28aka%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Phalaenopsis_%28aka%29.jpg/500px-Phalaenopsis_%28aka%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Phalaenopsis_%28aka%29.jpg",
+          "mime": "image/jpeg",
+          "width": 1500,
+          "height": 1339,
+          "license_short_name": "CC BY-SA 2.5",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+          "artist": "Andr\u00e9 Karwath aka Aka",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/moth-orchid-05.jpg",
+          "image_sha256": "02b25e7231dd7279fdd52e7d25b35e13419a67b0d18d9a15910b061a551b93e8",
+          "file_title": "File:Orchidee (phalaenopsis) (actm) 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Orchidee_%28phalaenopsis%29_%28actm%29_01.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Orchidee_%28phalaenopsis%29_%28actm%29_01.jpg/500px-Orchidee_%28phalaenopsis%29_%28actm%29_01.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Orchidee_%28phalaenopsis%29_%28actm%29_01.jpg",
+          "mime": "image/jpeg",
+          "width": 2647,
+          "height": 3215,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Agnes Monkelbaan",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/flower_species/sources/moth-orchid-06.jpg",
+          "image_sha256": "acc5432fdc0420b5e35995a3627d33cb5852937c6a48bb280474225cfd4b2577",
+          "file_title": "File:Orchidee (phalaenopsis) (actm) 04.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Orchidee_%28phalaenopsis%29_%28actm%29_04.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Orchidee_%28phalaenopsis%29_%28actm%29_04.jpg/500px-Orchidee_%28phalaenopsis%29_%28actm%29_04.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Orchidee_%28phalaenopsis%29_%28actm%29_04.jpg",
+          "mime": "image/jpeg",
+          "width": 3544,
+          "height": 2720,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Agnes Monkelbaan",
+          "credit": "Own work"
+        }
+      ]
     }
   ],
   "test_cases": [
@@ -128,6 +485,80 @@
         "C1": "Daffodil",
         "C2": "Common daisy",
         "C3": "Sunflower"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Common daisy",
+          "image_path": "assets/flower_species/sources/common-daisy-01.jpg",
+          "image_sha256": "38e7ae06dca977783577539c48ec51ddb79cee98d0ca13cbfbb3ac559974c353",
+          "file_title": "File:Bellis perennis full plant.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_full_plant.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Sunflower",
+          "image_path": "assets/flower_species/sources/sunflower-01.jpg",
+          "image_sha256": "8791b0db2ec96de55c09e201e9e068b05f2f6e0cee228e08c48bba18b8405647",
+          "file_title": "File:Eberndorf K\u00f6cking Sonnenblumenfeld Biohof Tomic 18072014 0792.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Eberndorf_K%C3%B6cking_Sonnenblumenfeld_Biohof_Tomic_18072014_0792.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Tulip",
+          "image_path": "assets/flower_species/sources/tulip-01.jpg",
+          "image_sha256": "caef4c7e4845c08e5057d06be5ffd642ef8f24cecb52fd6d69ac012c3a26049f",
+          "file_title": "File:Red and white tulip at Myddelton House, Enfield, London.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Rose",
+          "image_path": "assets/flower_species/sources/rose-01.jpg",
+          "image_sha256": "5858f186f59bbd2220e6f8b07d7ab679fd2f94123516add4f2dec21c3135cb6c",
+          "file_title": "File:Comestible rose in the Laquenexy orchard garden, Moselle, France (01).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Sunflower",
+          "image_path": "assets/flower_species/sources/sunflower-02.jpg",
+          "image_sha256": "14bc3d977b889637ea3b2e35f161384c35076bb664a18728f8fb331125f11ed4",
+          "file_title": "File:Sonnenblume Helianthus 1.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sonnenblume_Helianthus_1.JPG"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Moth orchid",
+          "image_path": "assets/flower_species/sources/moth-orchid-01.jpg",
+          "image_sha256": "3f2c35962b5a3541d0fbb3e6cb9c0c784ad05c6d75b1ea9cc3c9f3767a8b1b3a",
+          "file_title": "File:Phalaenopsis Cultivar White 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_Cultivar_White_01.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Daffodil",
+          "image_path": "assets/flower_species/sources/daffodil-01.jpg",
+          "image_sha256": "156c2b06504ccc271bffb9124ed1ebf18282220d0386d8a52c7e8a15dfe0d09a",
+          "file_title": "File:Daffodil International University Flower in Asulia Campus.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Daffodil_International_University_Flower_in_Asulia_Campus.JPG"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Common daisy",
+          "image_path": "assets/flower_species/sources/common-daisy-02.jpg",
+          "image_sha256": "f0d3bcb3dacb7c0460f7cd8664ea29d7e35a632018ac5d2fc0fc4b24fea4fa35",
+          "file_title": "File:20200325 Bellis perennis 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:20200325_Bellis_perennis_01.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Sunflower",
+          "image_path": "assets/flower_species/sources/sunflower-03.jpg",
+          "image_sha256": "848607c751ea5ceeec298e01ed7512d742323289cc48ce54c6f9da00dfd7a869",
+          "file_title": "File:Helianthus annuus 00038.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_00038.jpg"
+        }
       }
     },
     {
@@ -150,6 +581,80 @@
         "C1": "Common daisy",
         "C2": "Daffodil",
         "C3": "Moth orchid"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Daffodil",
+          "image_path": "assets/flower_species/sources/daffodil-02.jpg",
+          "image_sha256": "667ad9907c51aaf6a0bb8b6199774cb94c09f928cdc99d533c793bd040f591d2",
+          "file_title": "File:Daffodil flower in section.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Daffodil_flower_in_section.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Sunflower",
+          "image_path": "assets/flower_species/sources/sunflower-04.jpg",
+          "image_sha256": "0f007861228164d9eeef7c8136189501b6de7be5d2934faf597550b2f13d094e",
+          "file_title": "File:Helianthus annuus 9987.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_9987.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Moth orchid",
+          "image_path": "assets/flower_species/sources/moth-orchid-02.jpg",
+          "image_sha256": "20e6159921e7dc5ef3eee558e8fca319cf507ec6aaf96c055d3769802ddeca0d",
+          "file_title": "File:Phalaenopsis Cultivar Mini 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_Cultivar_Mini_01.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Tulip",
+          "image_path": "assets/flower_species/sources/tulip-02.jpg",
+          "image_sha256": "3a51c992ce6b6552e4b007b3c9951336fba54ca8a831b1421b490f1e559f4a43",
+          "file_title": "File:Small yellow tulip.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Small_yellow_tulip.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Daffodil",
+          "image_path": "assets/flower_species/sources/daffodil-03.jpg",
+          "image_sha256": "ff2b10c7218852ea59ca165ae2ecb5191c5a48276eba82938df27abc989fda39",
+          "file_title": "File:Pancratium maritimum - Sea Daffodil 12.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pancratium_maritimum_-_Sea_Daffodil_12.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Rose",
+          "image_path": "assets/flower_species/sources/rose-02.jpg",
+          "image_sha256": "da6cdcc67d947a1c6e6df88d234bd4a0ec89a3b87b46f9f7468d493cd512b68f",
+          "file_title": "File:Red rose with black background.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Red_rose_with_black_background.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Common daisy",
+          "image_path": "assets/flower_species/sources/common-daisy-03.jpg",
+          "image_sha256": "feaa8a00e74726f94a7649bd349adf0a2d37a9159c423d58bb75f0889360ca49",
+          "file_title": "File:Bellis perennis single Macro.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_single_Macro.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Daffodil",
+          "image_path": "assets/flower_species/sources/daffodil-04.jpg",
+          "image_sha256": "7a1cd5731a0829f8a0bb9693cfcb894aa19910cf9bf2ae7945e46ec1a663cea1",
+          "file_title": "File:Daffodil (Narcissus) flower - geograph.org.uk - 4395629.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Daffodil_%28Narcissus%29_flower_-_geograph.org.uk_-_4395629.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Moth orchid",
+          "image_path": "assets/flower_species/sources/moth-orchid-03.jpg",
+          "image_sha256": "dbe58f14338aab7614245c8c8c0623e515a67e3fd4221ff9aa43c7f18b78ea06",
+          "file_title": "File:Phalaenopsis Cultivar Yellow 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_Cultivar_Yellow_01.jpg"
+        }
       }
     },
     {
@@ -172,6 +677,80 @@
         "C1": "Moth orchid",
         "C2": "Rose",
         "C3": "Moth orchid"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Rose",
+          "image_path": "assets/flower_species/sources/rose-03.jpg",
+          "image_sha256": "03302cf96dfc33bdbeaa73c99b61dc3472a4978fcfe4770d5ae0415fd4720754",
+          "file_title": "File:Englische Rose -The Squire- Raureif-20201107-RM-091853.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Englische_Rose_-The_Squire-_Raureif-20201107-RM-091853.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Moth orchid",
+          "image_path": "assets/flower_species/sources/moth-orchid-04.jpg",
+          "image_sha256": "673274c6d015a04420557f819a6526de5e91b74c42d078d97c69883a130067af",
+          "file_title": "File:Phalaenopsis (aka).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_%28aka%29.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Common daisy",
+          "image_path": "assets/flower_species/sources/common-daisy-04.jpg",
+          "image_sha256": "c57cff2116b19ab2563c742b1262ad92e63f3606f802f531576fe0e1d8594d7d",
+          "file_title": "File:20200325 Bellis perennis 02.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:20200325_Bellis_perennis_02.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Sunflower",
+          "image_path": "assets/flower_species/sources/sunflower-05.jpg",
+          "image_sha256": "5c559a5b5cd61bbc22d8bfb225a22b7ba1817e22a4d37d163ab920d949818d2c",
+          "file_title": "File:Helianthus annuus 9955.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_9955.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Tulip",
+          "image_path": "assets/flower_species/sources/tulip-03.jpg",
+          "image_sha256": "6dea99268c0f1721129bb72533502b09164bcb5c6c95f57319bc5d81b23a9bd7",
+          "file_title": "File:01 Small red tulip.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:01_Small_red_tulip.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Daffodil",
+          "image_path": "assets/flower_species/sources/daffodil-05.jpg",
+          "image_sha256": "591dc36b79ddbf666efd0244bf54a55ed91941c1ba3a753be7f3098f3a2d5368",
+          "file_title": "File:Daffodil (Narcissus) flower - geograph.org.uk - 4395626.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Daffodil_%28Narcissus%29_flower_-_geograph.org.uk_-_4395626.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Moth orchid",
+          "image_path": "assets/flower_species/sources/moth-orchid-05.jpg",
+          "image_sha256": "02b25e7231dd7279fdd52e7d25b35e13419a67b0d18d9a15910b061a551b93e8",
+          "file_title": "File:Orchidee (phalaenopsis) (actm) 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Orchidee_%28phalaenopsis%29_%28actm%29_01.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Rose",
+          "image_path": "assets/flower_species/sources/rose-04.jpg",
+          "image_sha256": "761b83fe22aadf416a6fda6ae1ba7c2e67bf4f1460cf92cd1516de2d33ff29cb",
+          "file_title": "File:Englische Rose The Reeve Tropfen -RM-20190821-01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Englische_Rose_The_Reeve_Tropfen_-RM-20190821-01.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Moth orchid",
+          "image_path": "assets/flower_species/sources/moth-orchid-06.jpg",
+          "image_sha256": "acc5432fdc0420b5e35995a3627d33cb5852937c6a48bb280474225cfd4b2577",
+          "file_title": "File:Orchidee (phalaenopsis) (actm) 04.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Orchidee_%28phalaenopsis%29_%28actm%29_04.jpg"
+        }
       }
     }
   ]

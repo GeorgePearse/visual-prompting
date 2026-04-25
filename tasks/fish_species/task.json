@@ -7,104 +7,461 @@
     {
       "label": "Atlantic salmon",
       "wikipedia_article": "Atlantic salmon",
-      "image_path": "assets/fish_species/sources/atlantic-salmon.jpg",
-      "image_sha256": "980e0ac67fb485cbc696ea2645413c3267276bbc06d0635f275fb123f20da5b0",
-      "file_title": "File:Wst_atlantischer_lachs_stoer_001.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Wst_atlantischer_lachs_stoer_001.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Wst_atlantischer_lachs_stoer_001.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Wst_atlantischer_lachs_stoer_001.jpg",
-      "mime": "image/jpeg",
-      "width": 850,
-      "height": 297,
-      "license_short_name": "Public domain",
-      "license_url": "",
-      "artist": "User:Wolfgang Striewski",
-      "credit": "www.meerforellen.info"
+      "commons_category": "Salmo salar",
+      "commons_search": "Atlantic salmon fish",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/fish_species/sources/atlantic-salmon-01.jpg",
+          "image_sha256": "82618b7c5941a3f63a86dca13dc9cf1776a5c8f692700375f842f0d11cac6f5c",
+          "file_title": "File:Atlantic salmon fish.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Atlantic_salmon_fish.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Atlantic_salmon_fish.jpg/500px-Atlantic_salmon_fish.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Atlantic_salmon_fish.jpg",
+          "mime": "image/jpeg",
+          "width": 3000,
+          "height": 1167,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "Timothy Knepp, U.S. Fish and Wildlife Service",
+          "credit": "http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/fauna-animals-public-domain-images-pictures/fishes-public-domain-images-pictures/salmon-fish-pictures/atlantic-salmon-fish.jpg"
+        },
+        {
+          "image_path": "assets/fish_species/sources/atlantic-salmon-02.png",
+          "image_sha256": "a8f1e46920b3518016afa73b849d755b2247730a90eba9028e3672c06af6d8b4",
+          "file_title": "File:Craig Brook NFH Atlantic salmon juveniles.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Craig_Brook_NFH_Atlantic_salmon_juveniles.png",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Craig_Brook_NFH_Atlantic_salmon_juveniles.png/500px-Craig_Brook_NFH_Atlantic_salmon_juveniles.png",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Craig_Brook_NFH_Atlantic_salmon_juveniles.png",
+          "mime": "image/png",
+          "width": 1199,
+          "height": 895,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "Andrew McCarthy/USFWS",
+          "credit": "https://www.fws.gov/media/atlantics-juvenile-cbnfh-usfwsjpg"
+        },
+        {
+          "image_path": "assets/fish_species/sources/atlantic-salmon-03.png",
+          "image_sha256": "8ce21decc51233f6d00691eaabafe89b018d534b6efba4bfe3b6161a66c03c23",
+          "file_title": "File:Atlantic salmon swimming in circular tank.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Atlantic_salmon_swimming_in_circular_tank.png",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Atlantic_salmon_swimming_in_circular_tank.png/500px-Atlantic_salmon_swimming_in_circular_tank.png",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Atlantic_salmon_swimming_in_circular_tank.png",
+          "mime": "image/png",
+          "width": 1138,
+          "height": 758,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "Ryan Hagerty/USFWS",
+          "credit": "https://www.fws.gov/media/clean-drained-dry"
+        },
+        {
+          "image_path": "assets/fish_species/sources/atlantic-salmon-04.png",
+          "image_sha256": "7be7d739471bb26c7e5995a1acca9347f7ce0c134d1e8f71133d42cedb47a04c",
+          "file_title": "File:Craig Brook NFH Atlantic salmon male.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Craig_Brook_NFH_Atlantic_salmon_male.png",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Craig_Brook_NFH_Atlantic_salmon_male.png/500px-Craig_Brook_NFH_Atlantic_salmon_male.png",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Craig_Brook_NFH_Atlantic_salmon_male.png",
+          "mime": "image/png",
+          "width": 1197,
+          "height": 458,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "USFWS",
+          "credit": "https://www.fws.gov/media/salmo-salar-male-cbnfh-usfwsjpg"
+        },
+        {
+          "image_path": "assets/fish_species/sources/atlantic-salmon-05.png",
+          "image_sha256": "bf6f64afa5bdee6c86638ccd4ff15ab564ee1232d4889e926973343aaa97c239",
+          "file_title": "File:Craig Brook NFH eyed Atlantic salmon eggs.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Craig_Brook_NFH_eyed_Atlantic_salmon_eggs.png",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Craig_Brook_NFH_eyed_Atlantic_salmon_eggs.png/500px-Craig_Brook_NFH_eyed_Atlantic_salmon_eggs.png",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Craig_Brook_NFH_eyed_Atlantic_salmon_eggs.png",
+          "mime": "image/png",
+          "width": 1212,
+          "height": 907,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "Andrew McCarthy/USFWS",
+          "credit": "https://www.fws.gov/media/atlantic-eggs-cbnfh-usfwsjpg"
+        }
+      ]
     },
     {
       "label": "Goldfish",
       "wikipedia_article": "Goldfish",
-      "image_path": "assets/fish_species/sources/goldfish.jpg",
-      "image_sha256": "f5457d348cc663802250ee08ad323003f47d2dee3932b5fe6a2ea08ad3ed6a0d",
-      "file_title": "File:Gold_fish1.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Gold_fish1.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gold_fish1.jpg/960px-Gold_fish1.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Gold_fish1.jpg",
-      "mime": "image/jpeg",
-      "width": 1717,
-      "height": 1121,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "\u05dc\u05d9\u05e0\u05d4 \u05d0\u05d1\u05d5\u05d2\u05d5\u05e9",
-      "credit": "Own work"
+      "commons_category": "Goldfish",
+      "commons_search": "goldfish",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/fish_species/sources/goldfish-01.jpg",
+          "image_sha256": "fd5bb543e9ea7e7eeeef78b35c84893a4bf923faf8e93032233f5c84c6e1843f",
+          "file_title": "File:Fountain with goldfish in Jard\u00ed del Bisbe 03.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Fountain_with_goldfish_in_Jard%C3%AD_del_Bisbe_03.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fountain_with_goldfish_in_Jard%C3%AD_del_Bisbe_03.jpg/500px-Fountain_with_goldfish_in_Jard%C3%AD_del_Bisbe_03.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Fountain_with_goldfish_in_Jard%C3%AD_del_Bisbe_03.jpg",
+          "mime": "image/jpeg",
+          "width": 5472,
+          "height": 3648,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Kritzolina",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/goldfish-02.jpg",
+          "image_sha256": "0ee9dd61f02e750fb3647c7cea924f956b3e6de5267ed138f62074d944095569",
+          "file_title": "File:Fountain with goldfish in Jard\u00ed del Bisbe 02.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Fountain_with_goldfish_in_Jard%C3%AD_del_Bisbe_02.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fountain_with_goldfish_in_Jard%C3%AD_del_Bisbe_02.jpg/500px-Fountain_with_goldfish_in_Jard%C3%AD_del_Bisbe_02.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Fountain_with_goldfish_in_Jard%C3%AD_del_Bisbe_02.jpg",
+          "mime": "image/jpeg",
+          "width": 5042,
+          "height": 3362,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Kritzolina",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/goldfish-03.jpg",
+          "image_sha256": "a9c9453ab666c2d5ecb5d40c1184111b658df3bb8713763e0b760c816eb664da",
+          "file_title": "File:Carassius auratus black telescope.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Carassius_auratus_black_telescope.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Carassius_auratus_black_telescope.jpg/500px-Carassius_auratus_black_telescope.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Carassius_auratus_black_telescope.jpg",
+          "mime": "image/jpeg",
+          "width": 3485,
+          "height": 2867,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "IssamBarhoumi",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/goldfish-04.jpg",
+          "image_sha256": "0311a6e66002e0a22939b006fb23a0afda54e436f1031fdc0faba95449a10236",
+          "file_title": "File:Carassius wild golden fish 2013 G1.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Carassius_wild_golden_fish_2013_G1.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Carassius_wild_golden_fish_2013_G1.jpg/500px-Carassius_wild_golden_fish_2013_G1.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Carassius_wild_golden_fish_2013_G1.jpg",
+          "mime": "image/jpeg",
+          "width": 3740,
+          "height": 2200,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "George Chernilevsky",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/goldfish-05.jpg",
+          "image_sha256": "0c2399d32d1ecb436808daa7d29e42da2d0f310433233f097f135abc87540057",
+          "file_title": "File:Carassius auratus auratus (goldfish) 2.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Carassius_auratus_auratus_%28goldfish%29_2.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Carassius_auratus_auratus_%28goldfish%29_2.jpg/500px-Carassius_auratus_auratus_%28goldfish%29_2.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Carassius_auratus_auratus_%28goldfish%29_2.jpg",
+          "mime": "image/jpeg",
+          "width": 3606,
+          "height": 2402,
+          "license_short_name": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "artist": "James St. John",
+          "credit": "https://www.flickr.com/photos/47445767@N05/21701162103/"
+        }
+      ]
     },
     {
       "label": "Common carp",
       "wikipedia_article": "Common carp",
-      "image_path": "assets/fish_species/sources/common-carp.jpg",
-      "image_sha256": "50f2e51e5436940be55c9c6c7e611d3a2c9d2f483dd708829bf5deb068f4d9c0",
-      "file_title": "File:Cyprinus_carpio_2008_G1_(cropped).jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Cyprinus_carpio_2008_G1_%28cropped%29.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cyprinus_carpio_2008_G1_%28cropped%29.jpg/960px-Cyprinus_carpio_2008_G1_%28cropped%29.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cyprinus_carpio_2008_G1_%28cropped%29.jpg",
-      "mime": "image/jpeg",
-      "width": 3232,
-      "height": 1600,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "George Chernilevsky",
-      "credit": "Own work"
+      "commons_category": "Cyprinus carpio",
+      "commons_search": "common carp fish",
+      "image_count": 4,
+      "images": [
+        {
+          "image_path": "assets/fish_species/sources/common-carp-01.jpg",
+          "image_sha256": "33f9360337c117414423bae7b105d584306e5c9bee185b6d5f938280be92f8e1",
+          "file_title": "File:Common Carp (Cyprinus carpio) Mirror Variety.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Common_Carp_%28Cyprinus_carpio%29_Mirror_Variety.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Common_Carp_%28Cyprinus_carpio%29_Mirror_Variety.jpg/500px-Common_Carp_%28Cyprinus_carpio%29_Mirror_Variety.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Common_Carp_%28Cyprinus_carpio%29_Mirror_Variety.jpg",
+          "mime": "image/jpeg",
+          "width": 4296,
+          "height": 2864,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "USFWS Mountain Prairie",
+          "credit": "https://www.flickr.com/photos/51986662@N05/51222524651/"
+        },
+        {
+          "image_path": "assets/fish_species/sources/common-carp-02.jpg",
+          "image_sha256": "472e1c45a70042634196a96efe4a6a6205e14ed2de039848335695178c4708c2",
+          "file_title": "File:Common carp Minnesota.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Common_carp_Minnesota.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Common_carp_Minnesota.jpg/500px-Common_carp_Minnesota.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Common_carp_Minnesota.jpg",
+          "mime": "image/jpeg",
+          "width": 921,
+          "height": 507,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Yoyo500",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/common-carp-03.jpg",
+          "image_sha256": "2d1d1fbb7b7421f5efa616e2e5909ec688671c4a7568ceccf0faee93e576a86a",
+          "file_title": "File:Carp gill defect.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Carp_gill_defect.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carp_gill_defect.jpg/500px-Carp_gill_defect.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Carp_gill_defect.jpg",
+          "mime": "image/jpeg",
+          "width": 3296,
+          "height": 2472,
+          "license_short_name": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "artist": "Guitardude012",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/common-carp-04.jpg",
+          "image_sha256": "25435be5cd8a56f99728055eb66ca7c30a8fec28fc9553a9b5927647d369499a",
+          "file_title": "File:Common Carp Fingerling (50976357082).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Common_Carp_Fingerling_%2850976357082%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Common_Carp_Fingerling_%2850976357082%29.jpg/500px-Common_Carp_Fingerling_%2850976357082%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Common_Carp_Fingerling_%2850976357082%29.jpg",
+          "mime": "image/jpeg",
+          "width": 5038,
+          "height": 2519,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "USFWS Mountain Prairie",
+          "credit": "Common Carp Fingerling"
+        }
+      ]
     },
     {
       "label": "Clownfish",
       "wikipedia_article": "Amphiprioninae",
-      "image_path": "assets/fish_species/sources/clownfish.jpg",
-      "image_sha256": "1a27d37c67855c501d424f18beb0affaeb57c191620b9afd626e8b5240d21a6e",
-      "file_title": "File:Amphiprion_ocellaris_(Clown_anemonefish)_by_Nick_Hobgood.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg/960px-Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg",
-      "mime": "image/jpeg",
-      "width": 2200,
-      "height": 1499,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Nick Hobgood",
-      "credit": "Own work"
+      "commons_category": "Amphiprion ocellaris",
+      "commons_search": "clownfish",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/fish_species/sources/clownfish-01.jpg",
+          "image_sha256": "64d424ba6b19e26c3032d2461247c3ea545e64e5a61ecd67f19faf165798b2e9",
+          "file_title": "File:Amphiprion ocellaris (Clown anemonefish) by Nick Hobgood.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg/500px-Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg",
+          "mime": "image/jpeg",
+          "width": 2200,
+          "height": 1499,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Nick Hobgood",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/clownfish-02.jpg",
+          "image_sha256": "44b07e8e399de32abc4e4b1910994148d0aaf22fe8e9638c573736aed038d2fe",
+          "file_title": "File:Common clownfish.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Common_clownfish.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Common_clownfish.jpg/500px-Common_clownfish.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Common_clownfish.jpg",
+          "mime": "image/jpeg",
+          "width": 1600,
+          "height": 1200,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "Janderk",
+          "credit": "Photographed by Jan Derk"
+        },
+        {
+          "image_path": "assets/fish_species/sources/clownfish-03.jpg",
+          "image_sha256": "c590cb201915dd9a6cfaddda81c65715cd73e8207cce86ca84b0b199cf50145e",
+          "file_title": "File:Black storm Clownfish among coral.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Black_storm_Clownfish_among_coral.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Black_storm_Clownfish_among_coral.jpg/500px-Black_storm_Clownfish_among_coral.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Black_storm_Clownfish_among_coral.jpg",
+          "mime": "image/jpeg",
+          "width": 4032,
+          "height": 3024,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Bruxton",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/clownfish-04.jpg",
+          "image_sha256": "e260cad703b19f5b040b3ad16b38787c85914904232d7f533eb19c36cabe7efd",
+          "file_title": "File:False Clownfish 1a.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:False_Clownfish_1a.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/False_Clownfish_1a.jpg/500px-False_Clownfish_1a.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/False_Clownfish_1a.jpg",
+          "mime": "image/jpeg",
+          "width": 2605,
+          "height": 2398,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Bruxton",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/clownfish-05.jpg",
+          "image_sha256": "164aae5f859bd0905047c9a9a294c1adcc211a96f01980a3005fe6471238a201",
+          "file_title": "File:Cinnamon clownfish right.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cinnamon_clownfish_right.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cinnamon_clownfish_right.jpg/500px-Cinnamon_clownfish_right.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Cinnamon_clownfish_right.jpg",
+          "mime": "image/jpeg",
+          "width": 1460,
+          "height": 1155,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Bruxton",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Blue tang",
       "wikipedia_article": "Paracanthurus",
-      "image_path": "assets/fish_species/sources/blue-tang.jpg",
-      "image_sha256": "61c1b1fabd8bfa1ed1e0edef7395def9e5202f9197fc763e40d165c8c123949b",
-      "file_title": "File:Paletten-Doktorfisch_M\u00fcnster.JPG",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Paletten-Doktorfisch_M%C3%BCnster.JPG",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Paletten-Doktorfisch_M%C3%BCnster.JPG/960px-Paletten-Doktorfisch_M%C3%BCnster.JPG",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Paletten-Doktorfisch_M%C3%BCnster.JPG",
-      "mime": "image/jpeg",
-      "width": 3872,
-      "height": 2592,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "DerHans04",
-      "credit": "Own work"
+      "commons_category": "Paracanthurus hepatus",
+      "commons_search": "blue tang fish",
+      "image_count": 3,
+      "images": [
+        {
+          "image_path": "assets/fish_species/sources/blue-tang-01.jpg",
+          "image_sha256": "78a0e5b622d70ac7167712f84bda018c6a8ed12da6fea2086ad43199f5d05589",
+          "file_title": "File:Atlantic Blue Tang (Acanthurus coeruleus).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Atlantic_Blue_Tang_%28Acanthurus_coeruleus%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Atlantic_Blue_Tang_%28Acanthurus_coeruleus%29.jpg/500px-Atlantic_Blue_Tang_%28Acanthurus_coeruleus%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Atlantic_Blue_Tang_%28Acanthurus_coeruleus%29.jpg",
+          "mime": "image/jpeg",
+          "width": 2048,
+          "height": 1536,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "DRVIP93",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/blue-tang-02.jpg",
+          "image_sha256": "6d78e7ed59d786edd163b8bc6eea675af3acdf6a12d77334f35ae954f1fc9686",
+          "file_title": "File:Acanthurus Coeruleus Atlantic Blue Tang Blue Barber Blue Doctor Blue Doctorfish Blue Tang Surgeonfish Fringing Reef Beaches of Noord Aruba.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Acanthurus_Coeruleus_Atlantic_Blue_Tang_Blue_Barber_Blue_Doctor_Blue_Doctorfish_Blue_Tang_Surgeonfish_Fringing_Reef_Beaches_of_Noord_Aruba.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Acanthurus_Coeruleus_Atlantic_Blue_Tang_Blue_Barber_Blue_Doctor_Blue_Doctorfish_Blue_Tang_Surgeonfish_Fringing_Reef_Beaches_of_Noord_Aruba.jpg/500px-Acanthurus_Coeruleus_Atlantic_Blue_Tang_Blue_Barber_Blue_Doctor_Blue_Doctorfish_Blue_Tang_Surgeonfish_Fringing_Reef_Beaches_of_Noord_Aruba.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Acanthurus_Coeruleus_Atlantic_Blue_Tang_Blue_Barber_Blue_Doctor_Blue_Doctorfish_Blue_Tang_Surgeonfish_Fringing_Reef_Beaches_of_Noord_Aruba.jpg",
+          "mime": "image/jpeg",
+          "width": 2048,
+          "height": 1359,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "EgorovaSvetlana",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/blue-tang-03.jpg",
+          "image_sha256": "307d7f6380265a42d48b98ec70263d78bba481b8079d83aae2aa16286aeb94d2",
+          "file_title": "File:Blue Tang (5295765748).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Blue_Tang_%285295765748%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Blue_Tang_%285295765748%29.jpg/500px-Blue_Tang_%285295765748%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Blue_Tang_%285295765748%29.jpg",
+          "mime": "image/jpeg",
+          "width": 1024,
+          "height": 768,
+          "license_short_name": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "artist": "lowjumpingfrog from Salt Lake City, USA",
+          "credit": "Blue Tang"
+        }
+      ]
     },
     {
       "label": "Rainbow trout",
       "wikipedia_article": "Rainbow trout",
-      "image_path": "assets/fish_species/sources/rainbow-trout.jpg",
-      "image_sha256": "d110ca63d9d6a6104ae226f4a2782450c695057e2b23d2482f3d6f39b20411c3",
-      "file_title": "File:Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg/960px-Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
-      "mime": "image/jpeg",
-      "width": 2100,
-      "height": 1500,
-      "license_short_name": "Public domain",
-      "license_url": "",
-      "artist": "Engbretson Eric, U.S. Fish and Wildlife Service",
-      "credit": "http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/fauna-animals-public-domain-images-pictures/fishes-public-domain-images-pictures/trout-fishes-pictures/close-up-of-rainbow-trout-fish-underwater-oncorhynchus-mykiss.jpg"
+      "commons_category": "Oncorhynchus mykiss",
+      "commons_search": "rainbow trout fish",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/fish_species/sources/rainbow-trout-01.jpg",
+          "image_sha256": "1f1be8dc57c267bb2a17642bdab61452953d6ce307577dfcba6bf01f7c2cbf04",
+          "file_title": "File:Female Rainbow Trout in hand.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Female_Rainbow_Trout_in_hand.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Female_Rainbow_Trout_in_hand.JPG/500px-Female_Rainbow_Trout_in_hand.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Female_Rainbow_Trout_in_hand.JPG",
+          "mime": "image/jpeg",
+          "width": 800,
+          "height": 357,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Mike Anderson",
+          "credit": "http://www.trophyfishingtn.com/coppermine/displayimage.php?album=16&pid=1693#top_display_media"
+        },
+        {
+          "image_path": "assets/fish_species/sources/rainbow-trout-02.jpg",
+          "image_sha256": "7392488cb3ed827185b14e8388886ab39e3e707ea9fb3776b9fe4904335a2506",
+          "file_title": "File:Rainbow Trout 2530.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Rainbow_Trout_2530.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rainbow_Trout_2530.jpg/500px-Rainbow_Trout_2530.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Rainbow_Trout_2530.jpg",
+          "mime": "image/jpeg",
+          "width": 6000,
+          "height": 4000,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Chris Light",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/rainbow-trout-03.jpg",
+          "image_sha256": "f1c45830d6607a279ab3670b8fccf05b09f032022b035582ebd10063e9fb2ab5",
+          "file_title": "File:Rainbow Trout 2529.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Rainbow_Trout_2529.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rainbow_Trout_2529.jpg/500px-Rainbow_Trout_2529.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Rainbow_Trout_2529.jpg",
+          "mime": "image/jpeg",
+          "width": 6000,
+          "height": 4000,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Chris Light",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/rainbow-trout-04.jpg",
+          "image_sha256": "ca6f0675cc918094a4e5fecca94065e374798d223d609ed11f50d6e544080fcc",
+          "file_title": "File:Rainbow Trout 2528.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Rainbow_Trout_2528.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rainbow_Trout_2528.jpg/500px-Rainbow_Trout_2528.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Rainbow_Trout_2528.jpg",
+          "mime": "image/jpeg",
+          "width": 6000,
+          "height": 4000,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Chris Light",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/fish_species/sources/rainbow-trout-05.png",
+          "image_sha256": "e3efa53c9c589dcd1200b4e6786513ec6eada188f0476f4b5af08e970002d3c6",
+          "file_title": "File:Erwin National Fish Hatchery sorting rainbow trout 7 July 2025.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Erwin_National_Fish_Hatchery_sorting_rainbow_trout_7_July_2025.png",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Erwin_National_Fish_Hatchery_sorting_rainbow_trout_7_July_2025.png/500px-Erwin_National_Fish_Hatchery_sorting_rainbow_trout_7_July_2025.png",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Erwin_National_Fish_Hatchery_sorting_rainbow_trout_7_July_2025.png",
+          "mime": "image/png",
+          "width": 1207,
+          "height": 907,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "Rebekah Ewing/USFWS",
+          "credit": "https://www.fws.gov/media/sorting-rainbow-trout"
+        }
+      ]
     }
   ],
   "test_cases": [
@@ -128,6 +485,80 @@
         "C1": "Rainbow trout",
         "C2": "Goldfish",
         "C3": "Atlantic salmon"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Atlantic salmon",
+          "image_path": "assets/fish_species/sources/atlantic-salmon-01.jpg",
+          "image_sha256": "82618b7c5941a3f63a86dca13dc9cf1776a5c8f692700375f842f0d11cac6f5c",
+          "file_title": "File:Atlantic salmon fish.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Atlantic_salmon_fish.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Goldfish",
+          "image_path": "assets/fish_species/sources/goldfish-01.jpg",
+          "image_sha256": "fd5bb543e9ea7e7eeeef78b35c84893a4bf923faf8e93032233f5c84c6e1843f",
+          "file_title": "File:Fountain with goldfish in Jard\u00ed del Bisbe 03.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Fountain_with_goldfish_in_Jard%C3%AD_del_Bisbe_03.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Common carp",
+          "image_path": "assets/fish_species/sources/common-carp-01.jpg",
+          "image_sha256": "33f9360337c117414423bae7b105d584306e5c9bee185b6d5f938280be92f8e1",
+          "file_title": "File:Common Carp (Cyprinus carpio) Mirror Variety.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Common_Carp_%28Cyprinus_carpio%29_Mirror_Variety.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Clownfish",
+          "image_path": "assets/fish_species/sources/clownfish-01.jpg",
+          "image_sha256": "64d424ba6b19e26c3032d2461247c3ea545e64e5a61ecd67f19faf165798b2e9",
+          "file_title": "File:Amphiprion ocellaris (Clown anemonefish) by Nick Hobgood.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Atlantic salmon",
+          "image_path": "assets/fish_species/sources/atlantic-salmon-02.png",
+          "image_sha256": "a8f1e46920b3518016afa73b849d755b2247730a90eba9028e3672c06af6d8b4",
+          "file_title": "File:Craig Brook NFH Atlantic salmon juveniles.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Craig_Brook_NFH_Atlantic_salmon_juveniles.png"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Blue tang",
+          "image_path": "assets/fish_species/sources/blue-tang-01.jpg",
+          "image_sha256": "78a0e5b622d70ac7167712f84bda018c6a8ed12da6fea2086ad43199f5d05589",
+          "file_title": "File:Atlantic Blue Tang (Acanthurus coeruleus).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Atlantic_Blue_Tang_%28Acanthurus_coeruleus%29.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Rainbow trout",
+          "image_path": "assets/fish_species/sources/rainbow-trout-01.jpg",
+          "image_sha256": "1f1be8dc57c267bb2a17642bdab61452953d6ce307577dfcba6bf01f7c2cbf04",
+          "file_title": "File:Female Rainbow Trout in hand.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Female_Rainbow_Trout_in_hand.JPG"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Goldfish",
+          "image_path": "assets/fish_species/sources/goldfish-02.jpg",
+          "image_sha256": "0ee9dd61f02e750fb3647c7cea924f956b3e6de5267ed138f62074d944095569",
+          "file_title": "File:Fountain with goldfish in Jard\u00ed del Bisbe 02.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Fountain_with_goldfish_in_Jard%C3%AD_del_Bisbe_02.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Atlantic salmon",
+          "image_path": "assets/fish_species/sources/atlantic-salmon-03.png",
+          "image_sha256": "8ce21decc51233f6d00691eaabafe89b018d534b6efba4bfe3b6161a66c03c23",
+          "file_title": "File:Atlantic salmon swimming in circular tank.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Atlantic_salmon_swimming_in_circular_tank.png"
+        }
       }
     },
     {
@@ -150,6 +581,80 @@
         "C1": "Atlantic salmon",
         "C2": "Clownfish",
         "C3": "Common carp"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Clownfish",
+          "image_path": "assets/fish_species/sources/clownfish-02.jpg",
+          "image_sha256": "44b07e8e399de32abc4e4b1910994148d0aaf22fe8e9638c573736aed038d2fe",
+          "file_title": "File:Common clownfish.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Common_clownfish.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Common carp",
+          "image_path": "assets/fish_species/sources/common-carp-02.jpg",
+          "image_sha256": "472e1c45a70042634196a96efe4a6a6205e14ed2de039848335695178c4708c2",
+          "file_title": "File:Common carp Minnesota.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Common_carp_Minnesota.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Clownfish",
+          "image_path": "assets/fish_species/sources/clownfish-03.jpg",
+          "image_sha256": "c590cb201915dd9a6cfaddda81c65715cd73e8207cce86ca84b0b199cf50145e",
+          "file_title": "File:Black storm Clownfish among coral.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Black_storm_Clownfish_among_coral.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Blue tang",
+          "image_path": "assets/fish_species/sources/blue-tang-02.jpg",
+          "image_sha256": "6d78e7ed59d786edd163b8bc6eea675af3acdf6a12d77334f35ae954f1fc9686",
+          "file_title": "File:Acanthurus Coeruleus Atlantic Blue Tang Blue Barber Blue Doctor Blue Doctorfish Blue Tang Surgeonfish Fringing Reef Beaches of Noord Aruba.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Acanthurus_Coeruleus_Atlantic_Blue_Tang_Blue_Barber_Blue_Doctor_Blue_Doctorfish_Blue_Tang_Surgeonfish_Fringing_Reef_Beaches_of_Noord_Aruba.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Rainbow trout",
+          "image_path": "assets/fish_species/sources/rainbow-trout-02.jpg",
+          "image_sha256": "7392488cb3ed827185b14e8388886ab39e3e707ea9fb3776b9fe4904335a2506",
+          "file_title": "File:Rainbow Trout 2530.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Rainbow_Trout_2530.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Goldfish",
+          "image_path": "assets/fish_species/sources/goldfish-03.jpg",
+          "image_sha256": "a9c9453ab666c2d5ecb5d40c1184111b658df3bb8713763e0b760c816eb664da",
+          "file_title": "File:Carassius auratus black telescope.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Carassius_auratus_black_telescope.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Atlantic salmon",
+          "image_path": "assets/fish_species/sources/atlantic-salmon-04.png",
+          "image_sha256": "7be7d739471bb26c7e5995a1acca9347f7ce0c134d1e8f71133d42cedb47a04c",
+          "file_title": "File:Craig Brook NFH Atlantic salmon male.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Craig_Brook_NFH_Atlantic_salmon_male.png"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Clownfish",
+          "image_path": "assets/fish_species/sources/clownfish-04.jpg",
+          "image_sha256": "e260cad703b19f5b040b3ad16b38787c85914904232d7f533eb19c36cabe7efd",
+          "file_title": "File:False Clownfish 1a.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:False_Clownfish_1a.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Common carp",
+          "image_path": "assets/fish_species/sources/common-carp-03.jpg",
+          "image_sha256": "2d1d1fbb7b7421f5efa616e2e5909ec688671c4a7568ceccf0faee93e576a86a",
+          "file_title": "File:Carp gill defect.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Carp_gill_defect.jpg"
+        }
       }
     },
     {
@@ -172,6 +677,80 @@
         "C1": "Blue tang",
         "C2": "Goldfish",
         "C3": "Rainbow trout"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Goldfish",
+          "image_path": "assets/fish_species/sources/goldfish-04.jpg",
+          "image_sha256": "0311a6e66002e0a22939b006fb23a0afda54e436f1031fdc0faba95449a10236",
+          "file_title": "File:Carassius wild golden fish 2013 G1.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Carassius_wild_golden_fish_2013_G1.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Rainbow trout",
+          "image_path": "assets/fish_species/sources/rainbow-trout-03.jpg",
+          "image_sha256": "f1c45830d6607a279ab3670b8fccf05b09f032022b035582ebd10063e9fb2ab5",
+          "file_title": "File:Rainbow Trout 2529.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Rainbow_Trout_2529.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Atlantic salmon",
+          "image_path": "assets/fish_species/sources/atlantic-salmon-05.png",
+          "image_sha256": "bf6f64afa5bdee6c86638ccd4ff15ab564ee1232d4889e926973343aaa97c239",
+          "file_title": "File:Craig Brook NFH eyed Atlantic salmon eggs.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Craig_Brook_NFH_eyed_Atlantic_salmon_eggs.png"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Rainbow trout",
+          "image_path": "assets/fish_species/sources/rainbow-trout-04.jpg",
+          "image_sha256": "ca6f0675cc918094a4e5fecca94065e374798d223d609ed11f50d6e544080fcc",
+          "file_title": "File:Rainbow Trout 2528.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Rainbow_Trout_2528.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Common carp",
+          "image_path": "assets/fish_species/sources/common-carp-04.jpg",
+          "image_sha256": "25435be5cd8a56f99728055eb66ca7c30a8fec28fc9553a9b5927647d369499a",
+          "file_title": "File:Common Carp Fingerling (50976357082).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Common_Carp_Fingerling_%2850976357082%29.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Clownfish",
+          "image_path": "assets/fish_species/sources/clownfish-05.jpg",
+          "image_sha256": "164aae5f859bd0905047c9a9a294c1adcc211a96f01980a3005fe6471238a201",
+          "file_title": "File:Cinnamon clownfish right.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cinnamon_clownfish_right.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Blue tang",
+          "image_path": "assets/fish_species/sources/blue-tang-03.jpg",
+          "image_sha256": "307d7f6380265a42d48b98ec70263d78bba481b8079d83aae2aa16286aeb94d2",
+          "file_title": "File:Blue Tang (5295765748).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Blue_Tang_%285295765748%29.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Goldfish",
+          "image_path": "assets/fish_species/sources/goldfish-05.jpg",
+          "image_sha256": "0c2399d32d1ecb436808daa7d29e42da2d0f310433233f097f135abc87540057",
+          "file_title": "File:Carassius auratus auratus (goldfish) 2.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Carassius_auratus_auratus_%28goldfish%29_2.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Rainbow trout",
+          "image_path": "assets/fish_species/sources/rainbow-trout-05.png",
+          "image_sha256": "e3efa53c9c589dcd1200b4e6786513ec6eada188f0476f4b5af08e970002d3c6",
+          "file_title": "File:Erwin National Fish Hatchery sorting rainbow trout 7 July 2025.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Erwin_National_Fish_Hatchery_sorting_rainbow_trout_7_July_2025.png"
+        }
       }
     }
   ]

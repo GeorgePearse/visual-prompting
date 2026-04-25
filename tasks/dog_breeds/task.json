@@ -7,104 +7,461 @@
     {
       "label": "Golden Retriever",
       "wikipedia_article": "Golden Retriever",
-      "image_path": "assets/dog_breeds/sources/golden-retriever.jpg",
-      "image_sha256": "74cd09d6d360041ff3763af1abcb0a809200a26f784e3baf81321c60b676eb31",
-      "file_title": "File:Golden_Retriever_Dukedestiny01_drvd.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Dukedestiny01_drvd.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg",
-      "mime": "image/jpeg",
-      "width": 652,
-      "height": 515,
-      "license_short_name": "Public domain",
-      "license_url": "",
-      "artist": "Dukedestiny01.jpg : \"Janneke Vreugdenhil\" derivative work: Anka Friedrich ([[User talk:Ankaaswe Trix Friedrich| talk ]])",
-      "credit": "Dukedestiny01.jpg"
+      "commons_category": "Golden Retriever",
+      "commons_search": "Golden Retriever dog",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/dog_breeds/sources/golden-retriever-01.jpg",
+          "image_sha256": "bef19cf8bd1f52b968fc5dd0adc51d874f71ad4109f7a4b0184d826d34f3bdaa",
+          "file_title": "File:Callie the golden retriever puppy.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Callie_the_golden_retriever_puppy.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Callie_the_golden_retriever_puppy.jpg/500px-Callie_the_golden_retriever_puppy.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Callie_the_golden_retriever_puppy.jpg",
+          "mime": "image/jpeg",
+          "width": 2048,
+          "height": 1536,
+          "license_short_name": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "artist": "MichaelMcPhee",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/golden-retriever-02.jpg",
+          "image_sha256": "5fa3d9310cb45352f3b73f78a377c7ad8f2fb1332bf143736979095ad7d4940f",
+          "file_title": "File:D\u00fclmen, Hausd\u00fclmen, Golden Retriever -- 2022 -- 5530.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5530.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5530.jpg/500px-D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5530.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5530.jpg",
+          "mime": "image/jpeg",
+          "width": 4108,
+          "height": 4108,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Dietmar Rabich",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/golden-retriever-03.jpg",
+          "image_sha256": "ef2575b34e798be5283e1a6a45a0df395a9aa5eec5906bbe7373d1b2709dc7a0",
+          "file_title": "File:A Golden Retriever sniffing a Beagle at the Dog Park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:A_Golden_Retriever_sniffing_a_Beagle_at_the_Dog_Park.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/A_Golden_Retriever_sniffing_a_Beagle_at_the_Dog_Park.jpg/500px-A_Golden_Retriever_sniffing_a_Beagle_at_the_Dog_Park.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/A_Golden_Retriever_sniffing_a_Beagle_at_the_Dog_Park.jpg",
+          "mime": "image/jpeg",
+          "width": 4032,
+          "height": 3024,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Slyronit",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/golden-retriever-04.jpg",
+          "image_sha256": "a5fae96a3c9fbf4f7683a2dc11e272afab9353c8d98b2baa4a355026ff1efeaf",
+          "file_title": "File:Golden-retriever-dog-1362597631o6g.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden-retriever-dog-1362597631o6g.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Golden-retriever-dog-1362597631o6g.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Golden-retriever-dog-1362597631o6g.jpg",
+          "mime": "image/jpeg",
+          "width": 410,
+          "height": 615,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Karen Arnold",
+          "credit": "http://www.publicdomainpictures.net/view-image.php?image=34087&picture=golden-retriever-hund"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/golden-retriever-05.jpg",
+          "image_sha256": "0ebacf0658ed0dd416ae187e2c0e1496779043eb21356d421fd1a305dfe97e12",
+          "file_title": "File:Golden Retriever Chewing A Stick.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Chewing_A_Stick.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Golden_Retriever_Chewing_A_Stick.jpg/500px-Golden_Retriever_Chewing_A_Stick.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Golden_Retriever_Chewing_A_Stick.jpg",
+          "mime": "image/jpeg",
+          "width": 2211,
+          "height": 2211,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Cheetyuh",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Beagle",
       "wikipedia_article": "Beagle",
-      "image_path": "assets/dog_breeds/sources/beagle.jpg",
-      "image_sha256": "c447c2792286bb69ba03793751076cc722afda0ba20f3348e97c926e7d25629c",
-      "file_title": "File:Beagle_600.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Beagle_600.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg",
-      "mime": "image/jpeg",
-      "width": 600,
-      "height": 480,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "",
-      "credit": ""
+      "commons_category": "Beagles",
+      "commons_search": "Beagle dog",
+      "image_count": 4,
+      "images": [
+        {
+          "image_path": "assets/dog_breeds/sources/beagle-01.jpg",
+          "image_sha256": "c8d30f120cb77f57a27d6424bb5e1b4922575056dfd437c940aa6d90fb76db30",
+          "file_title": "File:Beagle in Viroinval (DSC04556).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Beagle_in_Viroinval_%28DSC04556%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beagle_in_Viroinval_%28DSC04556%29.jpg/500px-Beagle_in_Viroinval_%28DSC04556%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Beagle_in_Viroinval_%28DSC04556%29.jpg",
+          "mime": "image/jpeg",
+          "width": 6011,
+          "height": 3875,
+          "license_short_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "artist": "Trougnouf (Benoit Brummer)",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/beagle-02.jpg",
+          "image_sha256": "c5a4160da821ef5e869c26986d53675c97da3d19f2b31e4438e61da32c61c976",
+          "file_title": "File:Beagle Dog female.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Beagle_Dog_female.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Beagle_Dog_female.jpg/500px-Beagle_Dog_female.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Beagle_Dog_female.jpg",
+          "mime": "image/jpeg",
+          "width": 1113,
+          "height": 1109,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Floodmfx",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/beagle-03.jpg",
+          "image_sha256": "eb9115dfb9f833ead018c08653d84027a11f3cae65aad5f47cc839865bed98d6",
+          "file_title": "File:Beagle at the dog park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Beagle_at_the_dog_park.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beagle_at_the_dog_park.jpg/500px-Beagle_at_the_dog_park.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Beagle_at_the_dog_park.jpg",
+          "mime": "image/jpeg",
+          "width": 4032,
+          "height": 3024,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Slyronit",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/beagle-04.jpg",
+          "image_sha256": "6edceb896dd85f80d7eec9de57ac63b37acbcf52f8cd2ef71a93003493becd16",
+          "file_title": "File:A beagle standing in a dog park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:A_beagle_standing_in_a_dog_park.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/A_beagle_standing_in_a_dog_park.jpg/500px-A_beagle_standing_in_a_dog_park.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/A_beagle_standing_in_a_dog_park.jpg",
+          "mime": "image/jpeg",
+          "width": 2378,
+          "height": 3727,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Slyronit",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Pug",
       "wikipedia_article": "Pug",
-      "image_path": "assets/dog_breeds/sources/pug.jpg",
-      "image_sha256": "987195ba6a7765971d316056058a77275175ba5842b346b4544971ec6ab466e2",
-      "file_title": "File:Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mops-duke-mopszucht-vom-maegdebrunnen.jpg/960px-Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
-      "mime": "image/jpeg",
-      "width": 1000,
-      "height": 665,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Xidrep",
-      "credit": "Own work"
+      "commons_category": "Pug",
+      "commons_search": "Pug dog",
+      "image_count": 4,
+      "images": [
+        {
+          "image_path": "assets/dog_breeds/sources/pug-01.jpg",
+          "image_sha256": "a4a86607c806b3ebae5d30912c325ef0a0d831c911796daa1832d214dd78c312",
+          "file_title": "File:Pug - 1 year Old.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pug_-_1_year_Old.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pug_-_1_year_Old.jpg/500px-Pug_-_1_year_Old.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pug_-_1_year_Old.jpg",
+          "mime": "image/jpeg",
+          "width": 4716,
+          "height": 3144,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Augustus Binu : flickr",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/pug-02.jpg",
+          "image_sha256": "0c489cf99a88a1dab1c3d3601970050793a6b8dc3aff50e14f96717d41dfa1e4",
+          "file_title": "File:Home Pug dog.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Home_Pug_dog.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Home_Pug_dog.jpg/500px-Home_Pug_dog.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Home_Pug_dog.jpg",
+          "mime": "image/jpeg",
+          "width": 2250,
+          "height": 4000,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Sasipriya Narayanaswamy",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/pug-03.jpg",
+          "image_sha256": "c2239b79af9df36f09174f1234eab405571645dc0fb127accc340e8122b0ed0c",
+          "file_title": "File:Pug black 600.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pug_black_600.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pug_black_600.jpg/500px-Pug_black_600.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pug_black_600.jpg",
+          "mime": "image/jpeg",
+          "width": 600,
+          "height": 525,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "artist": "",
+          "credit": ""
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/pug-04.jpg",
+          "image_sha256": "c4d9f2155efeac0268e720fe04d53fbf52fcacf1be95e5618ee9e4df38721f86",
+          "file_title": "File:DOG-PUG in San Francisco's Marina District.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:DOG-PUG_in_San_Francisco%27s_Marina_District.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/DOG-PUG_in_San_Francisco%27s_Marina_District.jpg/500px-DOG-PUG_in_San_Francisco%27s_Marina_District.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/DOG-PUG_in_San_Francisco%27s_Marina_District.jpg",
+          "mime": "image/jpeg",
+          "width": 1500,
+          "height": 1000,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Nancy Wong",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Siberian Husky",
       "wikipedia_article": "Siberian Husky",
-      "image_path": "assets/dog_breeds/sources/siberian-husky.jpg",
-      "image_sha256": "f9ea787499ed087303ad5f973bcfbff46e324ebb9e42274ae88ce930ccfbe548",
-      "file_title": "File:Husky_L.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Husky_L.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Husky_L.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Husky_L.jpg",
-      "mime": "image/jpeg",
-      "width": 800,
-      "height": 579,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "xJaM ( talk \u00b7 contribs )",
-      "credit": "Own work by the original uploader"
+      "commons_category": "Siberian Husky",
+      "commons_search": "Siberian Husky dog",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/dog_breeds/sources/siberian-husky-01.jpg",
+          "image_sha256": "0ac51f93e9bc0f787539ad00c1aeb1568afa61bbb62ae653fbdaa0159e887879",
+          "file_title": "File:Keeshond Siberian Husky crossbreed puppy.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Keeshond_Siberian_Husky_crossbreed_puppy.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Keeshond_Siberian_Husky_crossbreed_puppy.jpg/500px-Keeshond_Siberian_Husky_crossbreed_puppy.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Keeshond_Siberian_Husky_crossbreed_puppy.jpg",
+          "mime": "image/jpeg",
+          "width": 2000,
+          "height": 1500,
+          "license_short_name": "CC BY-SA 2.5",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+          "artist": "Richard Bartz , Munich aka Makro Freak",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/siberian-husky-02.jpg",
+          "image_sha256": "66e1337933da7719cf48a8c621f2546d16dd508d344665a0c4fa488c45fb7c8c",
+          "file_title": "File:Inzell 2017 Kat A1 ZBYSZEK Kunert -9513.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Inzell_2017_Kat_A1_ZBYSZEK_Kunert_-9513.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Inzell_2017_Kat_A1_ZBYSZEK_Kunert_-9513.jpg/500px-Inzell_2017_Kat_A1_ZBYSZEK_Kunert_-9513.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Inzell_2017_Kat_A1_ZBYSZEK_Kunert_-9513.jpg",
+          "mime": "image/jpeg",
+          "width": 4410,
+          "height": 2940,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Isiwal",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/siberian-husky-03.jpg",
+          "image_sha256": "e49ce445bfa5b4d29cfd88d27968e0dcfa2619342a6e3426d44affd5add7c94f",
+          "file_title": "File:Siberian-husky-1291343 1920.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Siberian-husky-1291343_1920.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Siberian-husky-1291343_1920.jpg/500px-Siberian-husky-1291343_1920.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Siberian-husky-1291343_1920.jpg",
+          "mime": "image/jpeg",
+          "width": 953,
+          "height": 751,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "https://pixabay.com/pt/users/milanonegro-2307797/",
+          "credit": "Pixabay https://pixabay.com/pt/photos/husky-siberiano-c%C3%A3o-1291343/"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/siberian-husky-04.jpg",
+          "image_sha256": "4e899a0cbca291e408fda7dc7cdd18167dd7518e4ff893c3ee08fdab894cead4",
+          "file_title": "File:3218-siberian-husky-dog (19881570453).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:3218-siberian-husky-dog_%2819881570453%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/3218-siberian-husky-dog_%2819881570453%29.jpg/500px-3218-siberian-husky-dog_%2819881570453%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/3218-siberian-husky-dog_%2819881570453%29.jpg",
+          "mime": "image/jpeg",
+          "width": 3456,
+          "height": 5184,
+          "license_short_name": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "artist": "localpups",
+          "credit": "3218-siberian-husky-dog"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/siberian-husky-05.jpg",
+          "image_sha256": "fa7c0727ac78788d767aa721fb6eebb45c294e2bc5dbdc4f9cd47a48e9c78e8c",
+          "file_title": "File:3217-siberian-husky-dog (20314366700).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:3217-siberian-husky-dog_%2820314366700%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/3217-siberian-husky-dog_%2820314366700%29.jpg/500px-3217-siberian-husky-dog_%2820314366700%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/3217-siberian-husky-dog_%2820314366700%29.jpg",
+          "mime": "image/jpeg",
+          "width": 4108,
+          "height": 2765,
+          "license_short_name": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "artist": "localpups",
+          "credit": "3217-siberian-husky-dog"
+        }
+      ]
     },
     {
       "label": "Border Collie",
       "wikipedia_article": "Border Collie",
-      "image_path": "assets/dog_breeds/sources/border-collie.jpg",
-      "image_sha256": "524ec2078d6483b477bff1db0ef698e64e613f2f1326c691876cdac249666324",
-      "file_title": "File:Border_Collie_600.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Border_Collie_600.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Border_Collie_600.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Border_Collie_600.jpg",
-      "mime": "image/jpeg",
-      "width": 600,
-      "height": 491,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "",
-      "credit": ""
+      "commons_category": "Border Collie",
+      "commons_search": "Border Collie dog",
+      "image_count": 4,
+      "images": [
+        {
+          "image_path": "assets/dog_breeds/sources/border-collie-01.jpg",
+          "image_sha256": "ce1deda8f65d7cf1fc417f59d727eca670bf066746c1c130bd7b68997e830f3f",
+          "file_title": "File:Border Collie with Heterochromia 2.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Border_Collie_with_Heterochromia_2.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Border_Collie_with_Heterochromia_2.jpg/500px-Border_Collie_with_Heterochromia_2.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Border_Collie_with_Heterochromia_2.jpg",
+          "mime": "image/jpeg",
+          "width": 3198,
+          "height": 2592,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "7575u",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/border-collie-02.jpg",
+          "image_sha256": "0a1a6f909660cd1da21ca76688cf7ed201e2402bfaab89e03947dd802a5fb9c8",
+          "file_title": "File:Border Collie 600.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Border_Collie_600.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Border_Collie_600.jpg/500px-Border_Collie_600.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Border_Collie_600.jpg",
+          "mime": "image/jpeg",
+          "width": 600,
+          "height": 491,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "artist": "",
+          "credit": ""
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/border-collie-03.jpg",
+          "image_sha256": "b43473b901723b46de445fb636e5ee2fa67088ecb4fa19ceedb8e3dfba10f59d",
+          "file_title": "File:Border Collie in Sogne.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Border_Collie_in_Sogne.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Border_Collie_in_Sogne.jpg/500px-Border_Collie_in_Sogne.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Border_Collie_in_Sogne.jpg",
+          "mime": "image/jpeg",
+          "width": 1836,
+          "height": 3264,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "SaarloosWolfdog",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/border-collie-04.jpg",
+          "image_sha256": "6fd5120af87abf0fe14406598ade7b4034887ac9b7ecbadc8eb7b04ba96d46aa",
+          "file_title": "File:Border-collie-dog-1365525954Aa6.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Border-collie-dog-1365525954Aa6.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Border-collie-dog-1365525954Aa6.jpg/500px-Border-collie-dog-1365525954Aa6.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Border-collie-dog-1365525954Aa6.jpg",
+          "mime": "image/jpeg",
+          "width": 615,
+          "height": 575,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Karen Arnold",
+          "credit": "http://www.publicdomainpictures.net/view-image.php?image=36855&picture=border-collie-dog"
+        }
+      ]
     },
     {
       "label": "Dachshund",
       "wikipedia_article": "Dachshund",
-      "image_path": "assets/dog_breeds/sources/dachshund.jpg",
-      "image_sha256": "38fc51a2d060e6766aa36ce6f9b2ab79a53e25493bf9f90c11b74cf404b1e139",
-      "file_title": "File:\ub2e5\uc2a4\ud6c8\ud2b8(\ub2e8\ubaa8\uc885)_(Dachshund_(Short)).jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg/960px-%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
-      "mime": "image/jpeg",
-      "width": 1000,
-      "height": 741,
-      "license_short_name": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Katemil94",
-      "credit": "Own work"
+      "commons_category": "Dachshunds",
+      "commons_search": "Dachshund dog",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/dog_breeds/sources/dachshund-01.jpg",
+          "image_sha256": "7b085efb6f98b22efbfe6040fd960e59e96013ae882dd18472991120f97fe3e4",
+          "file_title": "File:Dachshund dog at MAV-USP-edited.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dachshund_dog_at_MAV-USP-edited.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dachshund_dog_at_MAV-USP-edited.jpg/500px-Dachshund_dog_at_MAV-USP-edited.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dachshund_dog_at_MAV-USP-edited.jpg",
+          "mime": "image/jpeg",
+          "width": 3532,
+          "height": 1988,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Museum of Veterinary Anatomy FMVZ USP",
+          "credit": "Museum of Veterinary Anatomy FMVZ USP"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/dachshund-02.jpg",
+          "image_sha256": "7aa3ce82c727dcea2481c1db69aa07f7177a3a3f9d7845112d4e6c51effac9b4",
+          "file_title": "File:Dachshund Buda Texas Weiner Dog Races 2023.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dachshund_Buda_Texas_Weiner_Dog_Races_2023.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dachshund_Buda_Texas_Weiner_Dog_Races_2023.jpg/500px-Dachshund_Buda_Texas_Weiner_Dog_Races_2023.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Dachshund_Buda_Texas_Weiner_Dog_Races_2023.jpg",
+          "mime": "image/jpeg",
+          "width": 3556,
+          "height": 2000,
+          "license_short_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "artist": "Larry D. Moore",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/dachshund-03.jpg",
+          "image_sha256": "2b557258f58d7903f918b7aed98571aa372eea56d2e558438221a153081c730e",
+          "file_title": "File:Dachshund and Beagle.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dachshund_and_Beagle.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dachshund_and_Beagle.jpg/500px-Dachshund_and_Beagle.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dachshund_and_Beagle.jpg",
+          "mime": "image/jpeg",
+          "width": 4032,
+          "height": 3024,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Slyronit",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/dachshund-04.jpg",
+          "image_sha256": "be58660af30c034d982f13d497268df0ceb1a5991807d1764f87ed2a3677ecf9",
+          "file_title": "File:A dachshund sniffing a beagle at the park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:A_dachshund_sniffing_a_beagle_at_the_park.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/A_dachshund_sniffing_a_beagle_at_the_park.jpg/500px-A_dachshund_sniffing_a_beagle_at_the_park.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/A_dachshund_sniffing_a_beagle_at_the_park.jpg",
+          "mime": "image/jpeg",
+          "width": 3024,
+          "height": 4032,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Slyronit",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/dog_breeds/sources/dachshund-05.jpg",
+          "image_sha256": "39ae2aea45a4366d1d3c19118c783c39a398c734da1809781b90c14fc2c75f54",
+          "file_title": "File:Dachshund playing with Beagle.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dachshund_playing_with_Beagle.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dachshund_playing_with_Beagle.jpg/500px-Dachshund_playing_with_Beagle.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Dachshund_playing_with_Beagle.jpg",
+          "mime": "image/jpeg",
+          "width": 4032,
+          "height": 3024,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Slyronit",
+          "credit": "Own work"
+        }
+      ]
     }
   ],
   "test_cases": [
@@ -128,6 +485,80 @@
         "C1": "Dachshund",
         "C2": "Golden Retriever",
         "C3": "Pug"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Golden Retriever",
+          "image_path": "assets/dog_breeds/sources/golden-retriever-01.jpg",
+          "image_sha256": "bef19cf8bd1f52b968fc5dd0adc51d874f71ad4109f7a4b0184d826d34f3bdaa",
+          "file_title": "File:Callie the golden retriever puppy.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Callie_the_golden_retriever_puppy.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Pug",
+          "image_path": "assets/dog_breeds/sources/pug-01.jpg",
+          "image_sha256": "a4a86607c806b3ebae5d30912c325ef0a0d831c911796daa1832d214dd78c312",
+          "file_title": "File:Pug - 1 year Old.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pug_-_1_year_Old.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Beagle",
+          "image_path": "assets/dog_breeds/sources/beagle-01.jpg",
+          "image_sha256": "c8d30f120cb77f57a27d6424bb5e1b4922575056dfd437c940aa6d90fb76db30",
+          "file_title": "File:Beagle in Viroinval (DSC04556).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Beagle_in_Viroinval_%28DSC04556%29.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Siberian Husky",
+          "image_path": "assets/dog_breeds/sources/siberian-husky-01.jpg",
+          "image_sha256": "0ac51f93e9bc0f787539ad00c1aeb1568afa61bbb62ae653fbdaa0159e887879",
+          "file_title": "File:Keeshond Siberian Husky crossbreed puppy.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Keeshond_Siberian_Husky_crossbreed_puppy.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Border Collie",
+          "image_path": "assets/dog_breeds/sources/border-collie-01.jpg",
+          "image_sha256": "ce1deda8f65d7cf1fc417f59d727eca670bf066746c1c130bd7b68997e830f3f",
+          "file_title": "File:Border Collie with Heterochromia 2.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Border_Collie_with_Heterochromia_2.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Golden Retriever",
+          "image_path": "assets/dog_breeds/sources/golden-retriever-02.jpg",
+          "image_sha256": "5fa3d9310cb45352f3b73f78a377c7ad8f2fb1332bf143736979095ad7d4940f",
+          "file_title": "File:D\u00fclmen, Hausd\u00fclmen, Golden Retriever -- 2022 -- 5530.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5530.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Dachshund",
+          "image_path": "assets/dog_breeds/sources/dachshund-01.jpg",
+          "image_sha256": "7b085efb6f98b22efbfe6040fd960e59e96013ae882dd18472991120f97fe3e4",
+          "file_title": "File:Dachshund dog at MAV-USP-edited.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dachshund_dog_at_MAV-USP-edited.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Golden Retriever",
+          "image_path": "assets/dog_breeds/sources/golden-retriever-03.jpg",
+          "image_sha256": "ef2575b34e798be5283e1a6a45a0df395a9aa5eec5906bbe7373d1b2709dc7a0",
+          "file_title": "File:A Golden Retriever sniffing a Beagle at the Dog Park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:A_Golden_Retriever_sniffing_a_Beagle_at_the_Dog_Park.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Pug",
+          "image_path": "assets/dog_breeds/sources/pug-02.jpg",
+          "image_sha256": "0c489cf99a88a1dab1c3d3601970050793a6b8dc3aff50e14f96717d41dfa1e4",
+          "file_title": "File:Home Pug dog.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Home_Pug_dog.jpg"
+        }
       }
     },
     {
@@ -150,6 +581,80 @@
         "C1": "Siberian Husky",
         "C2": "Golden Retriever",
         "C3": "Border Collie"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Border Collie",
+          "image_path": "assets/dog_breeds/sources/border-collie-02.jpg",
+          "image_sha256": "0a1a6f909660cd1da21ca76688cf7ed201e2402bfaab89e03947dd802a5fb9c8",
+          "file_title": "File:Border Collie 600.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Border_Collie_600.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Siberian Husky",
+          "image_path": "assets/dog_breeds/sources/siberian-husky-02.jpg",
+          "image_sha256": "66e1337933da7719cf48a8c621f2546d16dd508d344665a0c4fa488c45fb7c8c",
+          "file_title": "File:Inzell 2017 Kat A1 ZBYSZEK Kunert -9513.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Inzell_2017_Kat_A1_ZBYSZEK_Kunert_-9513.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Dachshund",
+          "image_path": "assets/dog_breeds/sources/dachshund-02.jpg",
+          "image_sha256": "7aa3ce82c727dcea2481c1db69aa07f7177a3a3f9d7845112d4e6c51effac9b4",
+          "file_title": "File:Dachshund Buda Texas Weiner Dog Races 2023.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dachshund_Buda_Texas_Weiner_Dog_Races_2023.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Beagle",
+          "image_path": "assets/dog_breeds/sources/beagle-02.jpg",
+          "image_sha256": "c5a4160da821ef5e869c26986d53675c97da3d19f2b31e4438e61da32c61c976",
+          "file_title": "File:Beagle Dog female.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Beagle_Dog_female.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Pug",
+          "image_path": "assets/dog_breeds/sources/pug-03.jpg",
+          "image_sha256": "c2239b79af9df36f09174f1234eab405571645dc0fb127accc340e8122b0ed0c",
+          "file_title": "File:Pug black 600.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pug_black_600.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Siberian Husky",
+          "image_path": "assets/dog_breeds/sources/siberian-husky-03.jpg",
+          "image_sha256": "e49ce445bfa5b4d29cfd88d27968e0dcfa2619342a6e3426d44affd5add7c94f",
+          "file_title": "File:Siberian-husky-1291343 1920.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Siberian-husky-1291343_1920.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Siberian Husky",
+          "image_path": "assets/dog_breeds/sources/siberian-husky-04.jpg",
+          "image_sha256": "4e899a0cbca291e408fda7dc7cdd18167dd7518e4ff893c3ee08fdab894cead4",
+          "file_title": "File:3218-siberian-husky-dog (19881570453).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:3218-siberian-husky-dog_%2819881570453%29.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Golden Retriever",
+          "image_path": "assets/dog_breeds/sources/golden-retriever-04.jpg",
+          "image_sha256": "a5fae96a3c9fbf4f7683a2dc11e272afab9353c8d98b2baa4a355026ff1efeaf",
+          "file_title": "File:Golden-retriever-dog-1362597631o6g.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden-retriever-dog-1362597631o6g.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Border Collie",
+          "image_path": "assets/dog_breeds/sources/border-collie-03.jpg",
+          "image_sha256": "b43473b901723b46de445fb636e5ee2fa67088ecb4fa19ceedb8e3dfba10f59d",
+          "file_title": "File:Border Collie in Sogne.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Border_Collie_in_Sogne.jpg"
+        }
       }
     },
     {
@@ -172,6 +677,80 @@
         "C1": "Border Collie",
         "C2": "Beagle",
         "C3": "Dachshund"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Beagle",
+          "image_path": "assets/dog_breeds/sources/beagle-03.jpg",
+          "image_sha256": "eb9115dfb9f833ead018c08653d84027a11f3cae65aad5f47cc839865bed98d6",
+          "file_title": "File:Beagle at the dog park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Beagle_at_the_dog_park.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Pug",
+          "image_path": "assets/dog_breeds/sources/pug-04.jpg",
+          "image_sha256": "c4d9f2155efeac0268e720fe04d53fbf52fcacf1be95e5618ee9e4df38721f86",
+          "file_title": "File:DOG-PUG in San Francisco's Marina District.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:DOG-PUG_in_San_Francisco%27s_Marina_District.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Dachshund",
+          "image_path": "assets/dog_breeds/sources/dachshund-03.jpg",
+          "image_sha256": "2b557258f58d7903f918b7aed98571aa372eea56d2e558438221a153081c730e",
+          "file_title": "File:Dachshund and Beagle.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dachshund_and_Beagle.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Dachshund",
+          "image_path": "assets/dog_breeds/sources/dachshund-04.jpg",
+          "image_sha256": "be58660af30c034d982f13d497268df0ceb1a5991807d1764f87ed2a3677ecf9",
+          "file_title": "File:A dachshund sniffing a beagle at the park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:A_dachshund_sniffing_a_beagle_at_the_park.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Siberian Husky",
+          "image_path": "assets/dog_breeds/sources/siberian-husky-05.jpg",
+          "image_sha256": "fa7c0727ac78788d767aa721fb6eebb45c294e2bc5dbdc4f9cd47a48e9c78e8c",
+          "file_title": "File:3217-siberian-husky-dog (20314366700).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:3217-siberian-husky-dog_%2820314366700%29.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Golden Retriever",
+          "image_path": "assets/dog_breeds/sources/golden-retriever-05.jpg",
+          "image_sha256": "0ebacf0658ed0dd416ae187e2c0e1496779043eb21356d421fd1a305dfe97e12",
+          "file_title": "File:Golden Retriever Chewing A Stick.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Chewing_A_Stick.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Border Collie",
+          "image_path": "assets/dog_breeds/sources/border-collie-04.jpg",
+          "image_sha256": "6fd5120af87abf0fe14406598ade7b4034887ac9b7ecbadc8eb7b04ba96d46aa",
+          "file_title": "File:Border-collie-dog-1365525954Aa6.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Border-collie-dog-1365525954Aa6.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Beagle",
+          "image_path": "assets/dog_breeds/sources/beagle-04.jpg",
+          "image_sha256": "6edceb896dd85f80d7eec9de57ac63b37acbcf52f8cd2ef71a93003493becd16",
+          "file_title": "File:A beagle standing in a dog park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:A_beagle_standing_in_a_dog_park.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Dachshund",
+          "image_path": "assets/dog_breeds/sources/dachshund-05.jpg",
+          "image_sha256": "39ae2aea45a4366d1d3c19118c783c39a398c734da1809781b90c14fc2c75f54",
+          "file_title": "File:Dachshund playing with Beagle.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dachshund_playing_with_Beagle.jpg"
+        }
       }
     }
   ]

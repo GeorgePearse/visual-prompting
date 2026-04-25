@@ -1,7 +1,7 @@
 {
   "name": "visual-prompting-grid-classification-tasks",
-  "created_utc": "2026-04-25T15:15:31+00:00",
-  "source": "Images are downloaded from Wikimedia Commons via Wikipedia page images. Per-image source pages, authors, licenses, and hashes are stored in each task JSON.",
+  "created_utc": "2026-04-25T16:12:15+00:00",
+  "source": "Images are downloaded from Wikimedia Commons category and search results. Per-image source pages, authors, licenses, and hashes are stored in each task JSON.",
   "tasks": [
     {
       "id": "fish_species",

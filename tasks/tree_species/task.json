@@ -7,104 +7,461 @@
     {
       "label": "English oak",
       "wikipedia_article": "Quercus robur",
-      "image_path": "assets/tree_species/sources/english-oak.jpg",
-      "image_sha256": "f06c36597c5a742011fdaff31bc265b1111222254578aeb80067062e0afe9bbe",
-      "file_title": "File:Quercus_robur.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Quercus_robur.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Quercus_robur.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Quercus_robur.jpg",
-      "mime": "image/jpeg",
-      "width": 701,
-      "height": 948,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "",
-      "credit": ""
+      "commons_category": "Quercus robur",
+      "commons_search": "English oak tree",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/tree_species/sources/english-oak-01.jpg",
+          "image_sha256": "2d29b7634a0941f08ab764af858014c96915aa0bb9e0a5a2ab81cf9afd42886c",
+          "file_title": "File:Oak tree Sunol Regional Wilderness California 2023 dllu.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Oak_tree_Sunol_Regional_Wilderness_California_2023_dllu.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Oak_tree_Sunol_Regional_Wilderness_California_2023_dllu.jpg/500px-Oak_tree_Sunol_Regional_Wilderness_California_2023_dllu.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Oak_tree_Sunol_Regional_Wilderness_California_2023_dllu.jpg",
+          "mime": "image/jpeg",
+          "width": 11648,
+          "height": 8736,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Daniel Lu ( User:dllu )",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/english-oak-02.jpg",
+          "image_sha256": "f6e121aa104c175994fc2ce4d3defb5fe5c5b1276aa7e37dca2ec106dc365606",
+          "file_title": "File:English Oak Tree in The Strand - geograph.org.uk - 1258053.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:English_Oak_Tree_in_The_Strand_-_geograph.org.uk_-_1258053.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/English_Oak_Tree_in_The_Strand_-_geograph.org.uk_-_1258053.jpg/500px-English_Oak_Tree_in_The_Strand_-_geograph.org.uk_-_1258053.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/English_Oak_Tree_in_The_Strand_-_geograph.org.uk_-_1258053.jpg",
+          "mime": "image/jpeg",
+          "width": 640,
+          "height": 480,
+          "license_short_name": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "artist": "PAUL FARMER",
+          "credit": "From geograph.org.uk"
+        },
+        {
+          "image_path": "assets/tree_species/sources/english-oak-03.jpg",
+          "image_sha256": "aeb3338e54deb5a4f0183402a3251ed58fa386789922f0a1fee6c53ad5249b00",
+          "file_title": "File:Oak tree in Prospect Park (03833).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Oak_tree_in_Prospect_Park_%2803833%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Oak_tree_in_Prospect_Park_%2803833%29.jpg/500px-Oak_tree_in_Prospect_Park_%2803833%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Oak_tree_in_Prospect_Park_%2803833%29.jpg",
+          "mime": "image/jpeg",
+          "width": 1817,
+          "height": 2962,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Rhododendrites",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/english-oak-04.jpg",
+          "image_sha256": "eb637fe0244c616b9b8aab1c1cbb90f2bdafde285ac4964a032a75ffb57d5b1e",
+          "file_title": "File:Oak tree, Barnston.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Oak_tree%2C_Barnston.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Oak_tree%2C_Barnston.jpg/500px-Oak_tree%2C_Barnston.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Oak_tree%2C_Barnston.jpg",
+          "mime": "image/jpeg",
+          "width": 3484,
+          "height": 5226,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Rodhullandemu",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/english-oak-05.jpg",
+          "image_sha256": "dac61f4cd215ba2d89657bef33ed136764d0fbb93b89118f5e750924d15824e4",
+          "file_title": "File:Oak Tree Place - Oak Tree Walk - geograph.org.uk - 3836637.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Oak_Tree_Place_-_Oak_Tree_Walk_-_geograph.org.uk_-_3836637.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Oak_Tree_Place_-_Oak_Tree_Walk_-_geograph.org.uk_-_3836637.jpg/500px-Oak_Tree_Place_-_Oak_Tree_Walk_-_geograph.org.uk_-_3836637.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Oak_Tree_Place_-_Oak_Tree_Walk_-_geograph.org.uk_-_3836637.jpg",
+          "mime": "image/jpeg",
+          "width": 640,
+          "height": 457,
+          "license_short_name": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "artist": "Betty Longbottom",
+          "credit": "Geograph Britain and Ireland"
+        }
+      ]
     },
     {
       "label": "Silver birch",
       "wikipedia_article": "Betula pendula",
-      "image_path": "assets/tree_species/sources/silver-birch.jpg",
-      "image_sha256": "db8637c86c96bea8099655b5b9ecc68d4c8461363d697a6296e46a3d4b7c22ff",
-      "file_title": "File:Betula_pendula_Finland.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Betula_pendula_Finland.jpg/960px-Betula_pendula_Finland.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Betula_pendula_Finland.jpg",
-      "mime": "image/jpeg",
-      "width": 2272,
-      "height": 1704,
-      "license_short_name": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "artist": "Percita at Flickr",
-      "credit": "Flickr"
+      "commons_category": "Betula pendula",
+      "commons_search": "silver birch tree",
+      "image_count": 4,
+      "images": [
+        {
+          "image_path": "assets/tree_species/sources/silver-birch-01.jpg",
+          "image_sha256": "509440a7316045ae4d1752200945eff83194b2f66a4bdfdda5aafb76fa987300",
+          "file_title": "File:Betula alleghaniensis.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Betula_alleghaniensis.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Betula_alleghaniensis.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Betula_alleghaniensis.jpg",
+          "mime": "image/jpeg",
+          "width": 250,
+          "height": 333,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "U.S. Fish and Wildlife Service",
+          "credit": "http://www.nps.gov/plants/pubs/nativesMD/contactinfo.htm"
+        },
+        {
+          "image_path": "assets/tree_species/sources/silver-birch-02.jpg",
+          "image_sha256": "0a7e2495d272e749d6518ee57a9481fb8d9e3fd1f94aee187f9ffb87215ba2cb",
+          "file_title": "File:Betula alleghaniensis 000 2333 3466.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Betula_alleghaniensis_000_2333_3466.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Betula_alleghaniensis_000_2333_3466.jpg/500px-Betula_alleghaniensis_000_2333_3466.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Betula_alleghaniensis_000_2333_3466.jpg",
+          "mime": "image/jpeg",
+          "width": 2333,
+          "height": 3466,
+          "license_short_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "artist": "Nichole Ouellette/ouellette001.com",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/silver-birch-03.jpg",
+          "image_sha256": "5a25b6b39fa50f141c9041315f4efb4f243c114f09bc3af3c3a54a4406799e80",
+          "file_title": "File:Betula alleghaniensis 15-p.bot-bet.alleg-005.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Betula_alleghaniensis_15-p.bot-bet.alleg-005.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Betula_alleghaniensis_15-p.bot-bet.alleg-005.jpg/500px-Betula_alleghaniensis_15-p.bot-bet.alleg-005.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Betula_alleghaniensis_15-p.bot-bet.alleg-005.jpg",
+          "mime": "image/jpeg",
+          "width": 1894,
+          "height": 1064,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Ayotte, Gilles, 1948-",
+          "credit": "Biblioth\u00e8que de l'Universit\u00e9 Laval"
+        },
+        {
+          "image_path": "assets/tree_species/sources/silver-birch-04.jpg",
+          "image_sha256": "45777b83edcb350da5271c5be6cba234be0e6156d1fade2a7e6e89c823824f66",
+          "file_title": "File:Betula alleghaniensis 008.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Betula_alleghaniensis_008.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Betula_alleghaniensis_008.jpg/500px-Betula_alleghaniensis_008.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Betula_alleghaniensis_008.jpg",
+          "mime": "image/jpeg",
+          "width": 3456,
+          "height": 2304,
+          "license_short_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "artist": "Nichole Ouellette/ouellette001.com",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Scots pine",
       "wikipedia_article": "Pinus sylvestris",
-      "image_path": "assets/tree_species/sources/scots-pine.jpg",
-      "image_sha256": "07641ae65d5c12723819890b82b83b1cf47d97bef6f5a6f035d9c2dfa0695e4f",
-      "file_title": "File:Skuleskogen_pine.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Skuleskogen_pine.jpg/960px-Skuleskogen_pine.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Skuleskogen_pine.jpg",
-      "mime": "image/jpeg",
-      "width": 2592,
-      "height": 3888,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Micka\u00ebl Delcey ( Silverkey )",
-      "credit": "Own work"
+      "commons_category": "Pinus sylvestris",
+      "commons_search": "Scots pine tree",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/tree_species/sources/scots-pine-01.jpg",
+          "image_sha256": "4b129fea3d413d694923ac01f1fe5782d2c5538f27387a87244b9a4b9a88fea5",
+          "file_title": "File:Pine log cross-sections, Teutendorf, 2016-09-17.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pine_log_cross-sections%2C_Teutendorf%2C_2016-09-17.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pine_log_cross-sections%2C_Teutendorf%2C_2016-09-17.jpg/500px-Pine_log_cross-sections%2C_Teutendorf%2C_2016-09-17.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pine_log_cross-sections%2C_Teutendorf%2C_2016-09-17.jpg",
+          "mime": "image/jpeg",
+          "width": 6000,
+          "height": 4000,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Radomianin",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/scots-pine-02.jpg",
+          "image_sha256": "7673709974078b56074dd6fc9590278a53a014427e9042fd75ab9a4bc491b2f9",
+          "file_title": "File:PIH 1876 Scots Pine (Pinus sylvestris) E-tree graft clone in R\u00f6ykk\u00e4 Finland.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:PIH_1876_Scots_Pine_%28Pinus_sylvestris%29_E-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/PIH_1876_Scots_Pine_%28Pinus_sylvestris%29_E-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg/500px-PIH_1876_Scots_Pine_%28Pinus_sylvestris%29_E-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/PIH_1876_Scots_Pine_%28Pinus_sylvestris%29_E-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg",
+          "mime": "image/jpeg",
+          "width": 4024,
+          "height": 6048,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Pihla Kuikka",
+          "credit": "File received directly from author"
+        },
+        {
+          "image_path": "assets/tree_species/sources/scots-pine-03.jpg",
+          "image_sha256": "0064618005ccc6c2c3cc2e18c00372cf9db266269c59064c78b987c12f076999",
+          "file_title": "File:PIH 1828 Scots Pine (Pinus sylvestris) V-tree graft clone in R\u00f6ykk\u00e4 Finland.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:PIH_1828_Scots_Pine_%28Pinus_sylvestris%29_V-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/PIH_1828_Scots_Pine_%28Pinus_sylvestris%29_V-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg/500px-PIH_1828_Scots_Pine_%28Pinus_sylvestris%29_V-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/PIH_1828_Scots_Pine_%28Pinus_sylvestris%29_V-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg",
+          "mime": "image/jpeg",
+          "width": 4024,
+          "height": 6048,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Pihla Kuikka",
+          "credit": "File received directly from author"
+        },
+        {
+          "image_path": "assets/tree_species/sources/scots-pine-04.jpg",
+          "image_sha256": "c18a145f1903bcc1cc0f64f266a642a9c7cd8d4118e6666f80222dd221c9b801",
+          "file_title": "File:PIH 1886 Scots Pine (Pinus sylvestris) V-tree graft clone in R\u00f6ykk\u00e4 Finland.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:PIH_1886_Scots_Pine_%28Pinus_sylvestris%29_V-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/PIH_1886_Scots_Pine_%28Pinus_sylvestris%29_V-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg/500px-PIH_1886_Scots_Pine_%28Pinus_sylvestris%29_V-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/PIH_1886_Scots_Pine_%28Pinus_sylvestris%29_V-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg",
+          "mime": "image/jpeg",
+          "width": 4024,
+          "height": 6048,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Pihla Kuikka",
+          "credit": "File received directly from author"
+        },
+        {
+          "image_path": "assets/tree_species/sources/scots-pine-05.jpg",
+          "image_sha256": "c19370fc6c9f1f288018a363bb1adbbf08e9bf965eb8f2a13069eaabd6fb95de",
+          "file_title": "File:PIH 1957 Scots Pine (Pinus sylvestris) P-tree graft clone in Haapastensyrj\u00e4 Finland.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:PIH_1957_Scots_Pine_%28Pinus_sylvestris%29_P-tree_graft_clone_in_Haapastensyrj%C3%A4_Finland.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PIH_1957_Scots_Pine_%28Pinus_sylvestris%29_P-tree_graft_clone_in_Haapastensyrj%C3%A4_Finland.jpg/500px-PIH_1957_Scots_Pine_%28Pinus_sylvestris%29_P-tree_graft_clone_in_Haapastensyrj%C3%A4_Finland.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PIH_1957_Scots_Pine_%28Pinus_sylvestris%29_P-tree_graft_clone_in_Haapastensyrj%C3%A4_Finland.jpg",
+          "mime": "image/jpeg",
+          "width": 6048,
+          "height": 4024,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Pihla Kuikka",
+          "credit": "File received directly from author"
+        }
+      ]
     },
     {
       "label": "White willow",
       "wikipedia_article": "Salix alba",
-      "image_path": "assets/tree_species/sources/white-willow.jpg",
-      "image_sha256": "4c644beee3458fe8358022c7bd99c8828844ac4493cdc00a2519a016a71b1fd2",
-      "file_title": "File:Salix_alba_leaves.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Salix_alba_leaves.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Salix_alba_leaves.jpg/960px-Salix_alba_leaves.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Salix_alba_leaves.jpg",
-      "mime": "image/jpeg",
-      "width": 2592,
-      "height": 1944,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "MPF",
-      "credit": "Own work"
+      "commons_category": "Salix alba",
+      "commons_search": "white willow tree",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/tree_species/sources/white-willow-01.jpg",
+          "image_sha256": "695548af9cb732c1422ef4b02a46ccedff925560676affc3798991d559663dba",
+          "file_title": "File:Haabersti h\u00f5beremmelgas, white willow in Haabersti, Tallinn (Salix alba) 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_01.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_01.jpg/500px-Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_01.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_01.jpg",
+          "mime": "image/jpeg",
+          "width": 3120,
+          "height": 4160,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Ott Heinapuu",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/white-willow-02.jpg",
+          "image_sha256": "82813e681adf3689554ee74a00e77f2b793d8490ee1b0c325777164ffbcb2eb1",
+          "file_title": "File:Haabersti h\u00f5beremmelgas, white willow in Haabersti, Tallinn (Salix alba) 04.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_04.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_04.jpg/500px-Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_04.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_04.jpg",
+          "mime": "image/jpeg",
+          "width": 3120,
+          "height": 4160,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Ott Heinapuu",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/white-willow-03.jpg",
+          "image_sha256": "69d7b47c6ac0d110672a52d86447c01256c572da1001992d49eecc4e02a30217",
+          "file_title": "File:Haabersti h\u00f5beremmelgas, white willow in Haabersti, Tallinn (Salix alba) 05.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_05.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_05.jpg/500px-Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_05.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_05.jpg",
+          "mime": "image/jpeg",
+          "width": 3120,
+          "height": 4160,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Ott Heinapuu",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/white-willow-04.jpg",
+          "image_sha256": "6fffd0b3a3f9deb521740d42c8981a86de7c1664715736c185f93113f44e4841",
+          "file_title": "File:Haabersti h\u00f5beremmelgas, white willow in Haabersti, Tallinn (Salix alba) 06.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_06.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_06.jpg/500px-Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_06.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_06.jpg",
+          "mime": "image/jpeg",
+          "width": 3120,
+          "height": 4160,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Ott Heinapuu",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/white-willow-05.jpg",
+          "image_sha256": "26b814fb180202375935171f1418fe13630709fc885bf4cf1ec53d221b29393c",
+          "file_title": "File:Haabersti h\u00f5beremmelgas, white willow in Haabersti, Tallinn (Salix alba) 02.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_02.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_02.jpg/500px-Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_02.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_02.jpg",
+          "mime": "image/jpeg",
+          "width": 3120,
+          "height": 4160,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "Ott Heinapuu",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Japanese maple",
       "wikipedia_article": "Acer palmatum",
-      "image_path": "assets/tree_species/sources/japanese-maple.jpg",
-      "image_sha256": "37afb3e1c89071c028d9d02011dc155576247d8175ba5245881563d6f8526001",
-      "file_title": "File:Acer_palmatum0.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Acer_palmatum0.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Acer_palmatum0.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Acer_palmatum0.jpg",
-      "mime": "image/jpeg",
-      "width": 640,
-      "height": 480,
-      "license_short_name": "CC BY-SA 3.0",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Kurt St\u00fcber [1]",
-      "credit": "caliban.mpiz-koeln.mpg.de/mavica/index.html part of www.biolib.de"
+      "commons_category": "Acer palmatum",
+      "commons_search": "Japanese maple tree",
+      "image_count": 3,
+      "images": [
+        {
+          "image_path": "assets/tree_species/sources/japanese-maple-01.jpg",
+          "image_sha256": "04f7ab5d8111bfdc1db38073272051e94b8b93b4568f1111395052b1a711b6c9",
+          "file_title": "File:\"\u041a\u043b\u0451\u043d \u0434\u043b\u0430\u043d\u0435\u0432\u0438\u0434\u043d\u044b\u0439\" \u0411\u043e\u0442\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u0430\u0434 \u0438\u043c. \u042d.\u0417.\u0413\u0430\u0440\u0435\u0435\u0432\u0430.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:%22%D0%9A%D0%BB%D1%91%D0%BD_%D0%B4%D0%BB%D0%B0%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%22_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_%D0%B8%D0%BC._%D0%AD.%D0%97.%D0%93%D0%B0%D1%80%D0%B5%D0%B5%D0%B2%D0%B0.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%22%D0%9A%D0%BB%D1%91%D0%BD_%D0%B4%D0%BB%D0%B0%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%22_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_%D0%B8%D0%BC._%D0%AD.%D0%97.%D0%93%D0%B0%D1%80%D0%B5%D0%B5%D0%B2%D0%B0.jpg/500px-%22%D0%9A%D0%BB%D1%91%D0%BD_%D0%B4%D0%BB%D0%B0%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%22_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_%D0%B8%D0%BC._%D0%AD.%D0%97.%D0%93%D0%B0%D1%80%D0%B5%D0%B5%D0%B2%D0%B0.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/%22%D0%9A%D0%BB%D1%91%D0%BD_%D0%B4%D0%BB%D0%B0%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%22_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_%D0%B8%D0%BC._%D0%AD.%D0%97.%D0%93%D0%B0%D1%80%D0%B5%D0%B5%D0%B2%D0%B0.jpg",
+          "mime": "image/jpeg",
+          "width": 3648,
+          "height": 5472,
+          "license_short_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "artist": "Iuliia Malakhova",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/japanese-maple-02.jpg",
+          "image_sha256": "71aeb1f76a81c19db37e448d4f1ee45a25aced7acc6c1e06a278e9bb9a20bbe2",
+          "file_title": "File:2013-05-05 13 37 57 Escaped Acer palmatum along the Long Path in Palisades Interstate Park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2013-05-05_13_37_57_Escaped_Acer_palmatum_along_the_Long_Path_in_Palisades_Interstate_Park.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2013-05-05_13_37_57_Escaped_Acer_palmatum_along_the_Long_Path_in_Palisades_Interstate_Park.jpg/500px-2013-05-05_13_37_57_Escaped_Acer_palmatum_along_the_Long_Path_in_Palisades_Interstate_Park.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/2013-05-05_13_37_57_Escaped_Acer_palmatum_along_the_Long_Path_in_Palisades_Interstate_Park.jpg",
+          "mime": "image/jpeg",
+          "width": 2448,
+          "height": 3264,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Famartin",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/japanese-maple-03.jpg",
+          "image_sha256": "f2d5052e60068a61df5b3c646e4e315fbc33e32e5637d7c2579093c56398d7c3",
+          "file_title": "File:2013-05-05 13 45 39 More escaped Acer palmatum along the Long Path in Palisades Interstate Park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2013-05-05_13_45_39_More_escaped_Acer_palmatum_along_the_Long_Path_in_Palisades_Interstate_Park.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2013-05-05_13_45_39_More_escaped_Acer_palmatum_along_the_Long_Path_in_Palisades_Interstate_Park.jpg/500px-2013-05-05_13_45_39_More_escaped_Acer_palmatum_along_the_Long_Path_in_Palisades_Interstate_Park.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/2013-05-05_13_45_39_More_escaped_Acer_palmatum_along_the_Long_Path_in_Palisades_Interstate_Park.jpg",
+          "mime": "image/jpeg",
+          "width": 3264,
+          "height": 2448,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Famartin",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "African baobab",
       "wikipedia_article": "Adansonia digitata",
-      "image_path": "assets/tree_species/sources/african-baobab.jpg",
-      "image_sha256": "afbc9bd97eb7f67116b29ef617ebc4feee8314ab6fd7ea07b7ff584042fe8d2a",
-      "file_title": "File:Baobab_and_elephant,_Tanzania.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Baobab_and_elephant%2C_Tanzania.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Baobab_and_elephant%2C_Tanzania.jpg/960px-Baobab_and_elephant%2C_Tanzania.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Baobab_and_elephant%2C_Tanzania.jpg",
-      "mime": "image/jpeg",
-      "width": 3072,
-      "height": 2048,
-      "license_short_name": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "artist": "Ferdinand Reus from Arnhem, Holland",
-      "credit": "Two old ones"
+      "commons_category": "Adansonia digitata",
+      "commons_search": "African baobab tree",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/tree_species/sources/african-baobab-01.jpg",
+          "image_sha256": "c27a991dfd2e5828629e20009f2cb15c2e9908c8c85475d8649f826fe10e91f4",
+          "file_title": "File:African Baobab Tree (2896937432).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:African_Baobab_Tree_%282896937432%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/African_Baobab_Tree_%282896937432%29.jpg/500px-African_Baobab_Tree_%282896937432%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/African_Baobab_Tree_%282896937432%29.jpg",
+          "mime": "image/jpeg",
+          "width": 600,
+          "height": 800,
+          "license_short_name": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "artist": "Vaughan Leiberum from Cape Town, South Africa",
+          "credit": "African Baobab Tree"
+        },
+        {
+          "image_path": "assets/tree_species/sources/african-baobab-02.jpg",
+          "image_sha256": "9249181154f863530f632492ddb3c675d87b931b5a22e3e5d4750a1cc180e2d1",
+          "file_title": "File:Baobab Tree Graphic.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Baobab_Tree_Graphic.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Baobab_Tree_Graphic.jpg/500px-Baobab_Tree_Graphic.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Baobab_Tree_Graphic.jpg",
+          "mime": "image/jpeg",
+          "width": 1160,
+          "height": 1081,
+          "license_short_name": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "artist": "User1042",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/african-baobab-03.jpg",
+          "image_sha256": "d55906f7a33c3c54e52161090123bac00cbaade118f48f43f1d847fd86df1a0c",
+          "file_title": "File:Baobab Tree-001.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Baobab_Tree-001.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Baobab_Tree-001.jpg/500px-Baobab_Tree-001.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Baobab_Tree-001.jpg",
+          "mime": "image/jpeg",
+          "width": 2778,
+          "height": 1852,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Leo za1",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/african-baobab-04.jpg",
+          "image_sha256": "f25d7ac926f707fcfb082cd35279a8d6a3ca19a06599adeaa4b75bac0c3ffa39",
+          "file_title": "File:African baobab in Lake Manyara NP.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:African_baobab_in_Lake_Manyara_NP.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/African_baobab_in_Lake_Manyara_NP.jpg/500px-African_baobab_in_Lake_Manyara_NP.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/African_baobab_in_Lake_Manyara_NP.jpg",
+          "mime": "image/jpeg",
+          "width": 1024,
+          "height": 683,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "LoJallen",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/tree_species/sources/african-baobab-05.jpg",
+          "image_sha256": "c38411d51b54d50dcdd351a9e6e08496eecdc9aa7a8da68be3be214ba77e72ee",
+          "file_title": "File:Baobab (Adansonia digitata), parque nacional de Tarangire, Tanzania, 2024-05-24, DD 78.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Baobab_%28Adansonia_digitata%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_78.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Baobab_%28Adansonia_digitata%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_78.jpg/500px-Baobab_%28Adansonia_digitata%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_78.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Baobab_%28Adansonia_digitata%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_78.jpg",
+          "mime": "image/jpeg",
+          "width": 8169,
+          "height": 5776,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Diego Delso",
+          "credit": "Own work"
+        }
+      ]
     }
   ],
   "test_cases": [
@@ -128,6 +485,80 @@
         "C1": "English oak",
         "C2": "English oak",
         "C3": "Scots pine"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Scots pine",
+          "image_path": "assets/tree_species/sources/scots-pine-01.jpg",
+          "image_sha256": "4b129fea3d413d694923ac01f1fe5782d2c5538f27387a87244b9a4b9a88fea5",
+          "file_title": "File:Pine log cross-sections, Teutendorf, 2016-09-17.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pine_log_cross-sections%2C_Teutendorf%2C_2016-09-17.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "White willow",
+          "image_path": "assets/tree_species/sources/white-willow-01.jpg",
+          "image_sha256": "695548af9cb732c1422ef4b02a46ccedff925560676affc3798991d559663dba",
+          "file_title": "File:Haabersti h\u00f5beremmelgas, white willow in Haabersti, Tallinn (Salix alba) 01.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_01.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "English oak",
+          "image_path": "assets/tree_species/sources/english-oak-01.jpg",
+          "image_sha256": "2d29b7634a0941f08ab764af858014c96915aa0bb9e0a5a2ab81cf9afd42886c",
+          "file_title": "File:Oak tree Sunol Regional Wilderness California 2023 dllu.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Oak_tree_Sunol_Regional_Wilderness_California_2023_dllu.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Japanese maple",
+          "image_path": "assets/tree_species/sources/japanese-maple-01.jpg",
+          "image_sha256": "04f7ab5d8111bfdc1db38073272051e94b8b93b4568f1111395052b1a711b6c9",
+          "file_title": "File:\"\u041a\u043b\u0451\u043d \u0434\u043b\u0430\u043d\u0435\u0432\u0438\u0434\u043d\u044b\u0439\" \u0411\u043e\u0442\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u0430\u0434 \u0438\u043c. \u042d.\u0417.\u0413\u0430\u0440\u0435\u0435\u0432\u0430.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:%22%D0%9A%D0%BB%D1%91%D0%BD_%D0%B4%D0%BB%D0%B0%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%22_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_%D0%B8%D0%BC._%D0%AD.%D0%97.%D0%93%D0%B0%D1%80%D0%B5%D0%B5%D0%B2%D0%B0.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Silver birch",
+          "image_path": "assets/tree_species/sources/silver-birch-01.jpg",
+          "image_sha256": "509440a7316045ae4d1752200945eff83194b2f66a4bdfdda5aafb76fa987300",
+          "file_title": "File:Betula alleghaniensis.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Betula_alleghaniensis.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "African baobab",
+          "image_path": "assets/tree_species/sources/african-baobab-01.jpg",
+          "image_sha256": "c27a991dfd2e5828629e20009f2cb15c2e9908c8c85475d8649f826fe10e91f4",
+          "file_title": "File:African Baobab Tree (2896937432).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:African_Baobab_Tree_%282896937432%29.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "English oak",
+          "image_path": "assets/tree_species/sources/english-oak-02.jpg",
+          "image_sha256": "f6e121aa104c175994fc2ce4d3defb5fe5c5b1276aa7e37dca2ec106dc365606",
+          "file_title": "File:English Oak Tree in The Strand - geograph.org.uk - 1258053.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:English_Oak_Tree_in_The_Strand_-_geograph.org.uk_-_1258053.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "English oak",
+          "image_path": "assets/tree_species/sources/english-oak-03.jpg",
+          "image_sha256": "aeb3338e54deb5a4f0183402a3251ed58fa386789922f0a1fee6c53ad5249b00",
+          "file_title": "File:Oak tree in Prospect Park (03833).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Oak_tree_in_Prospect_Park_%2803833%29.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Scots pine",
+          "image_path": "assets/tree_species/sources/scots-pine-02.jpg",
+          "image_sha256": "7673709974078b56074dd6fc9590278a53a014427e9042fd75ab9a4bc491b2f9",
+          "file_title": "File:PIH 1876 Scots Pine (Pinus sylvestris) E-tree graft clone in R\u00f6ykk\u00e4 Finland.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:PIH_1876_Scots_Pine_%28Pinus_sylvestris%29_E-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg"
+        }
       }
     },
     {
@@ -150,6 +581,80 @@
         "C1": "English oak",
         "C2": "Scots pine",
         "C3": "White willow"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Silver birch",
+          "image_path": "assets/tree_species/sources/silver-birch-02.jpg",
+          "image_sha256": "0a7e2495d272e749d6518ee57a9481fb8d9e3fd1f94aee187f9ffb87215ba2cb",
+          "file_title": "File:Betula alleghaniensis 000 2333 3466.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Betula_alleghaniensis_000_2333_3466.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "White willow",
+          "image_path": "assets/tree_species/sources/white-willow-02.jpg",
+          "image_sha256": "82813e681adf3689554ee74a00e77f2b793d8490ee1b0c325777164ffbcb2eb1",
+          "file_title": "File:Haabersti h\u00f5beremmelgas, white willow in Haabersti, Tallinn (Salix alba) 04.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_04.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Japanese maple",
+          "image_path": "assets/tree_species/sources/japanese-maple-02.jpg",
+          "image_sha256": "71aeb1f76a81c19db37e448d4f1ee45a25aced7acc6c1e06a278e9bb9a20bbe2",
+          "file_title": "File:2013-05-05 13 37 57 Escaped Acer palmatum along the Long Path in Palisades Interstate Park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2013-05-05_13_37_57_Escaped_Acer_palmatum_along_the_Long_Path_in_Palisades_Interstate_Park.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Scots pine",
+          "image_path": "assets/tree_species/sources/scots-pine-03.jpg",
+          "image_sha256": "0064618005ccc6c2c3cc2e18c00372cf9db266269c59064c78b987c12f076999",
+          "file_title": "File:PIH 1828 Scots Pine (Pinus sylvestris) V-tree graft clone in R\u00f6ykk\u00e4 Finland.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:PIH_1828_Scots_Pine_%28Pinus_sylvestris%29_V-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "White willow",
+          "image_path": "assets/tree_species/sources/white-willow-03.jpg",
+          "image_sha256": "69d7b47c6ac0d110672a52d86447c01256c572da1001992d49eecc4e02a30217",
+          "file_title": "File:Haabersti h\u00f5beremmelgas, white willow in Haabersti, Tallinn (Salix alba) 05.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_05.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "African baobab",
+          "image_path": "assets/tree_species/sources/african-baobab-02.jpg",
+          "image_sha256": "9249181154f863530f632492ddb3c675d87b931b5a22e3e5d4750a1cc180e2d1",
+          "file_title": "File:Baobab Tree Graphic.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Baobab_Tree_Graphic.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "English oak",
+          "image_path": "assets/tree_species/sources/english-oak-04.jpg",
+          "image_sha256": "eb637fe0244c616b9b8aab1c1cbb90f2bdafde285ac4964a032a75ffb57d5b1e",
+          "file_title": "File:Oak tree, Barnston.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Oak_tree%2C_Barnston.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Scots pine",
+          "image_path": "assets/tree_species/sources/scots-pine-04.jpg",
+          "image_sha256": "c18a145f1903bcc1cc0f64f266a642a9c7cd8d4118e6666f80222dd221c9b801",
+          "file_title": "File:PIH 1886 Scots Pine (Pinus sylvestris) V-tree graft clone in R\u00f6ykk\u00e4 Finland.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:PIH_1886_Scots_Pine_%28Pinus_sylvestris%29_V-tree_graft_clone_in_R%C3%B6ykk%C3%A4_Finland.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "White willow",
+          "image_path": "assets/tree_species/sources/white-willow-04.jpg",
+          "image_sha256": "6fffd0b3a3f9deb521740d42c8981a86de7c1664715736c185f93113f44e4841",
+          "file_title": "File:Haabersti h\u00f5beremmelgas, white willow in Haabersti, Tallinn (Salix alba) 06.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_06.jpg"
+        }
       }
     },
     {
@@ -172,6 +677,80 @@
         "C1": "White willow",
         "C2": "African baobab",
         "C3": "Silver birch"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "African baobab",
+          "image_path": "assets/tree_species/sources/african-baobab-03.jpg",
+          "image_sha256": "d55906f7a33c3c54e52161090123bac00cbaade118f48f43f1d847fd86df1a0c",
+          "file_title": "File:Baobab Tree-001.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Baobab_Tree-001.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "English oak",
+          "image_path": "assets/tree_species/sources/english-oak-05.jpg",
+          "image_sha256": "dac61f4cd215ba2d89657bef33ed136764d0fbb93b89118f5e750924d15824e4",
+          "file_title": "File:Oak Tree Place - Oak Tree Walk - geograph.org.uk - 3836637.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Oak_Tree_Place_-_Oak_Tree_Walk_-_geograph.org.uk_-_3836637.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Silver birch",
+          "image_path": "assets/tree_species/sources/silver-birch-03.jpg",
+          "image_sha256": "5a25b6b39fa50f141c9041315f4efb4f243c114f09bc3af3c3a54a4406799e80",
+          "file_title": "File:Betula alleghaniensis 15-p.bot-bet.alleg-005.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Betula_alleghaniensis_15-p.bot-bet.alleg-005.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Scots pine",
+          "image_path": "assets/tree_species/sources/scots-pine-05.jpg",
+          "image_sha256": "c19370fc6c9f1f288018a363bb1adbbf08e9bf965eb8f2a13069eaabd6fb95de",
+          "file_title": "File:PIH 1957 Scots Pine (Pinus sylvestris) P-tree graft clone in Haapastensyrj\u00e4 Finland.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:PIH_1957_Scots_Pine_%28Pinus_sylvestris%29_P-tree_graft_clone_in_Haapastensyrj%C3%A4_Finland.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Japanese maple",
+          "image_path": "assets/tree_species/sources/japanese-maple-03.jpg",
+          "image_sha256": "f2d5052e60068a61df5b3c646e4e315fbc33e32e5637d7c2579093c56398d7c3",
+          "file_title": "File:2013-05-05 13 45 39 More escaped Acer palmatum along the Long Path in Palisades Interstate Park.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2013-05-05_13_45_39_More_escaped_Acer_palmatum_along_the_Long_Path_in_Palisades_Interstate_Park.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "African baobab",
+          "image_path": "assets/tree_species/sources/african-baobab-04.jpg",
+          "image_sha256": "f25d7ac926f707fcfb082cd35279a8d6a3ca19a06599adeaa4b75bac0c3ffa39",
+          "file_title": "File:African baobab in Lake Manyara NP.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:African_baobab_in_Lake_Manyara_NP.jpg"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "White willow",
+          "image_path": "assets/tree_species/sources/white-willow-05.jpg",
+          "image_sha256": "26b814fb180202375935171f1418fe13630709fc885bf4cf1ec53d221b29393c",
+          "file_title": "File:Haabersti h\u00f5beremmelgas, white willow in Haabersti, Tallinn (Salix alba) 02.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haabersti_h%C3%B5beremmelgas%2C_white_willow_in_Haabersti%2C_Tallinn_%28Salix_alba%29_02.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "African baobab",
+          "image_path": "assets/tree_species/sources/african-baobab-05.jpg",
+          "image_sha256": "c38411d51b54d50dcdd351a9e6e08496eecdc9aa7a8da68be3be214ba77e72ee",
+          "file_title": "File:Baobab (Adansonia digitata), parque nacional de Tarangire, Tanzania, 2024-05-24, DD 78.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Baobab_%28Adansonia_digitata%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_78.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Silver birch",
+          "image_path": "assets/tree_species/sources/silver-birch-04.jpg",
+          "image_sha256": "45777b83edcb350da5271c5be6cba234be0e6156d1fade2a7e6e89c823824f66",
+          "file_title": "File:Betula alleghaniensis 008.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Betula_alleghaniensis_008.jpg"
+        }
       }
     }
   ]

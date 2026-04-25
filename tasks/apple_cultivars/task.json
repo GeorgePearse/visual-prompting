@@ -7,104 +7,461 @@
     {
       "label": "Granny Smith",
       "wikipedia_article": "Granny Smith",
-      "image_path": "assets/apple_cultivars/sources/granny-smith.jpg",
-      "image_sha256": "cbfb9ce76f32d936a9c923dbcaf659c4238710d8a77a7156c1aee762bbadd5d6",
-      "file_title": "File:Granny_smith_and_cross_section.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Granny_smith_and_cross_section.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Granny_smith_and_cross_section.jpg/960px-Granny_smith_and_cross_section.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Granny_smith_and_cross_section.jpg",
-      "mime": "image/jpeg",
-      "width": 1931,
-      "height": 1075,
-      "license_short_name": "GFDL 1.2",
-      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
-      "artist": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
-      "credit": "Own work"
+      "commons_category": "Granny Smith apples",
+      "commons_search": "Granny Smith apple",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/apple_cultivars/sources/granny-smith-01.jpg",
+          "image_sha256": "9c3e809a60fd28f94df425e69f3bbfc5d92900ca16ecaab66ee014e1b51c03e0",
+          "file_title": "File:Granny smith and cross section.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Granny_smith_and_cross_section.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Granny_smith_and_cross_section.jpg/500px-Granny_smith_and_cross_section.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Granny_smith_and_cross_section.jpg",
+          "mime": "image/jpeg",
+          "width": 1931,
+          "height": 1075,
+          "license_short_name": "GFDL 1.2",
+          "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+          "artist": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/granny-smith-02.jpg",
+          "image_sha256": "d637d61d74a3717e910a5fe37a21c2a229ee2ab02f337f8b2dd07a1d59d30736",
+          "file_title": "File:Golden Delicious, SweeTango, Granny Smith, and Gala apples 3.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_3.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_3.JPG/500px-Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_3.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_3.JPG",
+          "mime": "image/jpeg",
+          "width": 7360,
+          "height": 4912,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Dllu",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/granny-smith-03.jpg",
+          "image_sha256": "62e974267f2c379ae5269d614ea240aaa1807e8e2cf293943077b6b3ff925d4a",
+          "file_title": "File:Granny Smith Apples.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Granny_Smith_Apples.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Granny_Smith_Apples.jpg/500px-Granny_Smith_Apples.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Granny_Smith_Apples.jpg",
+          "mime": "image/jpeg",
+          "width": 1672,
+          "height": 1200,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "artist": "",
+          "credit": ""
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/granny-smith-04.jpg",
+          "image_sha256": "844d23e1bfed5af2399ac3c60c4074529d926914a5ee6c3d44ac85cef1edb280",
+          "file_title": "File:Cross section of Granny Smith (LA 73A), National Fruit Collection (acc. 1976-145).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cross_section_of_Granny_Smith_%28LA_73A%29%2C_National_Fruit_Collection_%28acc._1976-145%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cross_section_of_Granny_Smith_%28LA_73A%29%2C_National_Fruit_Collection_%28acc._1976-145%29.jpg/500px-Cross_section_of_Granny_Smith_%28LA_73A%29%2C_National_Fruit_Collection_%28acc._1976-145%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Cross_section_of_Granny_Smith_%28LA_73A%29%2C_National_Fruit_Collection_%28acc._1976-145%29.jpg",
+          "mime": "image/jpeg",
+          "width": 640,
+          "height": 480,
+          "license_short_name": "OGL 2",
+          "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2",
+          "artist": "National Fruit Collection, Brogdale .",
+          "credit": "http://www.nationalfruitcollection.org.uk/full2.php?varid=2439&&acc=1976145&&fruit=apple"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/granny-smith-05.jpg",
+          "image_sha256": "a092de3c398059f3c1e2c622833f745c596981ac301f03a483a794f2e7bc0326",
+          "file_title": "File:Granny Smith apples.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Granny_Smith_apples.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Granny_Smith_apples.jpg/500px-Granny_Smith_apples.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Granny_Smith_apples.jpg",
+          "mime": "image/jpeg",
+          "width": 2428,
+          "height": 3023,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "OKJaguar",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Red Delicious",
       "wikipedia_article": "Red Delicious",
-      "image_path": "assets/apple_cultivars/sources/red-delicious.jpg",
-      "image_sha256": "af65d3d443465985d68e29d1fa5d1eeff98c2770010a960397ff23b43ef66654",
-      "file_title": "File:Red_delicious_and_cross_section.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Red_delicious_and_cross_section.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Red_delicious_and_cross_section.jpg/960px-Red_delicious_and_cross_section.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Red_delicious_and_cross_section.jpg",
-      "mime": "image/jpeg",
-      "width": 2757,
-      "height": 1000,
-      "license_short_name": "GFDL 1.2",
-      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
-      "artist": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
-      "credit": "Own work"
+      "commons_category": "Red Delicious",
+      "commons_search": "Red Delicious apple",
+      "image_count": 4,
+      "images": [
+        {
+          "image_path": "assets/apple_cultivars/sources/red-delicious-01.jpg",
+          "image_sha256": "f09dfb271010bb7a136d379efcff58fc030d0c3d1c391baf1689a111f4b847e0",
+          "file_title": "File:Red Delicious Apple 2021.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Red_Delicious_Apple_2021.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Red_Delicious_Apple_2021.jpg/500px-Red_Delicious_Apple_2021.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Red_Delicious_Apple_2021.jpg",
+          "mime": "image/jpeg",
+          "width": 6566,
+          "height": 6334,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Commonists",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/red-delicious-02.jpg",
+          "image_sha256": "e156e9be911e1a27c944bbb6f20e1bd97459de7b50d96de712adf2767dbf5ae0",
+          "file_title": "File:Red Delicious Apple Mexico.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Red_Delicious_Apple_Mexico.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Red_Delicious_Apple_Mexico.jpg/500px-Red_Delicious_Apple_Mexico.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Red_Delicious_Apple_Mexico.jpg",
+          "mime": "image/jpeg",
+          "width": 2905,
+          "height": 2264,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "Doggo19292",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/red-delicious-03.jpg",
+          "image_sha256": "27abe5a18c3ba76352a0d43f75e058ef67271a5fb1f638aad037d4e43510cef9",
+          "file_title": "File:Australian Red delicious apples at the store.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Australian_Red_delicious_apples_at_the_store.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Australian_Red_delicious_apples_at_the_store.jpg/500px-Australian_Red_delicious_apples_at_the_store.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Australian_Red_delicious_apples_at_the_store.jpg",
+          "mime": "image/jpeg",
+          "width": 4160,
+          "height": 3120,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Maksym Kozlenko",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/red-delicious-04.jpg",
+          "image_sha256": "4348d1f6c998e0745c95e973affff6f14bae2cc3398f3a312448a642b46ce794",
+          "file_title": "File:Red Delicious apple.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Red_Delicious_apple.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Red_Delicious_apple.jpg/500px-Red_Delicious_apple.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Red_Delicious_apple.jpg",
+          "mime": "image/jpeg",
+          "width": 2048,
+          "height": 1536,
+          "license_short_name": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "artist": "MYRONE D",
+          "credit": "originally posted to Flickr as How you like dem apples"
+        }
+      ]
     },
     {
       "label": "Golden Delicious",
       "wikipedia_article": "Golden Delicious",
-      "image_path": "assets/apple_cultivars/sources/golden-delicious.jpg",
-      "image_sha256": "709da1cd32457da8291ce493f2f02961e919f226f0460399a8f54d0feec94a63",
-      "file_title": "File:Golden_Delicious_apples.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious_apples.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Delicious_apples.jpg/960px-Golden_Delicious_apples.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Golden_Delicious_apples.jpg",
-      "mime": "image/jpeg",
-      "width": 6000,
-      "height": 4000,
-      "license_short_name": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Ivar Leidus",
-      "credit": "Own work"
+      "commons_category": "Golden Delicious",
+      "commons_search": "Golden Delicious apple",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/apple_cultivars/sources/golden-delicious-01.jpg",
+          "image_sha256": "b17605e68cbd6975385df9e52e7b504ab4b02495f964c320c69947154ca07c40",
+          "file_title": "File:Golden Delicious Apple Seed.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious_Apple_Seed.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Golden_Delicious_Apple_Seed.JPG/500px-Golden_Delicious_Apple_Seed.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Golden_Delicious_Apple_Seed.JPG",
+          "mime": "image/jpeg",
+          "width": 4000,
+          "height": 2248,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Googoo85",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/golden-delicious-02.jpg",
+          "image_sha256": "9433a3dc5bec47f7cb3a5dbcf20f99c4d775733dbf2745e1646ab67921f929e8",
+          "file_title": "File:Cross section of Doud Golden Delicious (NY), National Fruit Collection (acc. 1974-054).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cross_section_of_Doud_Golden_Delicious_%28NY%29%2C_National_Fruit_Collection_%28acc._1974-054%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Cross_section_of_Doud_Golden_Delicious_%28NY%29%2C_National_Fruit_Collection_%28acc._1974-054%29.jpg/500px-Cross_section_of_Doud_Golden_Delicious_%28NY%29%2C_National_Fruit_Collection_%28acc._1974-054%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Cross_section_of_Doud_Golden_Delicious_%28NY%29%2C_National_Fruit_Collection_%28acc._1974-054%29.jpg",
+          "mime": "image/jpeg",
+          "width": 640,
+          "height": 480,
+          "license_short_name": "OGL 2",
+          "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2",
+          "artist": "National Fruit Collection, Brogdale .",
+          "credit": "http://www.nationalfruitcollection.org.uk/full2.php?varid=1638&&acc=1974054&&fruit=apple"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/golden-delicious-03.jpg",
+          "image_sha256": "747d4ca0872eb70942ea1f29e2f5cb037d4588c33b30aac7784757e75c24765b",
+          "file_title": "File:Golden Delicious 2.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious_2.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Golden_Delicious_2.jpg/500px-Golden_Delicious_2.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Golden_Delicious_2.jpg",
+          "mime": "image/jpeg",
+          "width": 3840,
+          "height": 2160,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Salah Almhamdi",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/golden-delicious-04.jpg",
+          "image_sha256": "6e865561956f8ba5969d2c2b2cf8b0bf1bbf38ec840baf7cd13ebbb08279e89c",
+          "file_title": "File:AppleTreeGoldenDeliciousVariety.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:AppleTreeGoldenDeliciousVariety.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/AppleTreeGoldenDeliciousVariety.jpg/500px-AppleTreeGoldenDeliciousVariety.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/AppleTreeGoldenDeliciousVariety.jpg",
+          "mime": "image/jpeg",
+          "width": 1464,
+          "height": 1464,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Spirtu",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/golden-delicious-05.jpg",
+          "image_sha256": "6e16f3d5b49deee872454407e03e644cec97ddac53c4fd89d3465011b1ff7f7c",
+          "file_title": "File:Golden Delicious, SweeTango, Granny Smith, and Gala apples 4.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_4.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_4.JPG/500px-Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_4.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_4.JPG",
+          "mime": "image/jpeg",
+          "width": 7360,
+          "height": 4912,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Dllu",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Pink Lady",
       "wikipedia_article": "Cripps Pink",
-      "image_path": "assets/apple_cultivars/sources/pink-lady.jpg",
-      "image_sha256": "ecafb23e6b36830f833e06f944851e7e1b09969e6a0f541bfbbad85c55c9fa83",
-      "file_title": "File:Pink_lady_and_cross_section.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pink_lady_and_cross_section.jpg/960px-Pink_lady_and_cross_section.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pink_lady_and_cross_section.jpg",
-      "mime": "image/jpeg",
-      "width": 2800,
-      "height": 950,
-      "license_short_name": "GFDL 1.2",
-      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
-      "artist": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
-      "credit": "Own work"
+      "commons_category": "Cripps Pink",
+      "commons_search": "Pink Lady apple",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/apple_cultivars/sources/pink-lady-01.jpg",
+          "image_sha256": "0e34b3c361080f394d87316fc0eb483f5c28cdc46b2751abb8c6e3920504abee",
+          "file_title": "File:Pink lady and cross section.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pink_lady_and_cross_section.jpg/500px-Pink_lady_and_cross_section.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pink_lady_and_cross_section.jpg",
+          "mime": "image/jpeg",
+          "width": 2800,
+          "height": 950,
+          "license_short_name": "GFDL 1.2",
+          "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+          "artist": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/pink-lady-02.jpg",
+          "image_sha256": "22aaabb6daabda642501d030a1b14ca8939b6c1beb56895351c7f8f42cc9c5a3",
+          "file_title": "File:Apple Pink Lady.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Apple_Pink_Lady.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Apple_Pink_Lady.jpg/500px-Apple_Pink_Lady.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Apple_Pink_Lady.jpg",
+          "mime": "image/jpeg",
+          "width": 4380,
+          "height": 2920,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Krzysztof Golik",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/pink-lady-03.jpg",
+          "image_sha256": "316a840f6ba16b642dad6018baf5d878ed17252405f13e0344d9f0de97b9cea5",
+          "file_title": "File:PinkLadyApples.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:PinkLadyApples.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/PinkLadyApples.JPG/500px-PinkLadyApples.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/PinkLadyApples.JPG",
+          "mime": "image/jpeg",
+          "width": 3517,
+          "height": 1834,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Toby Hudson",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/pink-lady-04.jpg",
+          "image_sha256": "d5e4d884db04bcaa8ac7e9d2118e263133b11bd330ed28f216d55465528f826f",
+          "file_title": "File:Pink Lady Apple IMG 1451.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pink_Lady_Apple_IMG_1451.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pink_Lady_Apple_IMG_1451.JPG/500px-Pink_Lady_Apple_IMG_1451.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pink_Lady_Apple_IMG_1451.JPG",
+          "mime": "image/jpeg",
+          "width": 1527,
+          "height": 1062,
+          "license_short_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Hans Haase",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/pink-lady-05.jpg",
+          "image_sha256": "74a6a41ba569caa5f33e129b5ce0d839ae15741237b7e81b0816566b0f661204",
+          "file_title": "File:Pink Lady Apple (4107712628).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pink_Lady_Apple_%284107712628%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pink_Lady_Apple_%284107712628%29.jpg/500px-Pink_Lady_Apple_%284107712628%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pink_Lady_Apple_%284107712628%29.jpg",
+          "mime": "image/jpeg",
+          "width": 2848,
+          "height": 2848,
+          "license_short_name": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "artist": "Veganbaking.net from USA",
+          "credit": "Pink Lady Apple"
+        }
+      ]
     },
     {
       "label": "Gala",
       "wikipedia_article": "Gala (apple)",
-      "image_path": "assets/apple_cultivars/sources/gala.jpg",
-      "image_sha256": "0e53e0cc9ce7384af4c7dfc87d073626e3fc53865f51035cc0eab20bc5dff69f",
-      "file_title": "File:Gala_apples_on_cloth.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Gala_apples_on_cloth.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gala_apples_on_cloth.jpg/960px-Gala_apples_on_cloth.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gala_apples_on_cloth.jpg",
-      "mime": "image/jpeg",
-      "width": 4000,
-      "height": 3000,
-      "license_short_name": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Nerd271",
-      "credit": "Own work"
+      "commons_category": "Gala (apple)",
+      "commons_search": "Gala apple cultivar",
+      "image_count": 3,
+      "images": [
+        {
+          "image_path": "assets/apple_cultivars/sources/gala-01.jpg",
+          "image_sha256": "ce03745f8865c78f6b71648060232b435d95c984318a3b43445e339bfc8f0a9c",
+          "file_title": "File:Golden Delicious, SweeTango, Granny Smith, and Gala apples 1.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_1.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_1.JPG/500px-Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_1.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_1.JPG",
+          "mime": "image/jpeg",
+          "width": 7360,
+          "height": 4912,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Dllu",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/gala-02.jpg",
+          "image_sha256": "3ba58c9dfa217fec05d72711e2052b40db07423a1398f42c3933725d6a3308f3",
+          "file_title": "File:Golden Delicious, SweeTango, Granny Smith, and Gala apples 2.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_2.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_2.JPG/500px-Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_2.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_2.JPG",
+          "mime": "image/jpeg",
+          "width": 7360,
+          "height": 4912,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Dllu",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/gala-03.jpg",
+          "image_sha256": "555ebca7f35b0b78cdb35ac408f2380808f2b2e4264e8abf56d0965d73f33913",
+          "file_title": "File:Golden Delicious, SweeTango, Granny Smith, and Gala apples 6.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_6.JPG",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_6.JPG/500px-Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_6.JPG",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_6.JPG",
+          "mime": "image/jpeg",
+          "width": 7360,
+          "height": 4912,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Dllu",
+          "credit": "Own work"
+        }
+      ]
     },
     {
       "label": "Fuji",
       "wikipedia_article": "Fuji (apple)",
-      "image_path": "assets/apple_cultivars/sources/fuji.jpg",
-      "image_sha256": "ad0297ce559a18ee8d87f22bed63178da6c0498bf048a128d1dd097df1f5ef26",
-      "file_title": "File:Apfel-Fuji.jpg",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Apfel-Fuji.jpg",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Apfel-Fuji.jpg/960px-Apfel-Fuji.jpg",
-      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Apfel-Fuji.jpg",
-      "mime": "image/jpeg",
-      "width": 2000,
-      "height": 2000,
-      "license_short_name": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Superbass",
-      "credit": "Own work"
+      "commons_category": "Fuji (apple)",
+      "commons_search": "Fuji apple cultivar",
+      "image_count": 5,
+      "images": [
+        {
+          "image_path": "assets/apple_cultivars/sources/fuji-01.jpg",
+          "image_sha256": "7a628cbbafa925fcb7f4b7d0aac239b8bdd2709e81449e00a01ff4408de852f6",
+          "file_title": "File:Apfel-Fuji.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Apfel-Fuji.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Apfel-Fuji.jpg/500px-Apfel-Fuji.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Apfel-Fuji.jpg",
+          "mime": "image/jpeg",
+          "width": 2000,
+          "height": 2000,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Superbass",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/fuji-02.jpg",
+          "image_sha256": "ef1118687c08fa3b20eda45bb193eb3d8190f7e29709c5fcb8fca0548c5454ed",
+          "file_title": "File:Cross section of New Fuji, National Fruit Collection (acc. 2000-014).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cross_section_of_New_Fuji%2C_National_Fruit_Collection_%28acc._2000-014%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cross_section_of_New_Fuji%2C_National_Fruit_Collection_%28acc._2000-014%29.jpg/500px-Cross_section_of_New_Fuji%2C_National_Fruit_Collection_%28acc._2000-014%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Cross_section_of_New_Fuji%2C_National_Fruit_Collection_%28acc._2000-014%29.jpg",
+          "mime": "image/jpeg",
+          "width": 640,
+          "height": 480,
+          "license_short_name": "OGL 2",
+          "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2",
+          "artist": "National Fruit Collection, Brogdale .",
+          "credit": "http://www.nationalfruitcollection.org.uk/full2.php?varid=4196&&acc=2000014&&fruit=apple"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/fuji-03.jpg",
+          "image_sha256": "e33edd87be0ce115a47fa24865515d938386b6150b50143590c3f5e24f8c7f42",
+          "file_title": "File:Cross section of Fuji, National Fruit Collection (acc. 1963-019).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cross_section_of_Fuji%2C_National_Fruit_Collection_%28acc._1963-019%29.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cross_section_of_Fuji%2C_National_Fruit_Collection_%28acc._1963-019%29.jpg/500px-Cross_section_of_Fuji%2C_National_Fruit_Collection_%28acc._1963-019%29.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cross_section_of_Fuji%2C_National_Fruit_Collection_%28acc._1963-019%29.jpg",
+          "mime": "image/jpeg",
+          "width": 640,
+          "height": 480,
+          "license_short_name": "OGL 2",
+          "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2",
+          "artist": "National Fruit Collection, Brogdale .",
+          "credit": "http://www.nationalfruitcollection.org.uk/full2.php?varid=2166&&acc=1963019&&fruit=apple"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/fuji-04.jpg",
+          "image_sha256": "5e0b447e31638d9f6a1f213e446154bb802a3cf0bde33075f8b0ab51de6a4afc",
+          "file_title": "File:Autumn glory apple cultivar.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Autumn_glory_apple_cultivar.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Autumn_glory_apple_cultivar.jpg/500px-Autumn_glory_apple_cultivar.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Autumn_glory_apple_cultivar.jpg",
+          "mime": "image/jpeg",
+          "width": 3044,
+          "height": 2017,
+          "license_short_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Relspas",
+          "credit": "Own work"
+        },
+        {
+          "image_path": "assets/apple_cultivars/sources/fuji-05.jpg",
+          "image_sha256": "062d17eb91cf0bf96c970de1969000384b28e97a0181ee2679fffbb7cec3ab7b",
+          "file_title": "File:Fuji 20101209.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Fuji_20101209.jpg",
+          "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Fuji_20101209.jpg/500px-Fuji_20101209.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Fuji_20101209.jpg",
+          "mime": "image/jpeg",
+          "width": 3072,
+          "height": 2304,
+          "license_short_name": "Public domain",
+          "license_url": "",
+          "artist": "Batholith",
+          "credit": "Own work"
+        }
+      ]
     }
   ],
   "test_cases": [
@@ -128,6 +485,80 @@
         "C1": "Fuji",
         "C2": "Granny Smith",
         "C3": "Golden Delicious"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Red Delicious",
+          "image_path": "assets/apple_cultivars/sources/red-delicious-01.jpg",
+          "image_sha256": "f09dfb271010bb7a136d379efcff58fc030d0c3d1c391baf1689a111f4b847e0",
+          "file_title": "File:Red Delicious Apple 2021.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Red_Delicious_Apple_2021.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Granny Smith",
+          "image_path": "assets/apple_cultivars/sources/granny-smith-01.jpg",
+          "image_sha256": "9c3e809a60fd28f94df425e69f3bbfc5d92900ca16ecaab66ee014e1b51c03e0",
+          "file_title": "File:Granny smith and cross section.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Granny_smith_and_cross_section.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Golden Delicious",
+          "image_path": "assets/apple_cultivars/sources/golden-delicious-01.jpg",
+          "image_sha256": "b17605e68cbd6975385df9e52e7b504ab4b02495f964c320c69947154ca07c40",
+          "file_title": "File:Golden Delicious Apple Seed.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious_Apple_Seed.JPG"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Granny Smith",
+          "image_path": "assets/apple_cultivars/sources/granny-smith-02.jpg",
+          "image_sha256": "d637d61d74a3717e910a5fe37a21c2a229ee2ab02f337f8b2dd07a1d59d30736",
+          "file_title": "File:Golden Delicious, SweeTango, Granny Smith, and Gala apples 3.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_3.JPG"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Pink Lady",
+          "image_path": "assets/apple_cultivars/sources/pink-lady-01.jpg",
+          "image_sha256": "0e34b3c361080f394d87316fc0eb483f5c28cdc46b2751abb8c6e3920504abee",
+          "file_title": "File:Pink lady and cross section.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Gala",
+          "image_path": "assets/apple_cultivars/sources/gala-01.jpg",
+          "image_sha256": "ce03745f8865c78f6b71648060232b435d95c984318a3b43445e339bfc8f0a9c",
+          "file_title": "File:Golden Delicious, SweeTango, Granny Smith, and Gala apples 1.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_1.JPG"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Fuji",
+          "image_path": "assets/apple_cultivars/sources/fuji-01.jpg",
+          "image_sha256": "7a628cbbafa925fcb7f4b7d0aac239b8bdd2709e81449e00a01ff4408de852f6",
+          "file_title": "File:Apfel-Fuji.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Apfel-Fuji.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Granny Smith",
+          "image_path": "assets/apple_cultivars/sources/granny-smith-03.jpg",
+          "image_sha256": "62e974267f2c379ae5269d614ea240aaa1807e8e2cf293943077b6b3ff925d4a",
+          "file_title": "File:Granny Smith Apples.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Granny_Smith_Apples.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Golden Delicious",
+          "image_path": "assets/apple_cultivars/sources/golden-delicious-02.jpg",
+          "image_sha256": "9433a3dc5bec47f7cb3a5dbcf20f99c4d775733dbf2745e1646ab67921f929e8",
+          "file_title": "File:Cross section of Doud Golden Delicious (NY), National Fruit Collection (acc. 1974-054).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cross_section_of_Doud_Golden_Delicious_%28NY%29%2C_National_Fruit_Collection_%28acc._1974-054%29.jpg"
+        }
       }
     },
     {
@@ -150,6 +581,80 @@
         "C1": "Granny Smith",
         "C2": "Golden Delicious",
         "C3": "Pink Lady"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Golden Delicious",
+          "image_path": "assets/apple_cultivars/sources/golden-delicious-03.jpg",
+          "image_sha256": "747d4ca0872eb70942ea1f29e2f5cb037d4588c33b30aac7784757e75c24765b",
+          "file_title": "File:Golden Delicious 2.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious_2.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Gala",
+          "image_path": "assets/apple_cultivars/sources/gala-02.jpg",
+          "image_sha256": "3ba58c9dfa217fec05d72711e2052b40db07423a1398f42c3933725d6a3308f3",
+          "file_title": "File:Golden Delicious, SweeTango, Granny Smith, and Gala apples 2.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_2.JPG"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Fuji",
+          "image_path": "assets/apple_cultivars/sources/fuji-02.jpg",
+          "image_sha256": "ef1118687c08fa3b20eda45bb193eb3d8190f7e29709c5fcb8fca0548c5454ed",
+          "file_title": "File:Cross section of New Fuji, National Fruit Collection (acc. 2000-014).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cross_section_of_New_Fuji%2C_National_Fruit_Collection_%28acc._2000-014%29.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Pink Lady",
+          "image_path": "assets/apple_cultivars/sources/pink-lady-02.jpg",
+          "image_sha256": "22aaabb6daabda642501d030a1b14ca8939b6c1beb56895351c7f8f42cc9c5a3",
+          "file_title": "File:Apple Pink Lady.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Apple_Pink_Lady.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Red Delicious",
+          "image_path": "assets/apple_cultivars/sources/red-delicious-02.jpg",
+          "image_sha256": "e156e9be911e1a27c944bbb6f20e1bd97459de7b50d96de712adf2767dbf5ae0",
+          "file_title": "File:Red Delicious Apple Mexico.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Red_Delicious_Apple_Mexico.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Pink Lady",
+          "image_path": "assets/apple_cultivars/sources/pink-lady-03.jpg",
+          "image_sha256": "316a840f6ba16b642dad6018baf5d878ed17252405f13e0344d9f0de97b9cea5",
+          "file_title": "File:PinkLadyApples.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:PinkLadyApples.JPG"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Granny Smith",
+          "image_path": "assets/apple_cultivars/sources/granny-smith-04.jpg",
+          "image_sha256": "844d23e1bfed5af2399ac3c60c4074529d926914a5ee6c3d44ac85cef1edb280",
+          "file_title": "File:Cross section of Granny Smith (LA 73A), National Fruit Collection (acc. 1976-145).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cross_section_of_Granny_Smith_%28LA_73A%29%2C_National_Fruit_Collection_%28acc._1976-145%29.jpg"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Golden Delicious",
+          "image_path": "assets/apple_cultivars/sources/golden-delicious-04.jpg",
+          "image_sha256": "6e865561956f8ba5969d2c2b2cf8b0bf1bbf38ec840baf7cd13ebbb08279e89c",
+          "file_title": "File:AppleTreeGoldenDeliciousVariety.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:AppleTreeGoldenDeliciousVariety.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Pink Lady",
+          "image_path": "assets/apple_cultivars/sources/pink-lady-04.jpg",
+          "image_sha256": "d5e4d884db04bcaa8ac7e9d2118e263133b11bd330ed28f216d55465528f826f",
+          "file_title": "File:Pink Lady Apple IMG 1451.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pink_Lady_Apple_IMG_1451.JPG"
+        }
       }
     },
     {
@@ -172,6 +677,80 @@
         "C1": "Gala",
         "C2": "Fuji",
         "C3": "Red Delicious"
+      },
+      "cell_images": {
+        "A1": {
+          "coordinate": "A1",
+          "label": "Fuji",
+          "image_path": "assets/apple_cultivars/sources/fuji-03.jpg",
+          "image_sha256": "e33edd87be0ce115a47fa24865515d938386b6150b50143590c3f5e24f8c7f42",
+          "file_title": "File:Cross section of Fuji, National Fruit Collection (acc. 1963-019).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cross_section_of_Fuji%2C_National_Fruit_Collection_%28acc._1963-019%29.jpg"
+        },
+        "A2": {
+          "coordinate": "A2",
+          "label": "Red Delicious",
+          "image_path": "assets/apple_cultivars/sources/red-delicious-03.jpg",
+          "image_sha256": "27abe5a18c3ba76352a0d43f75e058ef67271a5fb1f638aad037d4e43510cef9",
+          "file_title": "File:Australian Red delicious apples at the store.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Australian_Red_delicious_apples_at_the_store.jpg"
+        },
+        "A3": {
+          "coordinate": "A3",
+          "label": "Pink Lady",
+          "image_path": "assets/apple_cultivars/sources/pink-lady-05.jpg",
+          "image_sha256": "74a6a41ba569caa5f33e129b5ce0d839ae15741237b7e81b0816566b0f661204",
+          "file_title": "File:Pink Lady Apple (4107712628).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Pink_Lady_Apple_%284107712628%29.jpg"
+        },
+        "B1": {
+          "coordinate": "B1",
+          "label": "Granny Smith",
+          "image_path": "assets/apple_cultivars/sources/granny-smith-05.jpg",
+          "image_sha256": "a092de3c398059f3c1e2c622833f745c596981ac301f03a483a794f2e7bc0326",
+          "file_title": "File:Granny Smith apples.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Granny_Smith_apples.jpg"
+        },
+        "B2": {
+          "coordinate": "B2",
+          "label": "Fuji",
+          "image_path": "assets/apple_cultivars/sources/fuji-04.jpg",
+          "image_sha256": "5e0b447e31638d9f6a1f213e446154bb802a3cf0bde33075f8b0ab51de6a4afc",
+          "file_title": "File:Autumn glory apple cultivar.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Autumn_glory_apple_cultivar.jpg"
+        },
+        "B3": {
+          "coordinate": "B3",
+          "label": "Golden Delicious",
+          "image_path": "assets/apple_cultivars/sources/golden-delicious-05.jpg",
+          "image_sha256": "6e16f3d5b49deee872454407e03e644cec97ddac53c4fd89d3465011b1ff7f7c",
+          "file_title": "File:Golden Delicious, SweeTango, Granny Smith, and Gala apples 4.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_4.JPG"
+        },
+        "C1": {
+          "coordinate": "C1",
+          "label": "Gala",
+          "image_path": "assets/apple_cultivars/sources/gala-03.jpg",
+          "image_sha256": "555ebca7f35b0b78cdb35ac408f2380808f2b2e4264e8abf56d0965d73f33913",
+          "file_title": "File:Golden Delicious, SweeTango, Granny Smith, and Gala apples 6.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_6.JPG"
+        },
+        "C2": {
+          "coordinate": "C2",
+          "label": "Fuji",
+          "image_path": "assets/apple_cultivars/sources/fuji-05.jpg",
+          "image_sha256": "062d17eb91cf0bf96c970de1969000384b28e97a0181ee2679fffbb7cec3ab7b",
+          "file_title": "File:Fuji 20101209.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Fuji_20101209.jpg"
+        },
+        "C3": {
+          "coordinate": "C3",
+          "label": "Red Delicious",
+          "image_path": "assets/apple_cultivars/sources/red-delicious-04.jpg",
+          "image_sha256": "4348d1f6c998e0745c95e973affff6f14bae2cc3398f3a312448a642b46ce794",
+          "file_title": "File:Red Delicious apple.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Red_Delicious_apple.jpg"
+        }
       }
     }
   ]
