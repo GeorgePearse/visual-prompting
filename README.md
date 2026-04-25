@@ -42,3 +42,10 @@ credit line, and SHA-256 hash of the downloaded image.
 
 These files preserve the downloaded images and attribution metadata, but any
 reuse should still follow the license shown for each individual image.
+
+## Related Work
+
+- [Visual Prompting via Image Inpainting](https://github.com/amirbar/visual_prompting)
+  is a related visual prompting project for a different computer vision setting:
+  adapting pretrained visual models to downstream image-output tasks through
+  in-context visual examples.
